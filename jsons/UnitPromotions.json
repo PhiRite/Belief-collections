@@ -5,11 +5,13 @@
     },
     {
      "name": "True Faith",
-     "uniques": ["Instantly gain [25] [Faith] <upon being defeated>"]   
+     "uniques": ["Instantly gain [25] [Faith] <upon being defeated>",
+         "Heals [15] damage if it kills a unit", 
+         "All adjacent units heal [5] HP when healing"]   
     },
     {
      "name": "Corporeal",
-        "uniques": ["Invisible to non-adjacent units", "[-50]% strength <when defending>"]
+        "uniques": ["Invisible to non-adjacent units", "[-50]% strength <when defending>","[15]% strength <when attacking>"]
     },
     {
      "name": "Abyssal Grasp",
