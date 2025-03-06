@@ -1,0 +1,8 @@
+[
+  {
+    "name":"Ascetic",
+    "faith":4,
+    "greatPersonPoints": {"Great Prophet":4},
+    "color": [41,134,204]
+  }
+]
