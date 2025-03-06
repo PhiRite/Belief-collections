@@ -9,13 +9,9 @@
   {
         "name": "Holy Crusade",
         "type": "Follower",
-        "uniques": ["Earn [10]% of the damage done to [Land] units as [Faith]",
+        "uniques": ["Earn [15]% of the damage done to [Land] units as [Faith]",
                     "May buy [Melee] units with [Faith] for [2] times their normal Production cost",
-                    "Comment [All units gain +5% Strength for every 250 [Faith] stockpiled (up to +20%)]",
-                    "[+5]% Strength <when above [250] [Faith]> <hidden from users>",
-        					  "[+5]% Strength <when above [250] [Faith]> <hidden from users>",
-        					  "[+5]% Strength <when above [250] [Faith]> <hidden from users>",
-                    "[+5]% Strength <when above [250] [Faith]> <hidden from users>",
+                    "[[1]% strength <for every [50]> [Faith]]",
                     "Only Available <before adopting [Holy Warriors]>",
                     "Only Available <before adopting [Holy Warp Summons]>"]
   },
@@ -33,6 +29,8 @@
         "type": "Follower",
         "uniques": ["May buy [All] units with [Faith] [in all cities]",
                     "All newly-trained [Land] units [in all cities] receive the [Warp Corruption] promotion",
+                    "All newly-trained [{Melee} {Land}] units [in all cities recieve the [Abyssal Grasp] promotion]",
+                    "All newly-trained [{Ranged} {Land}] units [in all cities recieve the [Corporeal] promotion]",
                     "Only Available <before adopting [Holy Warriors]>",
                     "Only Available <before adopting [Holy Crusade]>"]
   },
