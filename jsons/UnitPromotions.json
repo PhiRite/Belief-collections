@@ -1,12 +1,20 @@
 [
     {
      "name": "Warp Corruption",
-     "uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "[-30]% Strength <when defending>"]
+     "uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "[-30]% Strength <when defending>", ""]
     },
     {
      "name": "True Faith",
      "uniques": ["Instantly gain [25] [Faith] <upon being defeated>"]   
     },
+    {
+     "name": "Corporeal",
+        "uniques": ["Invisible to non-adjacent units", "[-50]% strength <when defending>"]
+    },
+    {
+     "name": "Abyssal Grasp",
+     "uniques": ["[-5]% Strength for enemy [Wounded] units in adjacent [All] tiles"]
+    }
 
   
 ]
