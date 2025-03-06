@@ -1,9 +1,12 @@
 [
     {
      "name:" "Warp Corruption",
-     "uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "[-30]% Strength"],
-      
-    }
+     "uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "[-30]% Strength"]
+    },
+    {
+     "name:" "True Faith",
+     "uniques": ["Instantly gain [25] [Faith] <upon being defeated>"]   
+    },
 
   
 ]
