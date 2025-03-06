@@ -122,11 +122,6 @@
   "[+2 Gold, +2 Faith] from every [Incense]"]
     },
 {
-        "name": "King of Spirits",
-        "type": "Enhancer",
-        "uniques": ["May buy [Pura Agung] buildings with [Faith] [in cities following this religion]"]
-    },
-{
         "name": "Hesychasm",
         "type": "Follower",
         "uniques": ["[+25]% Natural religion spread [in cities following this religion] <when at war>", "[+2 Faith] [in all cities]"]
