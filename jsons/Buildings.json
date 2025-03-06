@@ -5,9 +5,9 @@
     "hurryCostModifier": 100,
     "faith": 5,
     "maintenance": 3,
-    "specialistSlots": {
+    /*"specialistSlots": {
       "Ascetic": 2
-    },
+    },*/
     "uniques": ["Destroyed when the city is captured","Hidden when religion is disabled"]
   }
   
