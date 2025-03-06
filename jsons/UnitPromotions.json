@@ -15,7 +15,7 @@
      "name": "Corporeal",
         "uniques": ["Invisible to non-adjacent units", 
                     "[-50]% Strength <when defending>",
-                    "[15]% Strength <when attacking>"]
+                    "Withdraws before melee combat <with [40]% chance>"]
     },
     {
      "name": "Abyssal Grasp",
