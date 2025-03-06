@@ -106,29 +106,29 @@
     },
 {
         "name": "Jihad",
-        "type": "Follower"
+        "type": "Follower",
         "uniques": ["[+25]% Production when constructing [All] units [in cities following this religion]"]
     },
 {
         "name": "Ritual Combat",
-        "type": "Founder"
+        "type": "Founder",
         "uniques": ["[+20]% Strength for cities <in cities with at least [3] [Followers of this Religion]>",
   "[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
     },
 {
         "name": "Sesajen",
-        "type": "Follower"
+        "type": "Follower",
         "uniques": ["[+1 Food, +1 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>", 
   "[+2 Gold, +2 Faith] from every [Incense]"]
     },
 {
         "name": "King of Spirits",
-        "type": "Enhancer"
+        "type": "Enhancer",
         "uniques": ["May buy [Pura Agung] buildings with [Faith] [in cities following this religion]"]
     },
 {
         "name": "Hesychasm",
-        "type": "Follower"
+        "type": "Follower",
         "uniques": ["[+25]% Natural religion spread [in cities following this religion] <when at war>", "[+2 Faith] [in all cities]"]
     },
 {
@@ -213,29 +213,29 @@
     },
 {
         "name": "Ramadan",
-        "type": "Follower"
+        "type": "Follower",
         "uniques": ["[+1 Gold, +1 Food, +1 Faith] per [4] population [in all cities]"]
     },
 {
         "name": "Fasting Calendar",
-        "type": "Follower"
+        "type": "Follower",
         "uniques": ["[+1 Food, +2 Production] per [3] population [in all cities]"]
     },
 {
         "name": "Work Ethic",
-        "type": "Enhancer"
+        "type": "Enhancer",
         "uniques": ["[+2 Production, +1 Gold] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>",
   "May buy [Worker] units with [Faith] for [2] times their normal Production cost <in cities with at least [5] [Followers of this Religion]>"]
     },
 {
         "name": "Ritual Sacrifice",
-        "type": "Follower"
+        "type": "Follower",
         "uniques": ["Earn [70]% of [Military] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion",
   "Earn [30]% of [Military] unit's [Strength] as [Gold] when killed within 4 tiles of a city following this religion"]
     },
 {
         "name": "Kabbalah",
-        "type": "Enhancer"
+        "type": "Enhancer",
         "uniques": ["[+1 Happiness, +2 Science] from every [Synagogue]","[+1 Faith] per [4] population [in all cities]"]
     },
 {
