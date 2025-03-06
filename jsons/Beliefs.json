@@ -9,9 +9,9 @@
   {
         "name": "Holy Crusade",
         "type": "Follower",
-        "uniques": ["Earn [15]% of the damage done to [Land] units as [Faith]",
+        "uniques": [
                     "May buy [Melee] units with [Faith] for [2] times their normal Production cost",
-                    "[[1]% strength <for every [50]> [Faith]]",
+                    "All newly-trained [Military] units [in all cities] receive the [Unending Crusade] promotion",
                     "Only Available <before adopting [Holy Warriors]>",
                     "Only Available <before adopting [Holy Warp Summons]>"]
   },
@@ -19,7 +19,6 @@
         "name": "Holy Warriors",
         "type": "Follower",
         "uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost",
-                    "[+50]% XP gained from combat",
                     "All newly-trained [Military] units [in all cities] receive the [True Faith] promotion",
                     "Only Available <before adopting [Holy Crusade]>",
                     "Only Available <before adopting [Warp Summons]>"]
