@@ -36,7 +36,7 @@
     },
     {
      "name": "Abyssal Grasp",
-     "uniques": ["[-10]% Strength for enemy [All] units in adjacent [All] tiles",
+     "uniques": ["[-10]% Strength for enemy [Wounded] units in adjacent [All] tiles",
                  "[-5]% Strength for enemy [All] units in adjacent [All] tiles",
                 ]
     },
