@@ -27,10 +27,10 @@
         "name": "Warp Summons",
         "type": "Follower",
         "uniques": ["May buy [Military] units with [Faith] for [1] times their normal Production cost",
-                    "[-20]% maintenance costs",
+                    
                     "All newly-trained [Land] units [in your cities] receive the [Warp Corruption] promotion",
-                    "All newly-trained [{Melee} {Land}] units [in your cities] recieve the [Abyssal Grasp] promotion]",
-                    "All newly-trained [{Ranged} {Land}] units [in your cities] recieve the [Corporeal] promotion]",
+                    "All newly-trained [Melee] units [in your cities] recieve the [Abyssal Grasp] promotion]",
+                    "All newly-trained [Ranged] units [in your cities] recieve the [Corporeal] promotion]",
                     "Only Available <before adopting [Holy Warriors]>",
                     "Only Available <before adopting [Holy Crusade]>"]
   },
