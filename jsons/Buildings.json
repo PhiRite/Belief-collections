@@ -8,7 +8,7 @@
     "specialistSlots": {
       "Ascetic": 2
     },
-    "uniques": ["Destroyed when the city is captured","Only available <When religion is enabled>"]
+    "uniques": ["Destroyed when the city is captured","Only available <when religion is enabled>"]
   }
   
 ]
