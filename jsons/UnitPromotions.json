@@ -6,6 +6,7 @@
                  "[-20]% maintenance costs",
                  "[+10]% to Flank Attack bonuses",
                  "Can move immediately once bought",
+	     	 "[This Unit] gains [2] movement",
                  "[15]% Strength <when attacking>",
                  "[-30]% Strength <when defending>"]
     },
