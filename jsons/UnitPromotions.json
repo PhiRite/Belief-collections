@@ -25,7 +25,7 @@
     {
      "name": "Broken Shield",
      "uniques":
-		"uniques": ["Comment [Mana Shield is on cooldown.]"
+		"uniques": [["Comment [Holy Shield is on cooldown.]"
 					"Holy Shield CD"]
     },
     {
