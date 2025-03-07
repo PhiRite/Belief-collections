@@ -26,7 +26,7 @@
   {
         "name": "Warp Summons",
         "type": "Follower",
-        "uniques": ["May buy [Military] units with [Faith] for [1] times their normal Production cost",
+        "uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost",
                     
                     "All newly-trained [Land] units [in all cities] receive the [Warp Corruption] promotion",
                     "All newly-trained [Melee] units [in all cities] receive the [Abyssal Grasp] promotion",
