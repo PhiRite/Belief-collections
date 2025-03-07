@@ -20,7 +20,7 @@
     {
      "name": "Holy Shield",
      "uniques": ["Comment [Block the next Ranged attack. Cooldown: 4 turns.]",
-				 "[+1000]% Strength <when defending> <vs [Ranged] units> <for units without [Broken Shield]> <hidden from users>"]
+		"[+1000]% Strength <when defending> <vs [Ranged] units> <for units without [Broken Shield]> <hidden from users>"]
     },
     {
      "name": "Corporeal",
@@ -37,7 +37,7 @@
     {
      "name": "Unending Crusade",
      "uniques": ["Earn [15]% of the damage done to [Land] units as [Faith]",
-                 "[+1]% Strength <for every [75] [Faith]>"]
+                 "[+1]% Strength <for every [50] [Faith]>"]
     }
 
   
