@@ -23,6 +23,12 @@
 		"[+1000]% Strength <when defending> <vs [Ranged] units> <for units without [Broken Shield]> <hidden from users>"]
     },
     {
+     "name": "Broken Shield",
+     "uniques":
+		"uniques": ["Comment [Mana Shield is on cooldown.]"
+					"Holy Shield CD"]
+    },
+    {
      "name": "Corporeal",
      "uniques": ["Invisible to non-adjacent units", 
                  "[-50]% Strength <when defending>",
