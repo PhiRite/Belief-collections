@@ -5,6 +5,7 @@
                  "No damage penalty for wounded units",
                  "[-20]% maintenance costs",
                  "[+10]% to Flank Attack bonuses",
+                 "Can move immediately once bought",
                  "[-30]% Strength <when defending>"]
     },
     {
