@@ -1,50 +1,58 @@
 [
-    {
-     "name": "Warp Corruption",
-     "uniques": ["May Paradrop up to [5] tiles from inside friendly territory",
-                 "No damage penalty for wounded units",
-                 "[-20]% maintenance costs",
-                 "[+10]% to Flank Attack bonuses",
-                 "Can move immediately once bought",
-	     	 "[This Unit] gains [2] movement",
-                 "[15]% Strength <when attacking>",
-                 "[-30]% Strength <when defending>"]
-    },
-    {
-     "name": "True Faith",
-     "uniques": ["Instantly gain [25] [Faith] <upon being defeated>",
-         "Heals [15] damage if it kills a unit",
-         "[+50]% XP gained from combat",
-         "All adjacent units heal [5] HP when healing",
-         "[+20]% Strength <when defending>"]   
-    },
-    {
-     "name": "Holy Shield",
-     "uniques": ["Comment [Block the next Ranged attack. Cooldown: 4 turns.]",
+	{
+	"name": "Warp Corruption",
+	"uniques": ["May Paradrop up to [5] tiles from inside friendly territory",
+		 "No damage penalty for wounded units",
+		 "[-20]% maintenance costs",
+		 "[+10]% to Flank Attack bonuses",
+		 "Can move immediately once bought",
+		 "[This Unit] gains [2] movement",
+		 "[15]% Strength <when attacking>",
+		 "[-30]% Strength <when defending>"]
+	},
+	{
+	"name": "True Faith",
+	"uniques": ["Instantly gain [25] [Faith] <upon being defeated>",
+	 "Heals [15] damage if it kills a unit",
+	 "[+50]% XP gained from combat",
+	 "All adjacent units heal [5] HP when healing",
+	 "[+20]% Strength <when defending>"]   
+	},
+	{
+	"name": "Holy Shield",
+	"uniques": ["Comment [Block the next Ranged attack. Cooldown: 4 turns.]",
 		"[+1000]% Strength <when defending> <vs [Ranged] units> <for units without [Broken Shield]> <hidden from users>"]
-    },
-    {
-     "name": "Broken Shield",
-     "uniques": ["Comment [Holy Shield is on cooldown.]"
+	},
+	{
+	"name": "Broken Shield",
+	"uniques": ["Comment [Holy Shield is on cooldown.]"
 					"Holy Shield CD"]
-    },
-    {
-     "name": "Corporeal",
-     "uniques": ["Invisible to non-adjacent units", 
-                 "[-50]% Strength <when defending>",
-                 "Withdraws before melee combat <with [40]% chance>"]
-    },
-    {
-     "name": "Abyssal Grasp",
-     "uniques": ["[-10]% Strength for enemy [Wounded] units in adjacent [All] tiles",
-                 "[-5]% Strength for enemy [All] units in adjacent [All] tiles",
-                ]
-    },
-    {
-     "name": "Unending Crusade",
-     "uniques": ["Earn [15]% of the damage done to [Land] units as [Faith]",
-                 "[+1]% Strength <for every [50] [Faith]>"]
-    }
+	},
+	{
+	"name": "Corporeal",
+	"uniques": ["Invisible to non-adjacent units", 
+		 "[-50]% Strength <when defending>",
+		 "Withdraws before melee combat <with [40]% chance>"]
+	},
+	{
+	"name": "Abyssal Grasp",
+	"uniques": ["[-10]% Strength for enemy [Wounded] units in adjacent [All] tiles",
+		 "[-5]% Strength for enemy [All] units in adjacent [All] tiles",
+		]
+	},
+	{
+	"name": "Unending Crusade",
+	"uniques": ["Earn [15]% of the damage done to [Land] units as [Faith]",
+		 "[+1]% Strength <for every [50] [Faith]>"]
+	},
+	{
+	"name": "Saint",
+	"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",]
+	},
+	{
+	"name": "Worshipper",
+	"uniques": ["[15]% Strength when stacked with [Religious]"]
+	}
 
   
 ]
