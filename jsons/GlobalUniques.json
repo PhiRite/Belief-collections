@@ -3,6 +3,7 @@
     "uniques": [
     ],
     "unitUniques": [
+    "[This Unit] gains the [Saint] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
     "[Target Unit] gains the [Broken Shield] status for [4] turn(s) <upon damaging a [{non-[Broken Shield]} {Holy Shield CD}] unit> <for [Military] units>"
     ]
   
