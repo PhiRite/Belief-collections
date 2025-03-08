@@ -35,11 +35,14 @@
         "[1] free [Great War Infantry] units appear <upon gaining a [{Religious} {non-Great Person}] unit> <after adopting [Call of the Heavens]><during the [Modern era]><before the [Atomic era]><hidden from users>",
         "[1] free [Anti-Tank Gun] units appear <upon gaining a [{Religious} {non-Great Person}] unit> <after adopting [Call of the Heavens]><during the [Atomic era]><before the [Information era]><hidden from users>",
         "[1] free [Modern Armor] units appear <upon gaining a [{Religious} {non-Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><hidden from users>",
+        //warp stuff
+        "[1] free [Missionary] units appear <upon founding a city> <after adopting [Warp Summons]>"
+        
     ],
     "unitUniques": [
     "[This Unit] gains the [Saint] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Worshipper] promotion <for [{Military} {Land}] units> <after adopting [Call of the Heavens]>",
-    "[Target Unit] gains the [Broken Shield] status for [4] turn(s) <upon damaging a [{non-[Broken Shield]} {Holy Shield CD}] unit> <for [Military] units>"
+    "[Target Unit] gains the [Broken Shield] status for [4] turn(s) <upon damaging a [{non-[Broken Shield]} {Holy Shield CD}] unit> <for [Military] units>",
     ]
   
 }
