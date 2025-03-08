@@ -14,6 +14,7 @@
                     "All newly-trained [Melee] units [in all cities] receive the [Unending Crusade] promotion",
                     "All newly-trained [Ranged] units [in all cities] receive the [Unending Crusade] promotion",
                     "Only available <before adopting [Holy Warriors]>",
+                    "Only available <before adopting [Call of the Heavens]>",
                     "Only available <before adopting [Warp Summons]>"]
   },
   {
@@ -23,6 +24,7 @@
                     "All newly-trained [Military] units [in all cities] receive the [True Faith] promotion",
                     "All newly-trained [Melee] units [in all cities] receive the [Holy Shield] promotion",
                     "Only available <before adopting [Holy Crusade]>",
+                    "Only available <before adopting [Call of the Heavens]>",
                     "Only available <before adopting [Warp Summons]>"]
   },
   {
@@ -31,12 +33,37 @@
         "uniques": ["[Faith] cost of purchasing items in cities [-30]% <during a Golden Age>",
                     "Free [Great Prophet] appears <upon entering a Golden Age>",
                     "[+30]% Golden Age length",
-                    "[1] free [Spearman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]>",
-                    "[1] free [Spearman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><with [50]% chance>",
-                    "[1] free [Spearman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><with [50]% chance>",
-                    "[1] free [Archer] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><with [50]% chance>",
+                    "Comment [New Great Prophets give the same buff as Great Generals]",
+                    "Comment [All Military land units gain 15% strength when stacked with religious units]",
+                    "Comment [Gaining a Prophet summons 1-4 free units based on current era]",
+                    "Comment [Gaining a Missionary/Inquisitor summons 1 free unit based on current era]",
+                    "[1] free [Spearman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><hidden from users>",
+                    "[2] free [Spearman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><with [50]% chance><hidden from users>",
+                    "[1] free [Archer] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><with [50]% chance><hidden from users>",
+                    "[1] free [Swordsman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Classical era]><before the [Medieval era]><hidden from users>",
+                    "[2] free [Swordsman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Classical era]><before the [Medieval era]><with [50]% chance><hidden from users>",
+                    "[1] free [Composite Bowman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Classical era]><before the [Medieval era]><with [50]% chance><hidden from users>",      
+                    "[1] free [Longswordsman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Medieval era]><before the [Renaissance era]><hidden from users>",
+                    "[2] free [Longswordsman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Medieval era]><before the [Renaissance era]><with [50]% chance><hidden from users>",
+                    "[1] free [Crossbowman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Medieval era]><before the [Renaissance era]><with [50]% chance><hidden from users>",
+                    "[1] free [Musketman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Renaissance era]><before the [Industrial era]><hidden from users>",
+                    "[2] free [Musketman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Renaissance era]><before the [Industrial era]><with [50]% chance><hidden from users>",
+                    "[1] free [Musketman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Renaissance era]><before the [Industrial era]><with [50]% chance><hidden from users>",    
+                    "[1] free [Rifleman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Industrial era]><before the [Modern era]><hidden from users>",
+                    "[2] free [Rifleman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Industrial era]><before the [Modern era]><with [50]% chance><hidden from users>",
+                    "[1] free [Rifleman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Industrial era]><before the [Modern era]><with [50]% chance><hidden from users>",
+                    "[1] free [Great War Infantry] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Modern era]><before the [Atomic era]><hidden from users>",
+                    "[2] free [Great War Infantry] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Modern era]><before the [Atomic era]><with [50]% chance><hidden from users>",
+                    "[1] free [Machine Gun] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Modern era]><before the [Atomic era]><with [50]% chance><hidden from users>",
+                    "[1] free [Anti-Tank Gun] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Atomic era]><before the [Information era]><hidden from users>",
+                    "[2] free [Anti-Tank Gun] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Atomic era]><before the [Information era]><with [50]% chance><hidden from users>",
+                    "[1] free [Bazooka] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Atomic era]><before the [Information era]><with [50]% chance><hidden from users>",
+                    "[1] free [Modern Armor] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Information era]><hidden from users>",
+                    "[2] free [Modern Armor] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Information era]><with [50]% chance><hidden from users>",
+                    "[1] free [Giant Death Robot] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Information era]><with [10]% chance><hidden from users>",				
                     "Only available <before adopting [Holy Warriors]>",
-                    "Only available <before adopting [Holy Crusade]>"]
+                    "Only available <before adopting [Holy Crusade]>",
+                    "Only available <before adopting [Warp Summons]>"]
   },
   {
         "name": "Warp Summons",
@@ -47,7 +74,8 @@
                     "All newly-trained [Melee] units [in all cities] receive the [Abyssal Grasp] promotion",
                     "All newly-trained [Ranged] units [in all cities] receive the [Corporeal] promotion",
                     "Only available <before adopting [Holy Warriors]>",
-                    "Only available <before adopting [Holy Crusade]>"]
+                    "Only available <before adopting [Holy Crusade]>",
+                    "Only available <before adopting [Call of the Heavens]>"]
   },
 
 
