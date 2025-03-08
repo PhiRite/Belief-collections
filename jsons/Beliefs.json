@@ -31,6 +31,10 @@
         "uniques": ["[Faith] cost of purchasing items in cities [-30]% <during a Golden Age>",
                     "Free [Great Prophet] appears <upon entering a Golden Age>",
                     "[+30]% Golden Age length",
+                    "[1] free [Spearman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]>",
+                    "[1] free [Spearman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><with [50]% chance>",
+                    "[1] free [Spearman] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><with [50]% chance>",
+                    "[1] free [Archer] units appear <upon gaining a [Great Prophet] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><with [50]% chance>",
                     "Only available <before adopting [Holy Warriors]>",
                     "Only available <before adopting [Holy Crusade]>"]
   },
