@@ -19,14 +19,13 @@
 	 "[+20]% Strength <when defending>"]   
 	},
 	{
-	"name": "Holy Shield",
-	"uniques": ["Comment [Block the next Ranged attack. Cooldown: 4 turns.]",
-		"[+1000]% Strength <when defending> <vs [Ranged] units> <for units without [Broken Shield]> <hidden from users>"]
+	"name": "Undying Will",
+	"uniques": ["[This Unit] gains the [Undying] promotion <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>",
+			"[This Unit] loses the [Udying] promotion <for [3] turns>"]
 	},
 	{
-	"name": "Broken Shield",
-	"uniques": ["Comment [Holy Shield is on cooldown.]"
-					"Holy Shield CD"]
+	"name": "Undying",
+	"uniques": ["[This Unit] heals [30] HP <hidden from users>"]	
 	},
 	{
 	"name": "Corporeal",
