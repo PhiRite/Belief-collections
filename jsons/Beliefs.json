@@ -1,5 +1,5 @@
 [
-
+//my own stuff??
   {
         "name": "Just War",
         "type": "Enhancer",
@@ -26,6 +26,15 @@
                     "Only available <before adopting [Warp Summons]>"]
   },
   {
+        "name": "Call of the Heavens",
+        "type": "Follower",
+        "uniques": ["[Faith] cost of purchasing items in cities [-30]% <during a Golden Age>",
+                    "Free [Great Prophet] appears <upon entering a Golden Age>",
+                    "[+30]% Golden Age length",
+                    "Only available <before adopting [Holy Warriors]>",
+                    "Only available <before adopting [Holy Crusade]>"]
+  },
+  {
         "name": "Warp Summons",
         "type": "Follower",
         "uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost",
@@ -36,6 +45,9 @@
                     "Only available <before adopting [Holy Warriors]>",
                     "Only available <before adopting [Holy Crusade]>"]
   },
+
+
+  //from other mods and stuff
   {
     "name": "Greater than the Gods",
     "type": "Pantheon",
