@@ -38,16 +38,27 @@
 	 "Heals [15] damage if it kills a unit",
 	 "[+50]% XP gained from combat",
 	 "All adjacent units heal [5] HP when healing",
-	 "[+20]% Strength <when defending>"]   
+	 "[+20]% Strength <when defending>",
+	 "No damage penalty for wounded units"]   
 	},
 	{
 	"name": "Undying Will",
-	"uniques": ["[This Unit] gains the [Undying] promotion <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>",
-			"[This Unit] loses the [Udying] promotion <for [3] turns>"]
+	"uniques": ["[This Unit] gains the [Undying] promotion",
+		"[This Unit] loses the [Udying] promotion <for [3] turns> <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>"]
 	},
 	{
 	"name": "Undying",
-	"uniques": ["[This Unit] heals [30] HP <hidden from users>"]	
+	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>"]	
+	},
+	{
+	"name": "Last Stand",
+	"uniques": ["Comment [unit gains strength when below 50 hp (up to 20% until 30 hp and 40% for 20 hp)]",
+			"",
+			"[+5]% Strength <when below [50] HP> <hidden from users>",
+			"[+5]% Strength <when below [40] HP> <hidden from users>",
+			"[+5]% Strength <when below [35] HP> <hidden from users>",
+			"[+5]% Strength <when below [30] HP> <hidden from users>",
+			"[+20]% Strength <when below [21] HP><for [2] turns> <hidden from users>",]	
 	},
 	
 	//Crusade
@@ -57,17 +68,34 @@
 	"uniques": ["Earn [15]% of the damage done to [Land] units as [Faith]",
 		 "[+1]% Strength <for every [50] [Faith]>"]
 	},
+	{
+	"name": "Holy Blessing",
+	"uniques": ["Can build [Fort] improvements on tiles",
+			"[+10]% Strength bonus for [Military] units within [3] tiles"]	
+	},
+	{
+	"name": "Blessed Equipment",
+	"uniques": ["[1] additional attacks per turn",
+			"Ignores terrain cost"]
+	},
+	{
+	"name": "Blessed Sight",
+	"uniques": ["Ranged attacks may be performed over obstacles",
+			"[+2] Sight"]
+	},
 	
 	//Call of the Heavens
 	
 	{
 	"name": "Saint",
-	"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",]
+	"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
+			"Can be earned through combat"]
 	},
 	{
 	"name": "Worshipper",
 	"uniques": ["[15]% Strength when stacked with [Religious]"]
-	}
+	},
+
 
   
 ]
