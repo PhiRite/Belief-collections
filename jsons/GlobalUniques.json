@@ -27,19 +27,19 @@
         "[2] free [Modern Armor] units appear <upon gaining a [{Religious} {Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><with [50]% chance><hidden from users>",
         "[1] free [Giant Death Robot] units appear <upon gaining a [{Religious} {Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><with [10]% chance><hidden from users>",				
         // the rest 
-        "[1] free [Spearman] units appear <upon gaining a [{Religious} {non-Great Person}] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><hidden from users>",
-        "[1] free [Swordsman] units appear <upon gaining a [{Religious} {non-Great Person}] unit> <after adopting [Call of the Heavens]><during the [Classical era]><before the [Medieval era]><hidden from users>",
-        "[1] free [Longswordsman] units appear <upon gaining a [{Religious} {non-Great Person}] unit> <after adopting [Call of the Heavens]><during the [Medieval era]><before the [Renaissance era]><hidden from users>",
-        "[1] free [Musketman] units appear <upon gaining a [{Religious} {non-Great Person}] unit> <after adopting [Call of the Heavens]><during the [Renaissance era]><before the [Industrial era]><hidden from users>",
-        "[1] free [Rifleman] units appear <upon gaining a [{Religious} {non-Great Person}] unit> <after adopting [Call of the Heavens]><during the [Industrial era]><before the [Modern era]><hidden from users>",
-        "[1] free [Great War Infantry] units appear <upon gaining a [{Religious} {non-Great Person}] unit> <after adopting [Call of the Heavens]><during the [Modern era]><before the [Atomic era]><hidden from users>",
-        "[1] free [Anti-Tank Gun] units appear <upon gaining a [{Religious} {non-Great Person}] unit> <after adopting [Call of the Heavens]><during the [Atomic era]><before the [Information era]><hidden from users>",
-        "[1] free [Modern Armor] units appear <upon gaining a [{Religious} {non-Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><hidden from users>",
+        "[1] free [Spearman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><hidden from users>",
+        "[1] free [Swordsman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Classical era]><before the [Medieval era]><hidden from users>",
+        "[1] free [Longswordsman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Medieval era]><before the [Renaissance era]><hidden from users>",
+        "[1] free [Musketman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Renaissance era]><before the [Industrial era]><hidden from users>",
+        "[1] free [Rifleman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Industrial era]><before the [Modern era]><hidden from users>",
+        "[1] free [Great War Infantry] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Modern era]><before the [Atomic era]><hidden from users>",
+        "[1] free [Anti-Tank Gun] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Atomic era]><before the [Information era]><hidden from users>",
+        "[1] free [Modern Armor] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Information era]><hidden from users>",
         //warp stuff
         "[1] free [Missionary] units appear <upon founding a city> <after adopting [Warp Summons]>",
-        "[+1 Gold, +1 Production, +1 Food] per every [75] [Faith] <after adopting [Call of the Heavens]> <>",
-        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Gold] per every [100] [Faith]",
-        "[+1 Production, +1 Food, +1 Science, +1 Culture, + 1 Happiness] per every [125] [Faith]"
+        "[+1 Gold, +1 Production, +1 Food] per every [75] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]>",
+        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Gold] per every [100] [Faith] <when above [150] [Faith]>",
+        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Happiness] per every [125] [Faith] <when above [150] [Faith]>"
         
     ],
     "unitUniques": [
