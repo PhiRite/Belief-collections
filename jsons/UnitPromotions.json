@@ -53,7 +53,7 @@
 	{
 	"name": "Last Stand",
 	"uniques": ["Comment [unit gains strength when below 50 hp (up to 20% until 30 hp and 40% for 20 hp)]",
-			"",
+			"No damage penalty for wounded units",
 			"[+5]% Strength <when below [50] HP> <hidden from users>",
 			"[+5]% Strength <when below [40] HP> <hidden from users>",
 			"[+5]% Strength <when below [35] HP> <hidden from users>",
