@@ -44,7 +44,7 @@
 	{
 	"name": "Undying Will",
 	"uniques": ["[This Unit] gains the [Undying] promotion",
-		"[This Unit] loses the [Udying] promotion <for [3] turns> <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>"]
+		"[This Unit] loses the [Undying] promotion <for [3] turns> <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>"]
 	},
 	{
 	"name": "Undying",
