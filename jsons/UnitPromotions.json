@@ -27,7 +27,7 @@
 	{
 	"name": "Warp Rush",
 	"uniques": ["Unit will heal every turn, even if it performs an action",
-		"[+20] Strength"]
+		"[+20]% Strength"]
 	},
 	
 	//Zealots
