@@ -1,4 +1,6 @@
 [
+	//warp summons 
+	
 	{
 	"name": "Warp Corruption",
 	"uniques": ["May Paradrop up to [5] tiles from inside friendly territory",
@@ -10,6 +12,26 @@
 		 "[15]% Strength <when attacking>",
 		 "[-30]% Strength <when defending>"]
 	},
+	{
+	"name": "Corporeal",
+	"uniques": ["Invisible to non-adjacent units", 
+		 "[-50]% Strength <when defending>",
+		 "Withdraws before melee combat <with [40]% chance>"]
+	},
+	{
+	"name": "Abyssal Grasp",
+	"uniques": ["[-10]% Strength for enemy [Wounded] units in adjacent [All] tiles",
+		 "[-5]% Strength for enemy [All] units in adjacent [All] tiles",
+		]
+	},
+	{
+	"name": "Warp Rush",
+	"uniques": ["Unit will heal every turn, even if it performs an action",
+		"[+20] Strength"]
+	},
+	
+	//Zealots
+	
 	{
 	"name": "True Faith",
 	"uniques": ["Instantly gain [25] [Faith] <upon being defeated>",
@@ -27,23 +49,17 @@
 	"name": "Undying",
 	"uniques": ["[This Unit] heals [30] HP <hidden from users>"]	
 	},
-	{
-	"name": "Corporeal",
-	"uniques": ["Invisible to non-adjacent units", 
-		 "[-50]% Strength <when defending>",
-		 "Withdraws before melee combat <with [40]% chance>"]
-	},
-	{
-	"name": "Abyssal Grasp",
-	"uniques": ["[-10]% Strength for enemy [Wounded] units in adjacent [All] tiles",
-		 "[-5]% Strength for enemy [All] units in adjacent [All] tiles",
-		]
-	},
+	
+	//Crusade
+	
 	{
 	"name": "Unending Crusade",
 	"uniques": ["Earn [15]% of the damage done to [Land] units as [Faith]",
 		 "[+1]% Strength <for every [50] [Faith]>"]
 	},
+	
+	//Call of the Heavens
+	
 	{
 	"name": "Saint",
 	"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",]
