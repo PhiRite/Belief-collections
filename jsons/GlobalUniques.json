@@ -40,6 +40,8 @@
         
     ],
     "unitUniques": [
+    "[This Unit] gains the [Warp Rush] promotion <for [5] turns> <upon gaining the [Abyssal Grasp] promotion>",
+    "[This Unit] gains the [Warp Rush] promotion <for [5] turns> <upon gaining the [Corporeal] promotion>",
     "[This Unit] gains the [Saint] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Worshipper] promotion <for [{Military} {Land}] units> <after adopting [Call of the Heavens]>",
     ]
