@@ -12,7 +12,6 @@
         "uniques": [
                     "May buy [Melee] units with [Faith] for [2] times their normal Production cost",
                     "May buy [Great General] units for [1250] [Faith] [in all cities]",
-                    "[Great General] is earned [+20]% faster <when at war>",
                     "Comment [Great General allows melee units to do 2 attacks, and ranged units to igno]",
                     "All newly-trained [Melee] units [in all cities] receive the [Unending Crusade] promotion",
                     "All newly-trained [Ranged] units [in all cities] receive the [Unending Crusade] promotion",
@@ -37,7 +36,6 @@
         "uniques": ["[Faith] cost of purchasing items in cities [-20]% <during a Golden Age>",
                     "May buy [Great Prophet] units for [1250] [Faith] [in all cities]",
                     "May buy [Great Prophet] units for [1500] [Gold] [in all cities]",
-                    "[+30]% Golden Age length",
                     "Comment [New Great Prophets give the same buff as Great Generals, Great Prophets can be earned through combat]",
                     "Comment [All Military land units gain 15% strength when stacked with religious units]",
                     "Comment [Gaining a Prophet summons 1-4 free units based on current era]",
