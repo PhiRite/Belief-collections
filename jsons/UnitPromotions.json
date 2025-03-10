@@ -92,8 +92,16 @@
 			"Can be earned through combat"]
 	},
 	{
+	"name": "Support",
+	"uniques": ["Can move immediately once bought",
+		 "[This Unit] gains [3] movement",
+	         "All adjacent units heal [5] HP when healing",]
+	},	
+	{
 	"name": "Worshipper",
-	"uniques": ["[15]% Strength when stacked with [Religious]"]
+	"uniques": ["[15]% Strength when stacked with [Religious]",
+	         "Can move immediately once bought",
+		 "[This Unit] gains [3] movement",]
 	},
 
 
