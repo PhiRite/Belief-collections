@@ -34,7 +34,7 @@
         "name": "Call of the Heavens",
         "type": "Follower",
         "uniques": ["[Faith] cost of purchasing items in cities [-20]% <during a Golden Age>",
-                    "May buy [Great Prophet] units for [1250] [Faith] [in all cities]",
+                    "May buy [{Religious} {Great Person}] units for [1250] [Faith] [in all cities]",
                     "All newly-trained [Religious] units [in all cities] receive the [Support] promotion",
                     "Comment [New Great Prophets give the same buff as Great Generals, Great Prophets can be earned through combat]",
                     "Comment [All Military land units gain 15% strength when stacked with religious units]",
