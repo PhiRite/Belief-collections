@@ -42,6 +42,7 @@
         "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Happiness] per every [125] [Faith] <when above [150] [Faith]>",
         "[+30]% Golden Age length <after adopting [Call of the Heavens]>",
         "[Great General] is earned [+20]% faster <when at war> <after adopting [Holy Crusade]>",
+        "[1] population [in this city] <upon founding a city> <after adopting [Warp Summons]>"
         
     ],
     "unitUniques": [
