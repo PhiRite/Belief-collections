@@ -15,7 +15,6 @@
 	{
 	"name": "Corporeal",
 	"uniques": ["Invisible to non-adjacent units", 
-		 "[-30]% Strength <when defending>",
 		 "Withdraws before melee combat <with [40]% chance>"]
 	},
 	{
