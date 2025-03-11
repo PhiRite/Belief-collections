@@ -57,8 +57,8 @@
     "[This Unit] gains the [Warp Rush] promotion <for [5] turns> <upon gaining the [Corporeal] promotion>",
     "[This Unit] takes [5] damage <when adjacent to a [Warp Corruption] unit>",
     //Call stuff
-    "[This Unit] heals [50] HP <when adjacent to a [Saint Aura] unit> <once>",
-    "[This Unit] heals [25] HP <when adjacent to a [Disciple Aura] unit> <once>",
+    "[This Unit] heals [50] HP <when adjacent to a [Saint Aura] unit>",
+    "[This Unit] heals [25] HP <when adjacent to a [Disciple Aura] unit>",
     "[This Unit] gains the [Saint] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Saint Prayer] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Disciple Prayer] promotion <for [{Religious} {non-[Great Person]}] units> <after adopting [Call of the Heavens]>",
