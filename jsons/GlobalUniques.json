@@ -48,6 +48,7 @@
     "unitUniques": [
     //crusade stuff
     "[Great General] units gain the [Holy Weapon Blessing] promotion <after adopting [Holy Crusade]>",
+    "[This Unit] Instantly gain [-25] [Faith] <upon being defeated> <for [Military] units> <after adopting [Holy Crusade]>",
     "[This Unit] gains the [Blessed Equipment] promotion <for [Melee] units> <for [3] turns> <when adjacent to a [Great General] unit> <after adopting [Holy Crusade]>",
     "[This Unit] gains the [Blessed Sight] promotion <for [Ranged] units> <for [3] turns> <when adjacent to a [Great General] unit> <after adopting [Holy Crusade]>",
     //Zealot stuff
