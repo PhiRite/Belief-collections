@@ -60,6 +60,8 @@
     "[This Unit] heals [50] HP <when adjacent to a [Saint Aura] unit> <once>",
     "[This Unit] heals [25] HP <when adjacent to a [Disciple Aura] unit> <once>",
     "[This Unit] gains the [Saint] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
+    "[This Unit] gains the [Saint Prayer] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
+    "[This Unit] gains the [Disciple Prayer] promotion <for [{Religious} {non-[Great Person]}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Worshipper] promotion <for [{Military} {Land}] units> <after adopting [Call of the Heavens]>",
     "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [Melee] units> <when above [300] [Faith]>",
     "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [{Ranged} {non-[Siege]}] units> <when above [400] [Faith]>",
