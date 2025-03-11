@@ -25,7 +25,8 @@
         "uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost",
                     "All newly-trained [Military] units [in all cities] receive the [True Faith] promotion",
                     "All newly-trained [Military] units [in all cities] receive the [Undying Will] promotion",
-                    "All newly-trained [Melee] units [in all cities] receive the [Undying Will] promotion",
+                    "All newly-trained [Melee] units [in all cities] receive the [Last Stand] promotion",
+                    "All newly-trained [Melee] units [in all cities] receive the [Berserker Rage] promotion",
                     "Only available <before adopting [Holy Crusade]>",
                     "Only available <before adopting [Call of the Heavens]>",
                     "Only available <before adopting [Warp Summons]>"]
