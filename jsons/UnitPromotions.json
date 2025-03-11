@@ -105,7 +105,7 @@
 	{
 	"name": "Disciple Prayer",
 	"uniques": ["Comment [Will Heal all adjacent units by 50 HP on turn end]",
-		"[This Unit] gains the [Disciple Aura] promotion <for [0] movement> <costs [+75 Faith] stats> <for units without [Cooldown]> <hidden from users>",
+		"[This Unit] gains the [Disciple Aura] promotion <for [0] movement> <costs [+10 Faith] stats> <for units without [Cooldown]> <hidden from users>",
 		"[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [Saint Aura] status> <hidden from users>"]
 	},
 	{
