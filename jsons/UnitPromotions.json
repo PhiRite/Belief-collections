@@ -98,12 +98,12 @@
 	},	
 	{
 	"name": "Saint Prayer",
-	"uniques": ["[This Unit] gains the [Saint Aura] promotion <for [0] movement> <costs [+125 Faith] stats> <once> <for units without [Cooldown]> <hidden from users>",
+	"uniques": ["[This Unit] gains the [Saint Aura] promotion <for [0] movement> <costs [+125 Faith] stats> <for units without [Cooldown]> <hidden from users>",
 		"[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [Saint Aura] status> <hidden from users>"]
 	},
 	{
 	"name": "Disciple Prayer",
-	"uniques": ["[This Unit] gains the [Disciple Aura] promotion <for [0] movement> <costs [+75 Faith] stats> <once> <for units without [Cooldown]> <hidden from users>",
+	"uniques": ["[This Unit] gains the [Disciple Aura] promotion <for [0] movement> <costs [+75 Faith] stats> <for units without [Cooldown]> <hidden from users>",
 		"[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [Saint Aura] status> <hidden from users>"]
 	},
 	{
