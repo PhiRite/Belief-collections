@@ -9,7 +9,7 @@
 		 "[+10]% to Flank Attack bonuses",
 		 "Can move immediately once bought",
 		 "[This Unit] gains [3] movement",
-		 "[15]% Strength <when attacking>",
+		 "[+15]% Strength <when attacking>",
 		 "[-20]% Strength <when defending>"]
 	},
 	{
@@ -97,12 +97,46 @@
 	         "All adjacent units heal [5] HP when healing",]
 	},	
 	{
+	"name": "Saint Prayer",
+	"uniques": ["[This Unit] gains the [Saint Aura] promotion <for [0] movement> <costs [+125 Faith] stats> <once> <for units without [Cooldown]> <hidden from users>",
+		"[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [Saint Aura] status> <hidden from users>"]
+	},
+	{
+	"name": "Disciple Prayer",
+	"uniques": ["[This Unit] gains the [Disciple Aura] promotion <for [0] movement> <costs [+75 Faith] stats> <once> <for units without [Cooldown]> <hidden from users>",
+		"[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [Saint Aura] status> <hidden from users>"]
+	},
+	{
 	"name": "Worshipper",
 	"uniques": ["[15]% Strength when stacked with [Religious]",
 	         "Can move immediately once bought",
 		 "[This Unit] gains [3] movement",]
 	},
-
+	{
+	"name": "Area Purification",
+	"uniques": ["Blast radius [1]",
+	         "[-15]% Strength <when attacking>",
+		"[+1] Sight"]
+	},
+	//effects?
+	{
+	"name": "Cleansing Fire",
+	"uniques": ["[This Unit] takes [5] damage <upon turn end>",
+		"[This Unit] loses the [Burning] status <when below [20] HP>",
+		"[-1]% Strength <hidden from users>",],
+	},
+	{
+	"name": "Saint Aura",
+	"uniques": ["[+1]% Strength"],
+	},
+	{
+	"name": "Disciple Aura",
+	"uniques": ["[+1]% Strength"],
+	},
+	{
+	"name": "Cooldown",
+	"uniques": ["Comment [Skill is in cooldown]"],
+	},
 
   
 ]
