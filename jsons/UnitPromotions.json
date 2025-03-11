@@ -59,6 +59,15 @@
 			"[+5]% Strength <when below [30] HP> <hidden from users>",
 			"[+20]% Strength <when below [21] HP><for [2] turns> <hidden from users>",]	
 	},
+	{
+	"name": "Berserk Rage",
+	"uniques": ["Comment [unit gains more attacks and moves when at low health(at 30 and 20)]",
+			"[1] additional attacks per turn <when below [31] HP>",
+			"[1] additional attacks per turn <when below [21] HP>",
+			"Ignores terrain cost <when below [31] HP>",
+			"Ignores Zone of Control <when below [31] HP>",
+			"[This Unit] gains [2] movement <when below [21] HP>"]	
+	},
 	
 	//Crusade
 	
@@ -75,11 +84,13 @@
 	{
 	"name": "Blessed Equipment",
 	"uniques": ["[1] additional attacks per turn",
+			"Earn [5]% of the damage done to [Land] units as [Faith]",
 			"Ignores terrain cost"]
 	},
 	{
 	"name": "Blessed Sight",
 	"uniques": ["Ranged attacks may be performed over obstacles",
+			"Earn [5]% of the damage done to [Land] units as [Faith]",
 			"[+2] Sight"]
 	},
 	
