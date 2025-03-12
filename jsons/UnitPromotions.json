@@ -110,13 +110,13 @@
 	{
 	"name": "Saint Prayer",
 	"uniques": ["Comment [Will Heal all adjacent units by 50 HP on turn end when activated]",
-		"[This Unit] gains the [Saint Aura] status for [1] turn(s) <for [0] movement> <costs [+125 Faith] stats> <once> <for units without [Cooldown]> <hidden from users>",
+		"[This Unit] gains the [Saint Aura] status for [1] turn(s) <for [0] movement> <costs [+125 Faith] stats> <for units without [Cooldown]> <hidden from users>",
 		"[This Unit] gains the [Cooldown] status for [3] turn(s) <upon gaining the [Saint Aura] status> <hidden from users>"]
 	},
 	{
 	"name": "Disciple Prayer",
 	"uniques": ["Comment [Will Heal all adjacent units by 25 HP on turn end when activated]",
-		"[This Unit] gains the [Disciple Aura] status for [1] turn(s) <for [0] movement> <costs [+75 Faith] stats> <once> <for units without [Cooldown]> <hidden from users>",
+		"[This Unit] gains the [Disciple Aura] status for [1] turn(s) <for [0] movement> <costs [+75 Faith] stats> <for units without [Cooldown]> <hidden from users>",
 		"[This Unit] gains the [Cooldown] status for [3] turn(s) <upon gaining the [Disciple Aura] status> <hidden from users>"]
 	},
 	{
