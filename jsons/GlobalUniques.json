@@ -54,7 +54,17 @@
         "[Great General] is earned [+20]% faster <when at war> <after adopting [Holy Crusade]>",
 
         //atheism?
-        "",
+        "Instantly provides [10] [Science] <when above [150] [Faith]> <starting from the [Classical era]> <upon turn end>",
+        "Instantly consumes [15] [Faith] <when above [150] [Faith]> <starting from the [Classical era]> <upon turn end>",
+        "Instantly provides [15] [Science] <when above [150] [Faith]> <starting from the [Renaissance era]> <upon turn end>",
+        "Instantly consumes [15] [Faith] <when above [150] [Faith]> <starting from the [Renaissance era]> <upon turn end>",
+        "Instantly provides [20] [Science] <when above [150] [Faith]> <starting from the [Industrial era]> <upon turn end>",
+        "Instantly consumes [15] [Faith] <when above [150] [Faith]> <starting from the [Industrial era]> <upon turn end>",
+        "Instantly provides [25] [Science] <when above [150] [Faith]> <starting from the [Modern era]> <upon turn end>",
+        "Instantly consumes [15] [Faith] <when above [150] [Faith]> <starting from the [Modern era]> <upon turn end>",
+        "Instantly provides [30] [Science] <when above [150] [Faith]> <starting from the [Atomic era]> <upon turn end>",
+        "Instantly consumes [15] [Faith] <when above [150] [Faith]> <starting from the [Atomic era]> <upon turn end>",
+        
         
         
         
@@ -81,9 +91,7 @@
     "[This Unit] gains the [Saint Prayer] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Disciple Prayer] promotion <for [{Religious} {non-[Great Person]}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Worshipper] promotion <for [{Military} {Land}] units> <after adopting [Call of the Heavens]>",
-    "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [Melee] units> <when above [200] [Faith]>",
-    "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [{Ranged} {non-[Siege]}] units> <when above [300] [Faith]>",
-    "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [Siege] units> <when above [400] [Faith]>",
+    "[This Unit] gains the [Cleansing] promotion <for [{Military} {Land}] units> <after adopting [Call of the Heavens]>",
     
     //atheist stuff
     "[Target Unit] instantly gains [-5] [Faith] <when attacking> <after adopting [Atheism]>",
