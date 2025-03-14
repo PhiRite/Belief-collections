@@ -45,6 +45,7 @@
         "type": "Follower",
         "uniques": ["Comment [Cost of purchasing items is reduced based on Era until Renaissance(up to 40%)]",
                     "Comment [Attacks burn target for 2 turns(300 faith for melee, 400 faith for ranged, 500 for siege)]",
+                    "[1] Unit Supply per [2] population [in your cities]",
                     "[Faith] cost of purchasing items in cities [-5]% <starting from the [Ancient era]> <hidden from users>",
                     "[Faith] cost of purchasing items in cities [-5]% <starting from the [Classical era]> <hidden from users>",
                     "[Faith] cost of purchasing items in cities [-10]% <starting from the [Medieval era]> <hidden from users>",
