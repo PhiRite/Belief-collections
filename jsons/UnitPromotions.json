@@ -140,16 +140,17 @@
 	{
 	"name": "Atheist",
 	"uniques": ["Comment [Gets stronger the more era is researched]",
+		"Earn [5]% of the damage done to [All] units as [Science]",
 		"[-1]% Strength <for every [25] [Faith]>",
 		"Prevents spreading of religion to the city it is next to",
-		"[+5]% Strength <starting from the [Ancient era]> <hidden from users>",
-		"[+5]% Strength <starting from the [Classical era]> <hidden from users>",
-		"[+5]% Strength <starting from the [Medieval era]> <hidden from users>",
-		"[+5]% Strength <starting from the [Renaissance era]> <hidden from users>",
-		"[+5]% Strength <starting from the [Industrial era]> <hidden from users>",
+		"[+2]% Strength <starting from the [Ancient era]> <hidden from users>",
+		"[+2]% Strength <starting from the [Classical era]> <hidden from users>",
+		"[+2]% Strength <starting from the [Medieval era]> <hidden from users>",
+		"[+2]% Strength <starting from the [Renaissance era]> <hidden from users>",
+		"[+2]% Strength <starting from the [Industrial era]> <hidden from users>",
 		"[+5]% Strength <starting from the [Modern era]> <hidden from users>",
 		"[+5]% Strength <starting from the [Atomic era]> <hidden from users>",
-		"[+5]% Strength <starting from the [Information era]> <hidden from users>",]
+		"[+10]% Strength <starting from the [Information era]> <hidden from users>",]
 	},
 	{
 	"name": "Professor",
@@ -157,6 +158,11 @@
 		"Instantly gain [25] [Gold] <for [1] movement> <[4] times> <costs [+50 Faith] stats> <after which this unit is consumed>",
 		"Instantly gain [25] [Research] <for [1] movement> <[4] times> <costs [+50 Faith] stats> <after which this unit is consumed>",
 		"Can instantly construct a [Academy] improvement <by consuming this unit>"]
+	},
+	{
+	"name": "Classics",
+	"uniques": ["Comment [Enjoy them]",
+		"[1] Movement",]
 	},
 	
 	//effects?
