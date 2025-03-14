@@ -11,11 +11,11 @@
         "type": "Follower",
         "uniques": [
                     "May buy [Melee] units with [Faith] for [2] times their normal Production cost",
-                    "May buy [Great General] units for [1000] [Faith] [in all cities]",
+                    "May buy [Great General] units for [1000] [Faith] [in your cities]",
                     "Comment [Great General allows melee units to do 2 attacks, and ranged units to ignore obstacles and have more sight]",
                     "Comment [Units gain more strength based on amount of faith(1% per 50)]",
-                    "All newly-trained [Melee] units [in all cities] receive the [Unending Crusade] promotion",
-                    "All newly-trained [Ranged] units [in all cities] receive the [Unending Crusade] promotion",
+                    "All newly-trained [Melee] units [in your cities] receive the [Unending Crusade] promotion",
+                    "All newly-trained [Ranged] units [in your cities] receive the [Unending Crusade] promotion",
                     "Only available <before adopting [Zealotry]>",
                     "Only available <before adopting [Call of the Heavens]>",
                     "Only available <before adopting [Warp Summons]>"]
@@ -32,10 +32,10 @@
                     "Comment [Military units heal 30hp when low health with a cooldown of 3 turns]",
                     "Comment [Melee units gain 5%-40% strentgh based on low hp, gain up to 2 more attacks based on hp, gain more moves and ignore terrain/zone of control]",
                     "May buy [Military] units with [Faith] for [2] times their normal Production cost",
-                    "All newly-trained [Military] units [in all cities] receive the [True Faith] promotion",
-                    "All newly-trained [Military] units [in all cities] receive the [Undying Will] promotion",
-                    "All newly-trained [Melee] units [in all cities] receive the [Last Stand] promotion",
-                    "All newly-trained [Melee] units [in all cities] receive the [Berserk Rage] promotion",
+                    "All newly-trained [Military] units [in your cities] receive the [True Faith] promotion",
+                    "All newly-trained [Military] units [in your cities] receive the [Undying Will] promotion",
+                    "All newly-trained [Melee] units [in your cities] receive the [Last Stand] promotion",
+                    "All newly-trained [Melee] units [in your cities] receive the [Berserk Rage] promotion",
                     "Only available <before adopting [Holy Crusade]>",
                     "Only available <before adopting [Call of the Heavens]>",
                     "Only available <before adopting [Warp Summons]>"]
@@ -49,9 +49,10 @@
                     "[Faith] cost of purchasing items in cities [-5]% <starting from the [Classical era]> <hidden from users>",
                     "[Faith] cost of purchasing items in cities [-10]% <starting from the [Medieval era]> <hidden from users>",
                     "[Faith] cost of purchasing items in cities [-10]% <starting from the [Renaissance era]> <hidden from users>",
-                    "May buy [{Religious} {Great Person}] units for [1000] [Faith] [in all cities]",
-                    "All newly-trained [Religious] units [in all cities] receive the [Support] promotion",
-                    //"All newly-trained [Military] units [in all cities] recieve the [Cleansing Fire] promotion",
+                    "May buy [{Religious} {Great Person}] units for [1000] [Faith] [in your cities]",
+                    "All newly-trained [Religious] units [in your cities] receive the [Support] promotion",
+                    "All newly-trained [Ranged] units [in your cities] receive the [Fire Starter] promotion",
+                    //"All newly-trained [Military] units [in your cities] recieve the [Cleansing Fire] promotion",
                     "Comment [New Great Prophets give the same buff as Great Generals, Great Prophets can be earned through combat]",
                     "Comment [All Military land units gain 15% strength when stacked with religious units]",
                     "Comment [Gaining a Prophet summons 1-4 free units based on current era]",
@@ -65,49 +66,29 @@
         "type": "Follower",
         "uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost",
                     "May buy [{Civilian} {non-[Great Person]}] units with [Faith] for [4] times their normal Production cost",
-                    "May buy [{Religious} {Great Person}] units for [1000] [Faith] [in all cities]",
-                    "[+1 Happiness] [in all cities]",
-                    "All newly-trained [Land] units [in all cities] receive the [Warp Corruption] promotion",
-                    "All newly-trained [Melee] units [in all cities] receive the [Abyssal Grasp] promotion",
-                    "All newly-trained [Ranged] units [in all cities] receive the [Corporeal] promotion",
+                    "May buy [{Religious} {Great Person}] units for [1000] [Faith] [in your cities]",
+                    "[+1 Happiness] [in your cities]",
+                    "All newly-trained [Land] units [in your cities] receive the [Warp Corruption] promotion",
+                    "All newly-trained [Melee] units [in your cities] receive the [Abyssal Grasp] promotion",
+                    "All newly-trained [Ranged] units [in your cities] receive the [Corporeal] promotion",
                     "Only available <before adopting [Zealotry]>",
                     "Only available <before adopting [Holy Crusade]>",
                     "Only available <before adopting [Call of the Heavens]>"]
   },
-  {
-        "name": "Atheism",
-        "type": "Pantheon",
-        "uniques": ["Comment [Disables all religion, amount of faith increases all stats, faith is consumed every turn and is converted into research]",
-                    "Comment [Units removed 25 faith from enemy upon killing them]",
-                    "Comment [All units gain 5% dmg per era]",
-                    "Comment [All units lose strength based on amount of faith]",
-                    "Comment [Each Era adds a special promotion for all units startting from the classical era]",
-                    "Each city founded increases Science cost of Technologies [30]% less than normal",
-                    "[-5]% Science cost of researching new Technologies <starting from the [Classical era]>",
-                    "[-5]% Science cost of researching new Technologies <starting from the [Medieval era]>",
-                    "[-5]% Science cost of researching new Technologies <starting from the [Renaissance era]>",
-                    "[-10]% Science cost of researching new Technologies <starting from the [Industrial era]>",
-                    "[+2 Production, -1 Faith, +1 Science] from all [Faith] buildings",
-                    "[+1 Science, +1 Culture] from all [Science] buildings",
-                    "[+1 Science, -1 Culture] from all [Culture] buildings",
-                    "All newly-trained [{Religious} {Great Person}] units [in all cities] receive the [Professor] promotion",
-                    "All newly-trained [Military] units [in all cities] receive the [Atheist] promotion",
-                    "[+50]% Natural religion spread [in all cities]",]
-  },
-
+  
 
   //from other mods and stuff
   {
     "name": "Greater than the Gods",
     "type": "Pantheon",
     "uniques": ["[+70]% Natural religion spread [in City-State cities]",
-      "[+10]% Natural religion spread [in all cities]","[+2 Culture, +1 Faith] from every [Philosopher]",
-                "[+100]% Production when constructing [Sacred Space] buildings [in all cities]"]
+      "[+10]% Natural religion spread [in your cities]","[+2 Culture, +1 Faith] from every [Philosopher]",
+                "[+100]% Production when constructing [Sacred Space] buildings [in your cities]"]
   },
   {
     "name": "Spirits not Gods",
     "type": "Pantheon",
-    "uniques": ["Religion naturally spreads to cities [+4] tiles away", "[+20]% Natural religion spread [in all cities]"]
+    "uniques": ["Religion naturally spreads to cities [+4] tiles away", "[+20]% Natural religion spread [in your cities]"]
   },
   {
     "name": "One Supreme God",
@@ -135,7 +116,7 @@
     "name": "Polytheism",
     "type": "Pantheon",
     "uniques": [
-      "[+25]% Natural religion spread [in all cities]","Religion naturally spreads to cities [+3] tiles away",
+      "[+25]% Natural religion spread [in your cities]","Religion naturally spreads to cities [+3] tiles away",
       "[+2 Gold, +2 Faith] from each Trade Route","[+2 Faith, +2 Culture] from every [Shrine]"
     ]
   },
@@ -158,7 +139,7 @@
 {
         "name": "Sola Scriptura",
         "type": "Founder",
-        "uniques": ["[+40]% Natural religion spread [in all cities]"]
+        "uniques": ["[+40]% Natural religion spread [in your cities]"]
     },
 {
         "name": "Impermanence",
@@ -185,24 +166,24 @@
 {
         "name": "Hesychasm",
         "type": "Follower",
-        "uniques": ["[+25]% Natural religion spread [in cities following this religion] <when at war>", "[+2 Faith] [in all cities]"]
+        "uniques": ["[+25]% Natural religion spread [in cities following this religion] <when at war>", "[+2 Faith] [in your cities]"]
     },
 {
         "name": "Corrupted Scripture",
         "type": "Founder",
         "uniques": ["[Faith] cost of purchasing [Inquisitor] units [-25]%",
-                    "[+33]% Natural religion spread [in all cities in which the majority religion is a enhanced religion]"]
+                    "[+33]% Natural religion spread [in your cities in which the majority religion is a enhanced religion]"]
     },
 {
         "name": "Holy Iconography",
         "type": "Follower",
         "uniques": ["[+2 Gold, +2 Culture, +1 Faith] from every [Dyes]","[+2 Gold, +2 Culture, +2 Faith] from every [Incense]",
-                    "[+1 Culture] per [3] population [in all cities]", "[+1 Culture] from all [Faith] buildings <in cities with at least [5] [Followers of this Religion]>"]
+                    "[+1 Culture] per [3] population [in your cities]", "[+1 Culture] from all [Faith] buildings <in cities with at least [5] [Followers of this Religion]>"]
     },
 {
         "name": "Predestination",
         "type": "Follower",
-        "uniques": ["[+50]% Natural religion spread [in all cities] <when at war>","[-33]% Natural religion spread [in all cities] <when not at war>",
+        "uniques": ["[+50]% Natural religion spread [in your cities] <when at war>","[-33]% Natural religion spread [in your cities] <when not at war>",
                     "[-2]% [Happiness] from every follower, up to [-20]% <when not at war>"]
     },
 {
@@ -214,26 +195,26 @@
 {
         "name": "Nihilism",
         "type": "Follower",
-        "uniques": ["[+25]% Natural religion spread [in all cities]","[-3]% [Happiness] from every follower, up to [-30]% <when not at war>",
-                    "[+1 Gold] [in all cities]",
-                    "[+2 Faith] [in all cities] <during a Golden Age>"]
+        "uniques": ["[+25]% Natural religion spread [in your cities]","[-3]% [Happiness] from every follower, up to [-30]% <when not at war>",
+                    "[+1 Gold] [in your cities]",
+                    "[+2 Faith] [in your cities] <during a Golden Age>"]
     },
 {
         "name": "Hedonism",
         "type": "Follower",
-        "uniques": ["[+33]% Natural religion spread [in all cities] <during a Golden Age>",
+        "uniques": ["[+33]% Natural religion spread [in your cities] <during a Golden Age>",
                     "[-2 Food, -2 Production, +1 Gold, +2 Culture] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>",
                     "[+2 Culture, -3 Faith] from every [Ascetic]"]
     },
 {
         "name": "Incarnation of God",
         "type": "Founder",
-        "uniques": ["[+33]% Natural religion spread [in all cities]","[+1 Gold] per [3] population [in cities following this religion]"]
+        "uniques": ["[+33]% Natural religion spread [in your cities]","[+1 Gold] per [3] population [in cities following this religion]"]
     },
 {
         "name": "Theosis",
         "type": "Enhancer",
-        "uniques": ["[-25]% Unhappiness from [Followers of this Religion] [in all cities]","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
+        "uniques": ["[-25]% Unhappiness from [Followers of this Religion] [in your cities]","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
     },
 {
         "name": "Liturgical Chanting",
@@ -256,7 +237,7 @@
         "name": "Iconoclasm",
         "type": "Founder",
         "uniques": ["[+3 Faith, -2 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>",
-                    "[+33]% Natural religion spread [in all cities in which the majority religion is a enhanced religion]",
+                    "[+33]% Natural religion spread [in your cities in which the majority religion is a enhanced religion]",
                     "[-1 Happiness, -2 Faith] from every [Dyes]"]
     },
 {
@@ -270,12 +251,12 @@
 {
         "name": "Ramadan",
         "type": "Follower",
-        "uniques": ["[+1 Gold, +1 Food, +1 Faith] per [4] population [in all cities]"]
+        "uniques": ["[+1 Gold, +1 Food, +1 Faith] per [4] population [in your cities]"]
     },
 {
         "name": "Fasting Calendar",
         "type": "Follower",
-        "uniques": ["[+1 Food, +2 Production] per [3] population [in all cities]"]
+        "uniques": ["[+1 Food, +2 Production] per [3] population [in your cities]"]
     },
 {
         "name": "Work Ethic",
@@ -292,11 +273,11 @@
 {
         "name": "Kabbalah",
         "type": "Enhancer",
-        "uniques": ["[+1 Happiness, +2 Science] from every [Synagogue]","[+1 Faith] per [4] population [in all cities]"]
+        "uniques": ["[+1 Happiness, +2 Science] from every [Synagogue]","[+1 Faith] per [4] population [in your cities]"]
     },
 {
         "name": "Papal Primacy",
         "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+20]", "[+2 Faith, +1 Happiness] [in all cities] <when at war>"]
+        "uniques": ["Resting point for Influence with City-States following this religion [+20]", "[+2 Faith, +1 Happiness] [in your cities] <when at war>"]
     }
 ]
