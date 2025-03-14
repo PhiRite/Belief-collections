@@ -1,0 +1,185 @@
+[
+	//warp summons 
+	
+	{
+	"name": "Warp Corruption",
+	"uniques": ["May Paradrop up to [5] tiles from inside friendly territory",
+		 "No damage penalty for wounded units",
+		 "[-20]% maintenance costs",
+		 "[+10]% to Flank Attack bonuses",
+		 "Can move immediately once bought",
+		 "[This Unit] gains [3] movement",
+		 "[+15]% Strength <when attacking>",
+		 "[-20]% Strength <when defending>"]
+	},
+	{
+	"name": "Corporeal",
+	"uniques": ["Invisible to non-adjacent units", 
+		 "Withdraws before melee combat <with [40]% chance>"]
+	},
+	{
+	"name": "Abyssal Grasp",
+	"uniques": ["[-10]% Strength for enemy [Wounded] units in adjacent [All] tiles",
+		 "[-10]% Strength for enemy [All] units in adjacent [All] tiles",
+		]
+	},
+	{
+	"name": "Warp Rush",
+	"uniques": ["Unit will heal every turn, even if it performs an action",
+		"[+20]% Strength"]
+	},
+	
+	//Zealots
+	
+	{
+	"name": "True Faith",
+	"uniques": ["Instantly gain [25] [Faith] <upon being defeated>",
+	 "Heals [15] damage if it kills a unit",
+	 "[+50]% XP gained from combat",
+	 "All adjacent units heal [5] HP when healing",
+	 "[+20]% Strength <when defending>",
+	 "No damage penalty for wounded units"]   
+	},
+	{
+	"name": "Undying Will",
+	"uniques": ["[This Unit] gains the [Undying] promotion",
+		"[This Unit] loses the [Undying] promotion <for [3] turns> <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>"]
+	},
+	{
+	"name": "Undying",
+	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>"]	
+	},
+	{
+	"name": "Last Stand",
+	"uniques": ["Comment [unit gains strength when below 50 hp (up to 20% until 30 hp and 40% for 20 hp)]",
+			"[+5]% Strength <when below [50] HP> <hidden from users>",
+			"[+5]% Strength <when below [40] HP> <hidden from users>",
+			"[+5]% Strength <when below [35] HP> <hidden from users>",
+			"[+5]% Strength <when below [30] HP> <hidden from users>",
+			"[+20]% Strength <when below [21] HP><for [2] turns> <hidden from users>",]	
+	},
+	{
+	"name": "Berserk Rage",
+	"uniques": ["Comment [unit gains more attacks and moves when at low health(at 30 and 20)]",
+			"[1] additional attacks per turn <when below [31] HP>",
+			"[1] additional attacks per turn <when below [21] HP>",
+			"Ignores terrain cost <when below [31] HP>",
+			"Ignores Zone of Control <when below [31] HP>",
+			"[This Unit] gains [2] movement <when below [21] HP>"]	
+	},
+	
+	//Crusade
+	
+	{
+	"name": "Unending Crusade",
+	"uniques": ["Earn [15]% of the damage done to [Land] units as [Faith]",
+		 "[+1]% Strength <for every [50] [Faith]>"]
+	},
+	{
+	"name": "Holy Blessing",
+	"uniques": ["Can build [Fort] improvements on tiles",
+			"[+10]% Strength bonus for [Military] units within [3] tiles"]	
+	},
+	{
+	"name": "Blessed Equipment",
+	"uniques": ["[1] additional attacks per turn",
+			"Earn [5]% of the damage done to [Land] units as [Faith]",
+			"Ignores terrain cost"]
+	},
+	{
+	"name": "Blessed Sight",
+	"uniques": ["Ranged attacks may be performed over obstacles",
+			"Earn [5]% of the damage done to [Land] units as [Faith]",
+			"[+2] Sight"]
+	},
+	
+	//Call of the Heavens
+	
+	{
+	"name": "Saint",
+	"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
+			"Can be earned through combat"]
+	},
+	{
+	"name": "Support",
+	"uniques": ["Can move immediately once bought",
+		 "[This Unit] gains [3] movement",
+	         "All adjacent units heal [5] HP when healing",]
+	},	
+	{
+	"name": "Saint Prayer",
+	"uniques": ["Comment [Will Heal all adjacent units by 50 HP on turn end when activated]",
+		"[This Unit] gains the [Saint Aura] status for [1] turn(s) <for [0] movement> <costs [+125 Faith] stats> <for units without [Cooldown]> <hidden from users>",
+		"[This Unit] gains the [Cooldown] status for [3] turn(s) <upon gaining the [Saint Aura] status> <hidden from users>"]
+	},
+	{
+	"name": "Disciple Prayer",
+	"uniques": ["Comment [Will Heal all adjacent units by 25 HP on turn end when activated]",
+		"[This Unit] gains the [Disciple Aura] status for [1] turn(s) <for [0] movement> <costs [+75 Faith] stats> <for units without [Cooldown]> <hidden from users>",
+		"[This Unit] gains the [Cooldown] status for [3] turn(s) <upon gaining the [Disciple Aura] status> <hidden from users>"]
+	},
+	{
+	"name": "Worshipper",
+	"uniques": ["[15]% Strength when stacked with [Religious]",
+		"[50]% Strength when stacked with [Religious] <when defending>",
+	         "Can move immediately once bought",
+		 "[This Unit] gains [3] movement",]
+	},
+	{
+	"name": "Area Purification",
+	"uniques": ["Blast radius [1] <when adjacent to a [{Religious} {Great Person}]>",
+	         "[-15]% Strength <when attacking> <when adjacent to a [{Religious} {Great Person}]>",
+		"[+1] Sight"]
+	},
+	{
+	"name": "Cleansing Fire",
+	"uniques": ["[Target Unit] gains the [Burning] status for [2] turn(s) <upon damaging a [All] unit> <when above [250] [Faith]>"]
+		
+	}
+	//athe
+	{
+	"name": "Atheist",
+	"uniques": ["Comment [Gets stronger the more era is researched]",
+		"[-1]% Strength <for every [25] [Faith]>",
+		"Prevents spreading of religion to the city it is next to",
+		"[+5]% Strength <starting from the [Ancient era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Classical era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Medieval era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Renaissance era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Industrial era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Modern era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Atomic era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Information era]> <hidden from users>",]
+	},
+	{
+	"name": "Professor",
+	"uniques": ["Comment [Can convert faith to either 50% gold and 50% reseaerch]",
+		"Instantly gain [25] [Gold] <for [1] movement> <[4] times> <costs [+50 Faith] stats> <after which this unit is consumed>",
+		"Instantly gain [25] [Research] <for [1] movement> <[4] times> <costs [+50 Faith] stats> <after which this unit is consumed>",
+		"Can instantly construct a [Academy] improvement"]
+	},
+	
+	//effects?
+	{
+	"name": "Burning",
+	"uniques": ["[+1]% Strength",
+		"[This Unit] takes [5] damage <upon turn end>",
+		"[This Unit] loses the [Burning] status <when below [20] HP>",
+		"[-1]% Strength <hidden from users>"]
+	},
+	
+	{
+	"name": "Saint Aura",
+	"uniques": ["[+1]% Strength"],
+	},
+	{
+	"name": "Disciple Aura",
+	"uniques": ["[+1]% Strength"],
+	},
+	{
+	"name": "Cooldown",
+	"uniques": ["Comment [Skill is in cooldown]"],
+	},
+
+  
+]
