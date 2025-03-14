@@ -48,7 +48,7 @@
         "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Happiness] per every [125] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]> <in [in all cities] cities>",
         
         //Zealots
-        "[+1 Faith] per every [10] [Happiness]",
+        "[+1 Faith] per every [15] [Faith]",
         
         //Crusade
         "[Great General] is earned [+20]% faster <when at war> <after adopting [Holy Crusade]>",
