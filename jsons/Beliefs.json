@@ -11,8 +11,9 @@
         "type": "Follower",
         "uniques": [
                     "May buy [Melee] units with [Faith] for [2] times their normal Production cost",
-                    "May buy [Great General] units for [1250] [Faith] [in all cities]",
+                    "May buy [Great General] units for [1000] [Faith] [in all cities]",
                     "Comment [Great General allows melee units to do 2 attacks, and ranged units to ignore obstacles and have more sight]",
+                    "Comment [Units gain more strength based on amount of faith(1% per 50)]",
                     "All newly-trained [Melee] units [in all cities] receive the [Unending Crusade] promotion",
                     "All newly-trained [Ranged] units [in all cities] receive the [Unending Crusade] promotion",
                     "Only available <before adopting [Zealotry]>",
@@ -47,7 +48,7 @@
                     "[Faith] cost of purchasing items in cities [-5]% <starting from the [Classical era]> <hidden from users>",
                     "[Faith] cost of purchasing items in cities [-10]% <starting from the [Medieval era]> <hidden from users>",
                     "[Faith] cost of purchasing items in cities [-10]% <starting from the [Renaissance era]> <hidden from users>",
-                    "May buy [{Religious} {Great Person}] units for [1250] [Faith] [in all cities]",
+                    "May buy [{Religious} {Great Person}] units for [1000] [Faith] [in all cities]",
                     "All newly-trained [Religious] units [in all cities] receive the [Support] promotion",
                     "Comment [New Great Prophets give the same buff as Great Generals, Great Prophets can be earned through combat]",
                     "Comment [All Military land units gain 15% strength when stacked with religious units]",
@@ -62,7 +63,7 @@
         "type": "Follower",
         "uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost",
                     "May buy [{Civilian} {non-[Great Person]}] units with [Faith] for [4] times their normal Production cost",
-                    "May buy [{Religious} {Great Person}] units for [1250] [Faith] [in all cities]",
+                    "May buy [{Religious} {Great Person}] units for [1000] [Faith] [in all cities]",
                     "[+1 Happiness] [in all cities]",
                     "All newly-trained [Land] units [in all cities] receive the [Warp Corruption] promotion",
                     "All newly-trained [Melee] units [in all cities] receive the [Abyssal Grasp] promotion",
@@ -70,6 +71,19 @@
                     "Only available <before adopting [Zealotry]>",
                     "Only available <before adopting [Holy Crusade]>",
                     "Only available <before adopting [Call of the Heavens]>"]
+  },
+  {
+        "name": "Atheism",
+        "type": "Pantheon",
+        "uniques": ["Comment [Disables all religion, amount of faith increases all stats, faith is consumed every turn and is converted into research]",
+                    "Comment [Units removed 25 faith from enemy upon killing them]",
+                    "Comment [All units gain 5% dmg per era]",
+                    "Comment [All units lose strength based on amount of faith]",
+                    "May buy [Inquisitor] units for [10] [Faith] [in all cities]",
+                    "[+2 Production] from all [Faith] buildings",
+                    "All newly-trained [{Religious} {Great Person}] units [in all cities] receive the [Professor] promotion",
+                    "All newly-trained [Military] units [in all cities] receive the [Atheist] promotion",
+                    "[+50]% Natural religion spread [in all cities]",]
   },
 
 
