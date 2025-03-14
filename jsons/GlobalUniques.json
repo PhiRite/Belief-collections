@@ -54,6 +54,7 @@
         "[Great General] is earned [+20]% faster <when at war> <after adopting [Holy Crusade]>",
 
         //atheism?
+        "",
         
         
         
@@ -80,14 +81,13 @@
     "[This Unit] gains the [Saint Prayer] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Disciple Prayer] promotion <for [{Religious} {non-[Great Person]}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Worshipper] promotion <for [{Military} {Land}] units> <after adopting [Call of the Heavens]>",
-    "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [Melee] units> <when above [300] [Faith]>",
-    "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [{Ranged} {non-[Siege]}] units> <when above [400] [Faith]>",
-    "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [Siege] units> <when above [500] [Faith]>",
-    "[This Unit] gains the [Area Purification] promotion <for [Siege] units> <after adopting [Call of the Heavens]> <when adjacent to a [{Religious} {Great Person}]>",
+    "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [Melee] units> <when above [200] [Faith]>",
+    "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [{Ranged} {non-[Siege]}] units> <when above [300] [Faith]>",
+    "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [Siege] units> <when above [400] [Faith]>",
     
     //atheist stuff
     "[Target Unit] instantly gains [-5] [Faith] <when attacking> <after adopting [Atheism]>",
-    
+    "[Target Unit] instantly gains [-25] [Faith] <upon defeating a [All] unit> <after adopting [Atheism]>"
     ]
     
 }
