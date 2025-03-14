@@ -52,7 +52,6 @@
 	{
 	"name": "Last Stand",
 	"uniques": ["Comment [unit gains strength when below 50 hp (up to 20% until 30 hp and 40% for 20 hp)]",
-			"No damage penalty for wounded units",
 			"[+5]% Strength <when below [50] HP> <hidden from users>",
 			"[+5]% Strength <when below [40] HP> <hidden from users>",
 			"[+5]% Strength <when below [35] HP> <hidden from users>",
@@ -132,6 +131,31 @@
 	         "[-15]% Strength <when attacking>",
 		"[+1] Sight"]
 	},
+
+
+	//athe
+	{
+	"name": "Atheism",
+	"uniques": ["Comment [Gets stronger the more era is researched]",
+		"[-1]% Strength <for every [25] [Faith]>",
+		"Prevents spreading of religion to the city it is next to",
+		"[+5]% Strength <starting from the [Ancient era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Classical era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Medieval era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Renaissance era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Industrial era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Modern era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Atomic era]> <hidden from users>",
+		"[+5]% Strength <starting from the [Information era]> <hidden from users>",]
+	},
+	{
+	"name": "Professor",
+	"uniques": ["Comment [Can convert faith to either 50% gold and 50% reseaerch]",
+		"Instantly gain [25] [Gold] <for [1] movement> <[4] times> <costs [+50 Faith] stats> <after which this unit is consumed>",
+		"Instantly gain [25] [Research] <for [1] movement> <[4] times> <costs [+50 Faith] stats> <after which this unit is consumed>",
+		"Can instantly construct a [Academy] improvement"]
+	},
+	
 	//effects?
 	{
 	"name": "Cleansing Fire",
