@@ -131,11 +131,14 @@
 	         "[-15]% Strength <when attacking> <when adjacent to a [{Religious} {Great Person}]>",
 		"[+1] Sight"]
 	},
-
-
+	{
+	"name": "Cleansing Fire",
+	"uniques": ["[Target Unit] gains the [Burning] status for [2] turn(s) <upon damaging a [All] unit> <when above [250] [Faith]>"]
+		
+	}
 	//athe
 	{
-	"name": "Atheism",
+	"name": "Atheist",
 	"uniques": ["Comment [Gets stronger the more era is researched]",
 		"[-1]% Strength <for every [25] [Faith]>",
 		"Prevents spreading of religion to the city it is next to",
@@ -158,11 +161,13 @@
 	
 	//effects?
 	{
-	"name": "Cleansing Fire",
-	"uniques": ["[This Unit] takes [5] damage <upon turn end>",
+	"name": "Burning",
+	"uniques": ["[+1]% Strength",
+		"[This Unit] takes [5] damage <upon turn end>",
 		"[This Unit] loses the [Burning] status <when below [20] HP>",
-		"[-1]% Strength <hidden from users>",],
+		"[-1]% Strength <hidden from users>",]],
 	},
+	
 	{
 	"name": "Saint Aura",
 	"uniques": ["[+1]% Strength"],
