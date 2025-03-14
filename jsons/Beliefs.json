@@ -64,7 +64,6 @@
         "uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost",
                     "May buy [{Civilian} {non-[Great Person]}] units with [Faith] for [4] times their normal Production cost",
                     "May buy [{Religious} {Great Person}] units for [1000] [Faith] [in your cities]",
-                    "[+1 Happiness] [in your cities]",
                     "All newly-trained [Land] units [in your cities] receive the [Warp Corruption] promotion",
                     "All newly-trained [Melee] units [in your cities] receive the [Abyssal Grasp] promotion",
                     "All newly-trained [Ranged] units [in your cities] receive the [Corporeal] promotion",
