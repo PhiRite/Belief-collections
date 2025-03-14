@@ -136,7 +136,7 @@
 	"uniques": ["[Target Unit] gains the [Burning] status for [2] turn(s) <upon damaging a [All] unit> <when above [250] [Faith]>"]
 		
 	}
-	//athe
+	/*athe DISABLED FOR NOW
 	{
 	"name": "Atheist",
 	"uniques": ["Comment [Gets stronger the more era is researched]",
@@ -164,7 +164,7 @@
 	"uniques": ["Comment [Enjoy them]",
 		"[1] Movement",]
 	},
-	
+	*/
 	//effects?
 	{
 	"name": "Burning",
