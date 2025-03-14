@@ -26,6 +26,7 @@
         "[2] free [Modern Armor] units appear <upon gaining a [{Religious} {Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><hidden from users>",
         "[2] free [Modern Armor] units appear <upon gaining a [{Religious} {Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><with [50]% chance><hidden from users>",
         "[1] free [Giant Death Robot] units appear <upon gaining a [{Religious} {Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><with [10]% chance><hidden from users>",				
+        
         // the rest 
         "[1] free [Spearman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><hidden from users>",
         "[1] free [Swordsman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Classical era]><before the [Medieval era]><hidden from users>",
@@ -35,14 +36,26 @@
         "[1] free [Great War Infantry] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Modern era]><before the [Atomic era]><hidden from users>",
         "[1] free [Anti-Tank Gun] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Atomic era]><before the [Information era]><hidden from users>",
         "[1] free [Modern Armor] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Information era]><hidden from users>",
-        //warp stuff
-        "[1] free [Missionary] units appear <upon founding a city> <after adopting [Warp Summons]>",
-        "[+1 Gold, +1 Production, +1 Food] per every [75] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]>",
-        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Gold] per every [100] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]>",
-        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Happiness] per every [125] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]>",
-        "[+30]% Golden Age length <after adopting [Zealotry]>",
+        
+        //warp
+        "[1] population [in this city] <upon founding a city> <after adopting [Warp Summons]>",
+        "[+1 Happiness] [in this city] <upon founding a city> <after adopting [Warp Summons]>",
+        
+        //call of the heavens
+        "[1] Unit Supply per [2] population [in all cities] <after adopting [Call of the Heavens]>",
+        "[+1 Gold, +1 Production, +1 Food] per every [75] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]> <in [in all cities] cities>",
+        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Gold] per every [100] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]> <in [in all cities] cities>",
+        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Happiness] per every [125] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]> <in [in all cities] cities>",
+        
+        //Zealots
+        "[+1 Faith] per every [10] [Happiness]",
+        
+        //Crusade
         "[Great General] is earned [+20]% faster <when at war> <after adopting [Holy Crusade]>",
-        "[1] population [in this city] <upon founding a city> <after adopting [Warp Summons]>"
+
+        //atheism?
+        
+        
         
     ],
     "unitUniques": [
@@ -51,12 +64,15 @@
     "[This Unit] Instantly gain [-25] [Faith] <upon being defeated> <for [Military] units> <after adopting [Holy Crusade]>",
     "[This Unit] gains the [Blessed Equipment] promotion <for [Melee] units> <for [3] turns> <when adjacent to a [Great General] unit> <after adopting [Holy Crusade]>",
     "[This Unit] gains the [Blessed Sight] promotion <for [Ranged] units> <for [3] turns> <when adjacent to a [Great General] unit> <after adopting [Holy Crusade]>",
+    
     //Zealot stuff
     "[This Unit] takes [25] damage <upon defeating a [True Faith] unit> <for [Melee] units> <with [30]% chance>",
+    
     //warp stuff
     "[This Unit] gains the [Warp Rush] promotion <for [5] turns> <upon gaining the [Abyssal Grasp] promotion>",
     "[This Unit] gains the [Warp Rush] promotion <for [5] turns> <upon gaining the [Corporeal] promotion>",
-    "[This Unit] takes [5] damage <when adjacent to a [Warp Corruption] unit>",
+    "[This Unit] takes [5] damage <when adjacent to a [Warp Corruption] unit> <upon turn end> <before adopting [Warp Corruption]>",
+    
     //Call stuff
     "[This Unit] heals [50] HP <when adjacent to a [Saint Aura] unit> <upon turn end>",
     "[This Unit] heals [25] HP <when adjacent to a [Disciple Aura] unit> <upon turn end>",
@@ -67,7 +83,11 @@
     "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [Melee] units> <when above [300] [Faith]>",
     "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [{Ranged} {non-[Siege]}] units> <when above [400] [Faith]>",
     "[Target Unit] gains the [Cleansing Fire] status for [2] turn(s) <upon damaging a [All] unit> <hidden from users> <for [Siege] units> <when above [500] [Faith]>",
-    "[This Unit] gains the [Area Purification] promotion <for [Siege] units> <after adopting [Call of the Heavens]> <when adjacent to a [{Religious} {Great Person}]>"
+    "[This Unit] gains the [Area Purification] promotion <for [Siege] units> <after adopting [Call of the Heavens]> <when adjacent to a [{Religious} {Great Person}]>",
+    
+    //atheist stuff
+    "[Target Unit] instantly gains [-5] [Faith] <when attacking> <after adopting [Atheism]>",
+    
     ]
-  
+    
 }
