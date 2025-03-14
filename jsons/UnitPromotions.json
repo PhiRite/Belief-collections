@@ -127,8 +127,8 @@
 	},
 	{
 	"name": "Area Purification",
-	"uniques": ["Blast radius [1]",
-	         "[-15]% Strength <when attacking>",
+	"uniques": ["Blast radius [1] <when adjacent to a [{Religious} {Great Person}]>",
+	         "[-15]% Strength <when attacking> <when adjacent to a [{Religious} {Great Person}]>",
 		"[+1] Sight"]
 	},
 
