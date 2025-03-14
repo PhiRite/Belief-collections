@@ -127,8 +127,8 @@
 	},
 	{
 	"name": "Area Purification",
-	"uniques": ["Blast radius [1] <when adjacent to a [{Religious} {Great Person}]>",
-	         "[-15]% Strength <when attacking> <when adjacent to a [{Religious} {Great Person}]>",
+	"uniques": ["Blast radius [1] <when adjacent to a [{Religious} {Great Person}]> unit",
+	         "[-15]% Strength <when attacking> <when adjacent to a [{Religious} {Great Person}]> unit",
 		"[+1] Sight"]
 	},
 	{
@@ -156,7 +156,7 @@
 	"uniques": ["Comment [Can convert faith to either 50% gold and 50% reseaerch]",
 		"Instantly gain [25] [Gold] <for [1] movement> <[4] times> <costs [+50 Faith] stats> <after which this unit is consumed>",
 		"Instantly gain [25] [Research] <for [1] movement> <[4] times> <costs [+50 Faith] stats> <after which this unit is consumed>",
-		"Can instantly construct a [Academy] improvement"]
+		"Can instantly construct a [Academy] improvement <by consuming this unit>"]
 	},
 	
 	//effects?
