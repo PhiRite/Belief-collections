@@ -126,45 +126,27 @@
 		 "[This Unit] gains [3] movement",]
 	},
 	{
+	"name": "Fire Starter",
+	"uniques": ["Blast radius [1] <when attacking> <with [30]% chance>"]
+	},
+	{
 	"name": "Area Purification",
-	"uniques": ["Blast radius [1] <when adjacent to a [{Religious} {Great Person}] unit>",
-	         "[-15]% Strength <when attacking> <when adjacent to a [{Religious} {Great Person}] unit>",
-		"[+1] Sight"]
+	"uniques": ["Comment [Activate to gain AOE for 1 turn and deal more damage, Cannot attack Cities during the duration.]",
+				"[This Unit] gains the [Area Purification Mode] status for [1] turn(s) <for [0] movement> <costs [+75 Faith] stats> <hidden from users>",]
+	},
+	{
+	"name": "Area Purification Mode",
+	"uniques": ["[+20]% Strength <when attacking>", 
+		"[This Unit] gains [1] movement <upon damaging a [All] unit>", 
+		"Cannot attack <vs cities>",
+		"Blast radius [1]"]
 	},
 	{
 	"name": "Cleansing Fire",
 	"uniques": ["[Target Unit] gains the [Burning] status for [2] turn(s) <upon damaging a [All] unit> <when above [250] [Faith]>"]
 		
 	}
-	/*athe DISABLED FOR NOW
-	{
-	"name": "Atheist",
-	"uniques": ["Comment [Gets stronger the more era is researched]",
-		"Earn [5]% of the damage done to [All] units as [Science]",
-		"[-1]% Strength <for every [25] [Faith]>",
-		"Prevents spreading of religion to the city it is next to",
-		"[+2]% Strength <starting from the [Ancient era]> <hidden from users>",
-		"[+2]% Strength <starting from the [Classical era]> <hidden from users>",
-		"[+2]% Strength <starting from the [Medieval era]> <hidden from users>",
-		"[+2]% Strength <starting from the [Renaissance era]> <hidden from users>",
-		"[+2]% Strength <starting from the [Industrial era]> <hidden from users>",
-		"[+5]% Strength <starting from the [Modern era]> <hidden from users>",
-		"[+5]% Strength <starting from the [Atomic era]> <hidden from users>",
-		"[+10]% Strength <starting from the [Information era]> <hidden from users>",]
-	},
-	{
-	"name": "Professor",
-	"uniques": ["Comment [Can convert faith to either 50% gold and 50% reseaerch]",
-		"Instantly gain [25] [Gold] <for [1] movement> <[4] times> <costs [+50 Faith] stats> <after which this unit is consumed>",
-		"Instantly gain [25] [Research] <for [1] movement> <[4] times> <costs [+50 Faith] stats> <after which this unit is consumed>",
-		"Can instantly construct a [Academy] improvement <by consuming this unit>"]
-	},
-	{
-	"name": "Classics",
-	"uniques": ["Comment [Enjoy them]",
-		"[1] Movement",]
-	},
-	*/
+	
 	//effects?
 	{
 	"name": "Burning",
