@@ -34,8 +34,8 @@
 	{
 	"name": "True Faith",
 	"uniques": ["Instantly gain [25] [Faith] <upon being defeated>",
-	 "Heals [15] damage if it kills a unit",
-	 "[+50]% XP gained from combat",
+	 "Heals [10] damage if it kills a unit",
+	 "[+30]% XP gained from combat",
 	 "Earn [5]% of the damage done to [All] units as [Happiness]",
          "Earn [5]% of the damage done to [All] units as [Faith] <during a Golden Age>",
 	 "No damage penalty for wounded units"]   
@@ -47,7 +47,7 @@
 	},
 	{
 	"name": "Undying",
-	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>"]	
+	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>"]	
 	},
 	{
 	"name": "Last Stand",
@@ -56,16 +56,15 @@
 			"[+5]% Strength <when below [40] HP> <hidden from users>",
 			"[+5]% Strength <when below [35] HP> <hidden from users>",
 			"[+5]% Strength <when below [30] HP> <hidden from users>",
-			"[+20]% Strength <when below [21] HP><for [2] turns> <hidden from users>",]	
+			"[+10]% Strength <when below [21] HP> <for [2] turns> <hidden from users>",]	
 	},
 	{
 	"name": "Berserk Rage",
 	"uniques": ["Comment [unit gains more attacks and moves when at low health(at 30 and 20)]",
 			"[1] additional attacks per turn <when below [31] HP>",
 			"[1] additional attacks per turn <when below [21] HP>",
-			"Ignores terrain cost <when below [31] HP>",
-			"Ignores Zone of Control <when below [31] HP>",
-			"[This Unit] gains [2] movement <when below [21] HP>"]	
+			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [31] HP>",
+			"[This Unit] gains [1] movement <when below [21] HP>"]	
 	},
 	
 	//Crusade
@@ -73,7 +72,7 @@
 	{
 	"name": "Unending Crusade",
 	"uniques": ["Earn [15]% of the damage done to [Land] units as [Faith]",
-		 "[+1]% Strength <for every [50] [Faith]>"]
+		 "[+1]% Strength <for every [25] [Faith]>"]
 	},
 	{
 	"name": "Holy Blessing",
@@ -82,14 +81,18 @@
 	},
 	{
 	"name": "Blessed Equipment",
-	"uniques": ["[1] additional attacks per turn",
-			"Earn [5]% of the damage done to [Land] units as [Faith]",
-			"Ignores terrain cost"]
+	"uniques": ["[1] additional attacks per turn <when adjacent to a [Great General] unit>",
+			"[10]% Strength when stacked with [Great General]",
+			"[This Unit] gains [1] movement <upon damaging a [All] unit>",
+			"Earn [5]% of the damage done to [Land] units as [Faith] <when adjacent to a [Great General] unit>",
+			"Ignores terrain cost",
+			"[+1]% Strength <for every [50] [Faith]>"]
 	},
 	{
 	"name": "Blessed Sight",
-	"uniques": ["Ranged attacks may be performed over obstacles",
-			"Earn [5]% of the damage done to [Land] units as [Faith]",
+	"uniques": ["Ranged attacks may be performed over obstacles <when adjacent to a [Great General] unit>",
+			"Earn [5]% of the damage done to [Land] units as [Faith] <when adjacent to a [Great General] unit>",
+			"[10]% Strength when stacked with [Great General]",
 			"[+2] Sight"]
 	},
 	
@@ -97,8 +100,7 @@
 	
 	{
 	"name": "Saint",
-	"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
-			"Can be earned through combat"]
+	"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",]
 	},
 	{
 	"name": "Support",
@@ -122,9 +124,20 @@
 	"name": "Worshipper",
 	"uniques": ["[15]% Strength when stacked with [Religious]",
 		"[50]% Strength when stacked with [Religious] <when defending>",
+		"[This Unit] heals [10] HP <upon turn end> <when adjacent to a [Religious] unit>",
 	         "Can move immediately once bought",
-		 "[This Unit] gains [3] movement",]
+		 "[This Unit] gains [3] movement",
+		 "[This Unit] gains [2] XP <upon turn end> <when adjacent to a [Religious] unit>",]
 	},
+	{
+	"name": "United Front",
+	"uniques": ["[This Unit] gains [1] XP <upon turn end> <when adjacent to a [Melee] unit>",]
+	},
+	{
+	"name": "United Strike",
+	"uniques": ["[This Unit] gains [1] XP <upon turn end> <when adjacent to a [Ranged] unit>",]
+	},
+	//the rest of these dont work
 	{
 	"name": "Fire Starter",
 	"uniques": ["Blast radius [2] <when attacking>"]
@@ -144,9 +157,8 @@
 	{
 	"name": "Cleansing Fire",
 	"uniques": ["[Target Unit] gains the [Burning] status for [2] turn(s) <upon damaging a [All] unit> <when above [250] [Faith]>"]
-		
 	}
-	
+	//end
 	//effects?
 	{
 	"name": "Burning",
