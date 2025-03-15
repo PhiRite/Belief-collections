@@ -14,8 +14,7 @@
                     "May buy [Great General] units for [1000] [Faith] [in your cities]",
                     "Comment [Great General allows melee units to do 2 attacks, and ranged units to ignore obstacles and have more sight]",
                     "Comment [Units gain more strength based on amount of faith(1% per 50)]",
-                    "All newly-trained [Melee] units [in your cities] receive the [Unending Crusade] promotion",
-                    "All newly-trained [Ranged] units [in your cities] receive the [Unending Crusade] promotion",
+                    "All newly-trained [Military] units [in your cities] receive the [Unending Crusade] promotion",
                     "Only available <before adopting [Zealotry]>",
                     "Only available <before adopting [Call of the Heavens]>",
                     "Only available <before adopting [Warp Summons]>"]
@@ -41,7 +40,7 @@
         "name": "Call of the Heavens",
         "type": "Follower",
         "uniques": ["Comment [Cost of purchasing items is reduced based on Era until Renaissance(up to 40%)]",
-                    "Comment [Attacks burn target for 2 turns(300 faith for melee, 400 faith for ranged, 500 for siege)]",
+                    "Comment [Attacks burn target for 2 turns]",
                     "[Faith] cost of purchasing items in cities [-5]% <starting from the [Ancient era]> <hidden from users>",
                     "[Faith] cost of purchasing items in cities [-5]% <starting from the [Classical era]> <hidden from users>",
                     "[Faith] cost of purchasing items in cities [-10]% <starting from the [Medieval era]> <hidden from users>",
