@@ -150,9 +150,8 @@
 	//effects?
 	{
 	"name": "Burning",
-	"uniques": ["[+1]% Strength",
-		"[This Unit] takes [5] damage <upon turn end>",
-		"[This Unit] loses the [Burning] status <when below [20] HP>",
+	"uniques": ["[This Unit] takes [5] damage <upon turn start>",
+		"[This Unit] loses the [Burning] status <when below [11] HP>",
 		"[-1]% Strength <hidden from users>"]
 	},
 	
