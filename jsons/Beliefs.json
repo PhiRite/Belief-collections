@@ -49,8 +49,6 @@
                     "[Faith] cost of purchasing items in cities [-10]% <starting from the [Renaissance era]> <hidden from users>",
                     "May buy [{Religious} {Great Person}] units for [1000] [Faith] [in your cities]",
                     "All newly-trained [Religious] units [in your cities] receive the [Support] promotion",
-                    //"All newly-trained [Ranged] units [in your cities] receive the [Fire Starter] promotion",
-                    //"All newly-trained [Military] units [in your cities] recieve the [Cleansing Fire] promotion",
                     "All newly-trained [Ranged] units [in your cities] receive the [United Strike] promotion",
                     "All newly-trained [Military] units [in your cities] recieve the [United Front] promotion",
                     "Comment [New Great Prophets give the same buff as Great Generals, Great Prophets can be earned through combat]",
@@ -214,7 +212,7 @@
 {
         "name": "Theosis",
         "type": "Enhancer",
-        "uniques": ["[-25]% Unhappiness from [Followers of this Religion] [in your cities]","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
+        "uniques": ["[-25]% Unhappiness from [Followers of this Religion] [in your cities]","[+25]% Strength <for [All] units> <when fighting in [All] tiles>"]
     },
 {
         "name": "Liturgical Chanting",
