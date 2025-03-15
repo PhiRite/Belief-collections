@@ -97,18 +97,18 @@
 	},
 	{
 	"name": "Blessed Equipment",
-	"uniques": ["[1] additional attacks per turn <when adjacent to a [Great General] unit> <for [3] turns>",
+	"uniques": ["[1] additional attacks per turn <when adjacent to a [Holy Blessing] unit> <for [3] turns>",
 			"[10]% Strength when stacked with [{Great Person} {Military}]",
 			"[This Unit] gains [1] movement <upon damaging a [All] unit>",
-			"Earn [15]% of the damage done to [Land] units as [Faith] <when adjacent to a [Great General] unit> <for [3] turns>",
+			"Earn [15]% of the damage done to [Land] units as [Faith] <when adjacent to a [Holy Blessing] unit> <for [3] turns>",
 			"Ignores terrain cost",
 			"[+1]% Strength <for every [50] [Faith]>"]
 	},
 	{
 	"name": "Blessed Sight",
-	"uniques": ["Ranged attacks may be performed over obstacles <when adjacent to a [Great General] unit> <for [3] turns>",
-			"Earn [15]% of the damage done to [Land] units as [Faith] <when adjacent to a [Great General] unit> <for [3] turns>",
-			"[10]% Strength when stacked with [Great General]",
+	"uniques": ["Ranged attacks may be performed over obstacles <when adjacent to a [Holy Blessing] unit> <for [3] turns>",
+			"Earn [15]% of the damage done to [Land] units as [Faith] <when adjacent to a [Holy Blessing] unit> <for [3] turns>",
+			"[10]% Strength when stacked with [Holy Blessing]",
 			"[+2] Sight"]
 	},
 	
