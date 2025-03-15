@@ -98,7 +98,7 @@
 	{
 	"name": "Blessed Equipment",
 	"uniques": ["[1] additional attacks per turn <when adjacent to a [Great General] unit> <for [3] turns>",
-			"[10]% Strength when stacked with [Great General]",
+			"[10]% Strength when stacked with [{Great Person} {Military}]",
 			"[This Unit] gains [1] movement <upon damaging a [All] unit>",
 			"Earn [15]% of the damage done to [Land] units as [Faith] <when adjacent to a [Great General] unit> <for [3] turns>",
 			"Ignores terrain cost",
