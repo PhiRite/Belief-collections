@@ -127,7 +127,7 @@
 	},
 	{
 	"name": "Fire Starter",
-	"uniques": ["Blast radius [1] <when attacking> <with [30]% chance>"]
+	"uniques": ["Blast radius [1] <when attacking>"]
 	},
 	{
 	"name": "Area Purification",
