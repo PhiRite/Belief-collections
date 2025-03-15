@@ -33,7 +33,7 @@
 	"name": "Blood Offering",
 	"uniques": ["Comment [BLOOD FOR THE BLOOD GOD!]",
 		"Comment [Unit will have unlimited attacks heal from kills, but each atk slowly kills the units]",
-		"[This Unit] gains the [Bloodletter] status for [1] turn(s) <for [0] movement> <hidden from users>",]
+		"[This Unit] gains the [Bloodletter] status for [1] turn(s) <costs [+100 Faith] stats> <for [0] movement> <hidden from users>",]
 	},
 	{
 	"name": "Bloodletter",
