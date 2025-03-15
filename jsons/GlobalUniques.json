@@ -62,10 +62,8 @@
     ],
     "unitUniques": [
     //crusade stuff
-    "[Great General] units gain the [Holy Weapon Blessing] promotion <after adopting [Holy Crusade]>",
+    "[Great General] units gain the [Holy Blessing] promotion <after adopting [Holy Crusade]>",
     "[This Unit] Instantly gain [-25] [Faith] <upon being defeated> <for [Military] units> <after adopting [Holy Crusade]>",
-    "[This Unit] gains the [Blessed Equipment] promotion <for [Melee] units> <for [3] turns> <when adjacent to a [Great General] unit> <after adopting [Holy Crusade]>",
-    "[This Unit] gains the [Blessed Sight] promotion <for [Ranged] units> <for [3] turns> <when adjacent to a [Great General] unit> <after adopting [Holy Crusade]>",
     
     //Zealot stuff
     "[This Unit] takes [25] damage <upon defeating a [True Faith] unit> <for [Melee] units> <with [30]% chance>",
@@ -82,9 +80,9 @@
     "[This Unit] gains the [Saint Prayer] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Disciple Prayer] promotion <for [{Religious} {non-[Great Person]}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Worshipper] promotion <for [{Military} {Land}] units> <after adopting [Call of the Heavens]>",
-    "[This Unit] gains the [Cleansing Fire] promotion <for [Military] units> <after adopting [Call of the Heavens]>",
-    "[This Unit] gains the [Area Purification] promotion <for [Siege] units> <after adopting [Call of the Heavens]>",
-    "[This Unit] gains the [Fire Starter] promotion <for [Ranged] units> <after adopting [Call of the Heavens]>",
+    //"[This Unit] gains the [Cleansing Fire] promotion <for [Military] units> <after adopting [Call of the Heavens]>",
+    //"[This Unit] gains the [Area Purification] promotion <for [Siege] units> <after adopting [Call of the Heavens]>",
+    //"[This Unit] gains the [Fire Starter] promotion <for [Ranged] units> <after adopting [Call of the Heavens]>",
     
     ]
     
