@@ -148,7 +148,7 @@
 		 "[-20]% maintenance costs"]
 	},
 	{
-	"name": "Stength in Unity",
+	"name": "Strength in Unity",
 	"uniques": ["[This Unit] gains [1] XP <upon turn end> <when adjacent to a [Melee] unit>",
 			"[This Unit] gains [1] XP <upon turn end> <when adjacent to a [Ranged] unit>",]
 	},
