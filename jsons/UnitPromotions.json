@@ -143,15 +143,14 @@
 		"[This Unit] heals [10] HP <upon turn end> <when adjacent to a [Religious] unit>",
 	         "Can move immediately once bought",
 		 "[This Unit] gains [3] movement",
-		 "[This Unit] gains [2] XP <upon turn end> <when adjacent to a [Religious] unit>",]
+		 "[This Unit] gains [4] XP <upon turn end> <when adjacent to a [{Religious} {Great Person}] unit>",
+		 "[This Unit] gains [2] XP <upon turn end> <when adjacent to a [{Religious} {non-[Great Person]}] unit>",
+		 "[-20]% maintenance costs"]
 	},
 	{
-	"name": "United Front",
-	"uniques": ["[This Unit] gains [1] XP <upon turn end> <when adjacent to a [Melee] unit>",]
-	},
-	{
-	"name": "United Strike",
-	"uniques": ["[This Unit] gains [1] XP <upon turn end> <when adjacent to a [Ranged] unit>",]
+	"name": "Stength in Unity",
+	"uniques": ["[This Unit] gains [1] XP <upon turn end> <when adjacent to a [Melee] unit>",
+			"[This Unit] gains [1] XP <upon turn end> <when adjacent to a [Ranged] unit>",]
 	},
 	//the rest of these dont work
 	{
