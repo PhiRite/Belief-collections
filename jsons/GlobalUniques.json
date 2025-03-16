@@ -76,6 +76,8 @@
     //Call stuff
     "[This Unit] heals [50] HP <when adjacent to a [Saint Aura] unit> <upon turn end>",
     "[This Unit] heals [25] HP <when adjacent to a [Disciple Aura] unit> <upon turn end>",
+    "[This Unit] gains the [Support] promotion <for [Religious] units> <after adopting [Call of the Heavens]>",
+    "[This Unit] gains the [Support] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Saint] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Saint Prayer] promotion <for [{Religious} {Great Person}] units> <after adopting [Call of the Heavens]>",
     "[This Unit] gains the [Disciple Prayer] promotion <for [{Religious} {non-[Great Person]}] units> <after adopting [Call of the Heavens]>",
