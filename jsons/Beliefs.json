@@ -63,6 +63,7 @@
                     "May buy [{Civilian} {non-[Great Person]}] units with [Faith] for [4] times their normal Production cost",
                     "May buy [{Religious} {Great Person}] units for [1000] [Faith] [in your cities]",
                     "All newly-trained [Land] units [in your cities] receive the [Warp Corruption] promotion",
+                    "All newly-trained [{Religious} {Great Person}] units [in your cities] receive the [Warp Corruption] promotion",
                     "All newly-trained [Melee] units [in your cities] receive the [Plague Bringer] promotion",
                     "All newly-trained [Melee] units [in your cities] receive the [Blood Offering] promotion",
                     "All newly-trained [Ranged] units [in your cities] receive the [Corporeal] promotion",
