@@ -35,7 +35,7 @@
 		"Comment [Unit will have unlimited attacks heal from kills, but each atk slowly kills the units]",
 		"[3] Movement",
 		"[This Unit] gains the [Bloodletter] status for [1] turn(s) <costs [+100 Faith] stats> <for [0] movement> <for units without [Cooldown]> <hidden from users>",
-		"[This Unit] gains the [Cooldown] status for [3] turn(s) <upon gaining the [Bloodletter] status> <hidden from users>"]]
+		"[This Unit] gains the [Cooldown] status for [3] turn(s) <upon gaining the [Bloodletter] status> <hidden from users>"]
 	},
 	{
 	"name": "Bloodletter",
