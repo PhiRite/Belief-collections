@@ -38,14 +38,15 @@
         "[1] free [Modern Armor] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Information era]><hidden from users>",
         
         //warp
+        "[+1 Happiness] <for every [3] [Pain And Pleasure]> <after adopting [Warp Corruption]>",
         "[1] population [in this city] <upon founding a city> <after adopting [Warp Summons]>",
         "[+1 Happiness] [in this city] <upon founding a city> <after adopting [Warp Summons]>",
         
         //call of the heavens
         "[3] Unit Supply per [2] population [in all cities] <after adopting [Call of the Heavens]>",
-        "[+1 Gold, +1 Production, +1 Food] per every [75] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]> <in [in all cities] cities>",
-        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Gold] per every [100] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]> <in [in all cities] cities>",
-        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Happiness] per every [125] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]> <in [in all cities] cities>",
+        "[+1 Gold, +1 Production, +1 Food] per every [75] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]> <in [in your cities] cities>",
+        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Gold] per every [100] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]> <in [in your cities] cities>",
+        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Happiness] per every [125] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]> <in [in your cities] cities>",
         
         //Zealots
         "[+1 Faith] per every [15] [Faith]",
@@ -53,7 +54,7 @@
         
         //Crusade
         "[Great General] is earned [+20]% faster <when at war> <after adopting [Holy Crusade]>",
-
+        
         
         
         
