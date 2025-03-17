@@ -51,8 +51,9 @@
 	"uniques": ["Comment [He sees and knows all...]",
 		 "Comment [This unit begins praying and gains faith per turn, something seems wrong however]",
 		 "[This Unit] gains the [Corrupt Prayer] status for [10] turn(s) <costs [+75 Faith] stats> <for [0] movement> <for units without [Cooldown]> <hidden from users>",
-		 "[This Unit] gains the [Cooldown] status for [10] turn(s) <hidden from users>",]
+		 "[This Unit] gains the [Cooldown] status for [10] turn(s) <upon gaining the [Corrupt Prayer] status> <hidden from users>",]
 	},
+	
 	{
 	"name": "Corrupt Prayer",
 	"uniques": ["Instantly gain [15] [Faith] <upon turn end>",
