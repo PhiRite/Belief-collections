@@ -74,6 +74,7 @@
     "[This Unit] gains the [Warp Rush] status for [5] turn(s) <upon gaining the [Abyssal Grasp] promotion>",
     "[This Unit] gains the [Warp Rush] status for [5] turn(s) <upon gaining the [Corporeal] promotion>",
     "[This Unit] takes [5] damage <when adjacent to a [Warp Corruption] unit> <upon turn end> <before adopting [Warp Corruption]>",
+    "[This Unit] gains the [Warp Corruption] promotion <for [Civilian] units> <after adopting [Warp Summons]>",
     
     //Call stuff
     "[This Unit] heals [50] HP <when adjacent to a [Saint Aura] unit> <upon turn end>",
