@@ -18,13 +18,6 @@
 		 "Withdraws before melee combat <with [40]% chance>"]
 	},
 	{
-	"name": "Plague Bringer",
-	"uniques": ["Comment [Go Forth and spread the gifts of the Father]",
-		 "[-10]% Strength for enemy [Wounded] units in adjacent [All] tiles",
-		 "[-10]% Strength for enemy [All] units in adjacent [All] tiles <when below [31] HP>",
-		 "[-5]% Strength for enemy [All] units in adjacent [All] tiles",]
-	},
-	{
 	"name": "Warp Rush",
 	"uniques": ["Unit will heal every turn, even if it performs an action",
 		"[+20]% Strength"]
@@ -46,6 +39,39 @@
 		"[This Unit] gains [2] movement <upon defeating a [All] unit>",
 		"Heals [30] damage if it kills a unit",]
 	},
+	{
+	"name": "Plague Bringer",
+	"uniques": ["Comment [Go Forth and spread the gifts of the Father]",
+		 "[-10]% Strength for enemy [Wounded] units in adjacent [All] tiles",
+		 "[-10]% Strength for enemy [All] units in adjacent [All] tiles <when below [31] HP>",
+		 "[-5]% Strength for enemy [All] units in adjacent [All] tiles",]
+	},
+	{
+	"name": "Chaos Ritual",
+	"uniques": ["Comment [He sees and knows all...]",
+		 "Comment [This unit begins praying and gains faith per turn, something seems wrong however]",
+		 "[This Unit] gains the [Corrupt Prayer] status for [10] turn(s) <costs [+75 Faith] stats> <for [0] movement> <for units without [Cooldown]> <hidden from users>",
+		 "[This Unit] gains the [Cooldown] status for [10] turn(s) <hidden from users>",]
+	},
+	{
+	"name": "Corrupt Prayer",
+	"uniques": ["Instantly gain [15] [Faith] <upon turn end>",
+			"[This Unit] takes [15] damage <upon turn end> <with [10]% chance>",
+			"Instantly gain [150] [Faith] <when above [99] HP> <after turn number [10]>",
+			"[This Unit] loses [10] movement"]
+	},
+	{
+	"name": "Thirst",
+	"uniques": ["Comment [Height of pleasures...]",
+			"Comment [Unit will give happiness if hp is lower than 70]",
+			"[This Unit] gains the [Pain And Pleasure] promotion <when below [71] HP> <hidden from users>",
+			"[This Unit] loses the [Pain And Pleasure] promotion <when above [70] HP> <hidden from users>",]
+	},
+	{
+	"name": "Pain And Pleasure",
+	"uniques": ["Comment [MORE MORE MORE!]",
+			"Comment [More units gives more happiness]",]
+	},
 	
 	//Zealots
 	
@@ -53,23 +79,19 @@
 	"name": "True Faith",
 	"uniques": ["Instantly gain [25] [Faith] <upon being defeated>",
 	 "Heals [10] damage if it kills a unit",
-	 "[+30]% XP gained from combat",
+	 "[+20]% XP gained from combat",
 	 "Earn [5]% of the damage done to [All] units as [Happiness]",
          "Earn [5]% of the damage done to [All] units as [Faith] <during a Golden Age>",
 	 "No damage penalty for wounded units"]   
 	},
 	{
 	"name": "Undying Will",
-	"uniques": ["[This Unit] gains the [Undying] promotion",
-		"[This Unit] loses the [Undying] promotion <for [3] turns> <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>"]
-	},
-	{
-	"name": "Undying",
-	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <when below [21] HP> <hidden from users>"]	
+	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <for units without [Cooldown]>",
+		"[This Unit] gains the [Cooldown] status for [3] turn(s) <hidden from users>"]
 	},
 	{
 	"name": "Last Stand",
-	"uniques": ["Comment [unit gains strength when below 50 hp (up to 20% until 30 hp and 40% for 20 hp)]",
+	"uniques": ["Comment [unit gains strength when below 50 hp (up to 20% until 30 hp and 30% for 20 hp)]",
 			"[+5]% Strength <when below [50] HP> <hidden from users>",
 			"[+5]% Strength <when below [40] HP> <hidden from users>",
 			"[+5]% Strength <when below [35] HP> <hidden from users>",
@@ -81,6 +103,7 @@
 	"uniques": ["Comment [unit gains more attacks and moves when at low health(at 30 and 20)]",
 			"[1] additional attacks per turn <when below [31] HP>",
 			"[1] additional attacks per turn <when below [21] HP>",
+			"Can move after attacking",
 			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [31] HP>",
 			"[This Unit] gains [1] movement <when below [21] HP>"]	
 	},
@@ -112,6 +135,20 @@
 			"Earn [15]% of the damage done to [Land] units as [Faith] <when adjacent to a [Holy Blessing] unit> <for [3] turns>",
 			"[10]% Strength when stacked with [Holy Blessing]",
 			"[+2] Sight"]
+	},
+	{
+	"name": "Self Sacrifice",
+	"uniques": ["Comment [Heals to max, Gains 1 more attack and more moves and dmg but at the end of turn takes 70 damage]",
+			"[This Unit] gains the [Righteousness] status for [1] turn(s) <costs [+50 Faith] stats> <for [0] movement> <for units without [Cooldown]> <hidden from users>",]
+	},
+	{
+	"name": "Righteousness",
+	"uniques": ["[This Unit] heals [100] HP",
+			"[1] additional attacks per turn",
+			"Can move after attacking",
+			"[This Unit] gains [4] movement",
+			"[+30]% Strength <when attacking>",
+			"[This Unit] takes [70] damage <upon turn end>"]
 	},
 	
 	//Call of the Heavens
@@ -149,6 +186,7 @@
 		 "[This Unit] gains [4] XP <upon turn end> <when adjacent to a [{Religious} {Great Person}] unit> <hidden from users>",
 		 "[This Unit] gains [3] XP <upon turn end> <when adjacent to a [{Religious} {non-[Great Person]}] unit> <hidden from users>",
 		 "[This Unit] gains [2] XP <upon turn end> <when adjacent to a [Military] unit> <hidden from users>",
+		 "[-25]% XP required for promotions",
 		 "[-20]% maintenance costs"]
 	},
 	//the rest of these dont work
