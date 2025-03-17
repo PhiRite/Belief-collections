@@ -31,7 +31,7 @@
 	},
 	{
 	"name": "Bloodletter",
-	"uniques": ["Comment [SPILL THEIR BLOOD!]", 
+	"uniques": ["Comment [SPILL THEIR BLOOD!]", "[5] Movement",
 		"[+1]% Strength <hidden from users>", "Can move after attacking",
 		"[99] additional attacks per turn", "No damage penalty for wounded units",
 		"[This Unit] gains [2] movement <upon damaging a [All] unit>",
@@ -141,7 +141,8 @@
 	{
 	"name": "Self Sacrifice",
 	"uniques": ["Comment [Heals to max, Gains 1 more attack and more moves and dmg but at the end of turn takes 70 damage]",
-			"[This Unit] gains the [Righteousness] status for [1] turn(s) <costs [+50 Faith] stats> <for [0] movement> <for units without [Cooldown]> <hidden from users>",]
+			"[This Unit] gains the [Righteousness] status for [1] turn(s) <costs [+50 Faith] stats> <for [0] movement> <for units without [Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Cooldown] status for [10] turn(s) <upon gaining the [Self Sacrifice] status> <hidden from users>",]
 	},
 	{
 	"name": "Righteousness",
