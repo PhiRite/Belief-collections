@@ -36,7 +36,7 @@
 		"[99] additional attacks per turn", "No damage penalty for wounded units",
 		"[This Unit] gains [2] movement <upon damaging a [All] unit>",
 		"[This Unit] takes [15] damage <upon damaging a [All] unit>",
-		"[This Unit] gains [2] movement <upon defeating a [All] unit>",
+		"[This Unit] gains [1] movement <upon defeating a [All] unit>",
 		"Heals [30] damage if it kills a unit",]
 	},
 	{
