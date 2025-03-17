@@ -57,7 +57,7 @@
 	{
 	"name": "Corrupt Prayer",
 	"uniques": ["Cannot move",
-			"Instantly gain [100] [Faith] <after which this unit is consumed> <upon losing the [Corrupt Prayer] status>",]
+			"Instantly gain [100] [Faith] <after which this unit is consumed> <upon losing the [Corrupt Prayer] status>",
 			"[This Unit] loses [999] movement <upon turn start>"]
 	},
 	{
