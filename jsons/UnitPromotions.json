@@ -148,12 +148,7 @@
 	},
 	{
 	"name": "Righteousness",
-	"uniques": ["[This Unit] heals [100] HP",
-			"[1] additional attacks per turn",
-			"Can move after attacking",
-			"[This Unit] gains [4] movement",
-			"[+30]% Strength <when attacking>",
-			"[This Unit] takes [70] damage <upon turn end>"]
+	"uniques": ["[This Unit] heals [100] HP"]
 	},
 	
 	//Call of the Heavens
