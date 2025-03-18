@@ -113,7 +113,11 @@
 	{
 	"name": "Unending Crusade",
 	"uniques": ["Earn [15]% of the damage done to [Land] units as [Faith]",
-		 "[+1]% Strength <for every [25] [Faith]>"]
+		 "[+1]% Strength <for every [25] [Faith]>",
+	         "[This Unit] heals [5] HP <when below [71] HP> <when above [50] [Faith]> <upon turn end>",
+	         "[This Unit] heals [5] HP <when below [71] HP> <when above [75] [Faith]> <upon turn end>",
+	         "[This Unit] heals [5] HP <when below [71] HP> <when above [100] [Faith]> <upon turn end>",
+	         "[This Unit] heals [5] HP <when below [71] HP> <when above [125] [Faith]> <upon turn end>",]
 	},
 	{
 	"name": "Holy Blessing",
