@@ -148,7 +148,7 @@
 	},
 	{
 	"name": "Righteousness",
-	"uniques": ["[This Unit] heals [100] HP"]
+	"uniques": ["[This Unit] heals [100] HP <upon gaining the [Righteousness] status> "]
 	},
 	
 	//Call of the Heavens
