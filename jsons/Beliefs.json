@@ -7,6 +7,11 @@
                     "[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
   },
   {
+        "name": "test me baby",
+        "type": "Follower",
+        "uniques": ["[[1] free [Archer] units appear <every [3] turns> <in [Your] cities> <in [in cities following this religion] cities>", ]
+  },
+  {
         "name": "Holy Crusade",
         "type": "Follower",
         "uniques": [
