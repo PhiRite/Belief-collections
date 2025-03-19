@@ -115,6 +115,7 @@
 	"name": "Unending Crusade",
 	"uniques": ["Earn [15]% of the damage done to [Land] units as [Faith]",
 		 "[+1]% Strength <for every [25] [Faith]>",
+		 "Prevents spreading of religion to the city it is next to",
 	         "[This Unit] heals [5] HP <when below [71] HP> <when above [50] [Faith]> <upon turn end>",
 	         "[This Unit] heals [5] HP <when below [71] HP> <when above [75] [Faith]> <upon turn end>",
 	         "[This Unit] heals [5] HP <when below [71] HP> <when above [100] [Faith]> <upon turn end>",
