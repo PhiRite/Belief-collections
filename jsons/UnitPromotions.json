@@ -51,8 +51,7 @@
 	"uniques": ["Comment [He sees and knows all...]",
 		 "Comment [This unit begins praying and gains more sight per turn, it seems too mich for them...]",
 		 "[This Unit] gains the [All Seeing Eyes] status for [5] turn(s) <costs [+100 Faith] stats> <for [0] movement> <for units without [Cooldown]> <hidden from users>",
-		 "[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [All Seeing Eyes] status> <hidden from users>",
-		 "[This Unit] loses [999] movement <upon turn start> <upon losing the [All Seeing Eyes] status> <after which this unit is consumed>",]
+		 "[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [All Seeing Eyes] status> <hidden from users>",]
 		 
 	},
 	{
@@ -64,6 +63,7 @@
 			"[+1] Sight <upon turn start> <after turn number [3]>",
 			"[+1] Sight <upon turn start> <after turn number [4]>",
 			"[This Unit] loses [999] movement <upon turn start>",
+			"[+1]% strength <after turn number [4]> <upon turn end> <after which this unit is consumed>",
 			"[-100]% Strength <when defending>"]
 	},
 	{
