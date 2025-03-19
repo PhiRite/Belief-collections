@@ -73,7 +73,7 @@
 			"[This Unit] gains the [Pleasure] promotion <when below [71] HP> <hidden from users>",
 			"[This Unit] loses the [Pleasure] promotion <when above [70] HP> <hidden from users>",
 			"[This Unit] gains the [Pain] promotion <when below [41] HP> <hidden from users>",
-			"[This Unit] loses the [Pain promotion <when above [40] HP> <hidden from users>",]
+			"[This Unit] loses the [Pain] promotion <when above [40] HP> <hidden from users>",]
 	},
 	{
 	"name": "Pleasure",
