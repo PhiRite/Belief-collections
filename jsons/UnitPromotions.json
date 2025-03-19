@@ -50,26 +50,38 @@
 	"name": "Chaos Ritual",
 	"uniques": ["Comment [He sees and knows all...]",
 		 "Comment [This unit begins praying and gains faith per turn, something seems wrong however]",
-		 "[This Unit] gains the [Corrupt Prayer] status for [5] turn(s) <costs [+5 Faith] stats> <for [0] movement> <for units without [Cooldown]> <hidden from users>",
-		 "[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [Corrupt Prayer] status> <hidden from users>",]
+		 "[This Unit] gains the [All Seeing Eyes] status for [5] turn(s) <costs [+100 Faith] stats> <for [0] movement> <for units without [Cooldown]> <hidden from users>",
+		 "[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [All Seeing Eyes] status> <hidden from users>",
+		 "[This Unit] loses [999] movement <upon turn start> <upon losing the [All Seeing Eyes] status> <after which this unit is consumed>",]
 		 
 	},
-	
 	{
-	"name": "Corrupt Prayer",
+	"name": "All Seeing Eyes",
 	"uniques": ["Cannot move",
-			"Instantly gain [100] [Faith] <after which this unit is consumed> <upon losing the [Corrupt Prayer] status>",
-			"[This Unit] loses [999] movement <upon turn start>"]
+			"[+1] Sight <upon turn start>",
+			"[+1] Sight <upon turn start> <after turn number [1]>",
+			"[+1] Sight <upon turn start> <after turn number [2]>",
+			"[+1] Sight <upon turn start> <after turn number [3]>",
+			"[+1] Sight <upon turn start> <after turn number [4]>",
+			"[This Unit] loses [999] movement <upon turn start>",
+			"[-100]% Strength <when defending>"]
 	},
 	{
 	"name": "Thirst",
 	"uniques": ["Comment [Height of pleasures...]",
-			"Comment [Unit will give happiness if hp is lower than 80]",
-			"[This Unit] gains the [Pain And Pleasure] promotion <when below [71] HP> <hidden from users>",
-			"[This Unit] loses the [Pain And Pleasure] promotion <when above [70] HP> <hidden from users>",]
+			"Comment [Unit will give happiness if hp is lower than 70 and 40]",
+			"[This Unit] gains the [Pleasure] promotion <when below [71] HP> <hidden from users>",
+			"[This Unit] loses the [Pleasure] promotion <when above [70] HP> <hidden from users>",
+			"[This Unit] gains the [Pain] promotion <when below [41] HP> <hidden from users>",
+			"[This Unit] loses the [Pain promotion <when above [40] HP> <hidden from users>",]
 	},
 	{
-	"name": "Pain And Pleasure",
+	"name": "Pleasure",
+	"uniques": ["Comment [YES!]",
+			"Comment [More units gives more happiness]",]
+	},
+	{
+	"name": "Pain",
 	"uniques": ["Comment [MORE MORE MORE!]",
 			"Comment [More units gives more happiness]",]
 	},
