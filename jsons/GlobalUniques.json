@@ -68,7 +68,7 @@
     "[This Unit] Instantly gain [-25] [Faith] <upon being defeated> <for [Military] units> <after adopting [Holy Crusade]>",
     
     //Zealot stuff
-    "[This Unit] takes [25] damage <upon defeating a [True Faith] unit> <for [Melee] units> <with [30]% chance>",
+    "[This Unit] takes [25] damage <upon defeating a [True Faith] unit> <for [Melee] units> <with [50]% chance>",
     
     //warp stuff
     "[This Unit] gains the [Warp Rush] status for [5] turn(s) <upon gaining the [Abyssal Grasp] promotion>",
