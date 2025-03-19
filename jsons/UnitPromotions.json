@@ -63,7 +63,7 @@
 			"[+1] Sight <upon turn start> <after turn number [3]>",
 			"[+1] Sight <upon turn start> <after turn number [4]>",
 			"[This Unit] loses [999] movement <upon turn start>",
-			"[+1]% strength <after turn number [4]> <upon turn end> <after which this unit is consumed>",
+			"[+1]% Strength <after turn number [4]> <upon turn end> <after which this unit is consumed>",
 			"[-100]% Strength <when defending>"]
 	},
 	{
