@@ -49,7 +49,7 @@
 	{
 	"name": "Chaos Ritual",
 	"uniques": ["Comment [He sees and knows all...]",
-		 "Comment [This unit begins praying and gains faith per turn, something seems wrong however]",
+		 "Comment [This unit begins praying and gains more sight per turn, it seems too mich for them...]",
 		 "[This Unit] gains the [All Seeing Eyes] status for [5] turn(s) <costs [+100 Faith] stats> <for [0] movement> <for units without [Cooldown]> <hidden from users>",
 		 "[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [All Seeing Eyes] status> <hidden from users>",
 		 "[This Unit] loses [999] movement <upon turn start> <upon losing the [All Seeing Eyes] status> <after which this unit is consumed>",]
@@ -142,9 +142,10 @@
 	"name": "Blessed Equipment",
 	"uniques": ["[1] additional attacks per turn <when adjacent to a [Holy Blessing] unit> <for [3] turns>",
 			"[10]% Strength when stacked with [{Great Person} {Military}]",
-			"[This Unit] gains [1] movement <upon damaging a [All] unit>",
+			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when adjacent to a [Holy Blessing] unit>",
 			"Earn [15]% of the damage done to [Land] units as [Faith] <when adjacent to a [Holy Blessing] unit> <for [3] turns>",
-			"Ignores terrain cost",
+			"Ignores terrain cost <when adjacent to a [Holy Blessing] unit> <for [3] turns>", 
+			"[+100]% Strength <vs cities> <when attacking>",
 			"[+1]% Strength <for every [50] [Faith]>"]
 	},
 	{
