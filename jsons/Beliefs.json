@@ -9,7 +9,7 @@
   {
         "name": "test me baby",
         "type": "Follower",
-        "uniques": ["[[1] free [Archer] units appear <every [3] turns> <in [Your] cities> <in [in cities following this religion] cities>", ]
+        "uniques": ["[[1] free [Archer] units appear <every [3] turns> <in [Your] cities>", ]
   },
   {
         "name": "Holy Crusade",
