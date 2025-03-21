@@ -83,7 +83,7 @@
   },
   {
         "name": "Atheism",
-        "type": "Follower",
+        "type": "Pantheon",
         "uniques": ["Comment [DISABLES ALL RELIGION FOR YOUR CIV]",
                     "Comment [Units removed 25 faith from enemy upon killing them]",
                     "Comment [All units gain 5% dmg per era]",
