@@ -81,7 +81,14 @@
                     "Only available <before adopting [Holy Crusade]>",
                     "Only available <before adopting [Call of the Heavens]>"]
   },
-  
+  {
+        "name": "Atheism",
+        "type": "Follower",
+        "uniques": ["Comment [DISABLES ALL RELIGION FOR YOUR CIV]",
+                    "Comment [Units removed 25 faith from enemy upon killing them]",
+                    "Comment [All units gain 5% dmg per era]",
+                    "Comment [Each Era adds a special promotion for all units startting from the classical era]",]
+  },
 
   //from other mods and stuff
   {
