@@ -44,7 +44,8 @@
 	"uniques": ["Comment [Go Forth and spread the gifts of the Father]",
 		 "[-10]% Strength for enemy [Wounded] units in adjacent [All] tiles",
 		 "[-10]% Strength for enemy [All] units in adjacent [All] tiles <when below [31] HP>",
-		 "[-5]% Strength for enemy [All] units in adjacent [All] tiles",]
+		 "[-5]% Strength for enemy [All] units in adjacent [All] tiles",
+		 "Destroys tile improvements when attacking"]
 	},
 	{
 	"name": "Chaos Ritual",
