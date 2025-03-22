@@ -57,8 +57,6 @@
         "[Great General] is earned [+20]% faster <when at war> <after adopting [Holy Crusade]>",
 
         //Atheist
-        "[Target Unit] instantly gains [-5] [Faith] <when attacking> <after adopting [Atheism]> <for [Atheist] units>",
-        "[Target Unit] instantly gains [-25] [Faith] <upon defeating a [All] unit> <after adopting [Atheism]> <for [Atheist] units>"
         
         
         
@@ -90,7 +88,10 @@
     //"[This Unit] gains the [Cleansing Fire] promotion <for [Military] units> <after adopting [Call of the Heavens]>",
     //"[This Unit] gains the [Area Purification] promotion <for [Siege] units> <after adopting [Call of the Heavens]>",
     //"[This Unit] gains the [Fire Starter] promotion <for [Ranged] units> <after adopting [Call of the Heavens]>",
-    
+
+    //atheist
+    "[Target Unit] instantly gain [-5] [Faith] <when attacking> <after adopting [Atheism]> <for [Atheist] units>",
+    "[Target Unit] instantly gain [-25] [Faith] <upon defeating a [All] unit> <after adopting [Atheism]> <for [Atheist] units>"
     ]
     
 }
