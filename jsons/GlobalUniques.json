@@ -55,8 +55,10 @@
         
         //Crusade
         "[Great General] is earned [+20]% faster <when at war> <after adopting [Holy Crusade]>",
-        
-        
+
+        //Atheist
+        "[Target Unit] instantly gains [-5] [Faith] <when attacking> <after adopting [Atheism]> <for [Atheist] units>",
+        "[Target Unit] instantly gains [-25] [Faith] <upon defeating a [All] unit> <after adopting [Atheism]> <for [Atheist] units>"
         
         
         
