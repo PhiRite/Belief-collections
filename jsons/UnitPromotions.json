@@ -139,7 +139,7 @@
 	"uniques": ["[1] additional attacks per turn <when adjacent to a [Holy Blessing] unit> <for [3] turns>",
 			"[10]% Strength when stacked with [{Great Person} {Military}]",
 			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when adjacent to a [Holy Blessing] unit>",
-			"Earn [50]% of the damage done to [Land] units as [All] <when adjacent to a [Holy Blessing] unit> <for [3] turns>",
+			"Earn [50]% of the damage done to [Land] units as [Faith] <when adjacent to a [Holy Blessing] unit> <for [3] turns>",
 			"Ignores terrain cost <when adjacent to a [Holy Blessing] unit> <for [3] turns>", 
 			"[+100]% Strength <vs cities> <when attacking>",
 			"[+1]% Strength <for every [50] [Faith]>"]
