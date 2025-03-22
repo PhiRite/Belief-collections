@@ -204,28 +204,69 @@
 		 "[This Unit] gains [2] XP <upon turn end> <when adjacent to a [Military] unit> <hidden from users>",
 		 "[-20]% maintenance costs"]
 	},
-	//the rest of these dont work
+
+	//athiesm
 	{
-	"name": "Fire Starter",
-	"uniques": ["Blast radius [2] <when attacking>"]
+	"name": "Atheist",
+	"uniques": ["Prevents spreading of religion to the city it is next to",]
 	},
 	{
-	"name": "Area Purification",
-	"uniques": ["Comment [Activate to gain AOE for 1 turn and deal more damage, Cannot attack Cities during the duration.]",
-				"[This Unit] gains the [Area Purification Mode] status for [1] turn(s) <for [0] movement> <costs [+75 Faith] stats> <hidden from users>",]
+	"name": "Oonga Bunga",
+	"uniques": ["[+15]% Strength <when defending>",
+		    "All tiles cost 1 movement",
 	},
 	{
-	"name": "Area Purification Mode",
-	"uniques": ["[+20]% Strength <when attacking>", 
-		"[This Unit] gains [1] movement <upon damaging a [All] unit>", 
-		"Cannot attack <vs cities>",
-		"Blast radius [1]"]
+	"name": "Enjoy the Classics",
+	"uniques": ["Earn [10]% of the damage done to [All] units as [Culture]",
+		    "Earn [50]% of killed [All] unit's [Strength] as [Culture]",
+		    "[2] Movement",
+		    "[+5]% Strength",]
 	},
 	{
-	"name": "Cleansing Fire",
-	"uniques": ["[Target Unit] gains the [Burning] status for [2] turn(s) <upon damaging a [All] unit> <when above [250] [Faith]>"]
-	}
-	//end
+	"name": "Peasant Life",
+	"uniques": ["Comment [Every 3 peasant adds 1 food to ALL cities]",
+		    "Can move after attacking",
+		    "[+5]% Strength",]
+	},
+	{
+	"name": "Artist not a Painter",
+	"uniques": ["Earn [50]% of killed [All] unit's [Strength] as [Science]",
+		    "Earn [50]% of killed [All] unit's [Strength] as [Culture]",
+		    "[2] Sight",
+		    "[+5]% Strength",]
+	},
+	{
+	"name": "Mass Production",
+	"uniques": ["Comment [Each Mass Production unit gives 1 production to ALL cities]",
+		    "[1] additional attacks per turn",
+		    "[+5]% Strength",]
+	},
+	{
+	"name": "Capitalism",
+	"uniques": ["Earn [50]% of the damage done to [All] units as [Gold]",
+		    "Earn [50]% of killed [All] unit's [Strength] as [Gold]",
+		    "No movement cost to pillage",
+		    "[+5]% Strength",]
+	},
+	{
+	"name": "I am Atomic",
+	"uniques": ["Earn [100]% of the damage done to [All] units as [Science]",
+		    "Earn [100]% of killed [All] unit's [Strength] as [Science]",
+		    "Withdraws before melee combat <with [50]% chance>",
+		    "[+5]% Strength",]
+	},
+	{
+	"name": "Tiktok Brain Rot",
+	"uniques": ["Invisible to non-adjacent units",
+		    "May capture killed [All] units <with [69]% chance>",
+		    "[+5]% Strength",]
+	},
+	{
+	"name": "FUTUUUUUUUUUUUUUUURE",
+	"uniques": ["[+1]% Strength <for every [25] [Gold]>",
+		    "[+5]% Strength",]
+	},
+	
 	//effects?
 	{
 	"name": "Burning",
