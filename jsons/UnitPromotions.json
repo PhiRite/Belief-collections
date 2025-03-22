@@ -239,6 +239,7 @@
 	"name": "Mass Production",
 	"uniques": ["Comment [Each Mass Production unit gives 1 production to ALL cities]",
 		    "[1] additional attacks per turn",
+		    "[-20]% maintenance costs",
 		    "[+5]% Strength",]
 	},
 	{
