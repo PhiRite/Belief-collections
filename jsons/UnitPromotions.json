@@ -231,7 +231,8 @@
 	{
 	"name": "Oonga Bunga",
 	"uniques": ["[+15]% Strength <when defending>",
-		    "All tiles cost 1 movement",]
+		    "All tiles cost 1 movement",
+		    "Prevents spreading of religion to the city it is next to",]
 	},
 	{
 	"name": "Enjoy the Classics",
