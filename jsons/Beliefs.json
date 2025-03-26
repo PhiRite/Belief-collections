@@ -20,7 +20,9 @@
                     "All newly-trained [{Military} {Ranged}] units [in your cities] receive the [Blessed Sight] promotion",
                     "Only available <before adopting [Zealotry]>",
                     "Only available <before adopting [Call of the Heavens]>",
-                    "Only available <before adopting [Warp Summons]>"]
+                    "Only available <before adopting [Warp Summons]>",
+                    "Only available <before adopting [Cult Following]>",
+                    "Only available <before adopting [Atheism]>"]
   },
   {
         "name": "Zealotry",
@@ -37,7 +39,9 @@
                     "All newly-trained [Melee] units [in your cities] receive the [Berserk Rage] promotion",
                     "Only available <before adopting [Holy Crusade]>",
                     "Only available <before adopting [Call of the Heavens]>",
-                    "Only available <before adopting [Warp Summons]>"]
+                    "Only available <before adopting [Warp Summons]>",
+                    "Only available <before adopting [Cult Following]>",
+                    "Only available <before adopting [Atheism]>"]
   },
   {
         "name": "Call of the Heavens",
@@ -55,7 +59,9 @@
                     "Comment [Gaining a Missionary/Inquisitor summons 1 free unit based on current era]",
                     "Only available <before adopting [Zealotry]>",
                     "Only available <before adopting [Holy Crusade]>",
-                    "Only available <before adopting [Warp Summons]>"]
+                    "Only available <before adopting [Warp Summons]>",
+                    "Only available <before adopting [Cult Following]>",
+                    "Only available <before adopting [Atheism]>"]
   },
   {
         "name": "Warp Summons",
@@ -79,7 +85,42 @@
                     "All newly-trained [Ranged] units [in your cities] receive the [Corporeal] promotion <hidden from users>",
                     "Only available <before adopting [Zealotry]>",
                     "Only available <before adopting [Holy Crusade]>",
-                    "Only available <before adopting [Call of the Heavens]>"]
+                    "Only available <before adopting [Call of the Heavens]>",
+                    "Only available <before adopting [Cult Following]>",
+                    "Only available <before adopting [Atheism]>"]
+  },
+  {
+        "name": "Cult Following",
+        "type": "Follower",
+        "uniques": ["Comment [Decreases Happiness of city if this religion is in an enemy city]",
+                    "Comment [Units have 50% chance to capture units, 100% against units built from enemy city following this religion]",
+                    "Comment [Units prevent spreading religion in your cities,]",
+                    "Comment [Reduces the [Happiness], [Production], [Gold] of foreign cities by 1 per 100 [Faith] up to 500, doubles effect for enemy cities]",
+                    "Comment [In a nutshell, when in war enemies city with this religion get debuffs, units gets debuffs, while yours get buffs]",
+                    "Religion naturally spreads to cities [10] tiles away",
+                    "[+20]% Natural religion spread [in all cities]",
+                    "May buy [{Religious} {non-[Great Person]}] units for [100] [Faith] [in your cities]",
+                    "All newly-trained [All] units [in foreign cities] receive the [Sect Member] promotion <hidden from users>",
+                    "All newly-trained [All] units [in your cities] receive the [Cultist] promotion <hidden from users>",
+                    "All newly-trained [Religious] units [in your cities] receive the [Acolyte] promotion <hidden from users>",
+                    "[+1 Production, +1 Food] per every [75] [Faith] <after adopting [Call of the Heavens]> <when above [150] [Faith]> <in [Your] cities>",
+                    "[+1 Production, +1 Gold] per every [150] [Faith] <after adopting [Call of the Heavens]> <when above [300] [Faith]> <in [Your] cities>",
+                    "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Happiness] per every [175] [Faith] <after adopting [Call of the Heavens]> <when above [350] [Faith]> <in [Your] cities>",
+                    "[-1 Happiness] [in cities following this religion] <when above [100] [Faith]> <in [Foreign] cities> <hidden from users>",
+            		    "[-1 Happiness, -1 Production] [in cities following this religion] <when above [200] [Faith]> <in [Foreign] cities> <hidden from users>",
+            		    "[-1 Happiness, -1 Production, -1 Gold] [in cities following this religion] <when above [300] [Faith]> <in [Foreign] cities> <hidden from users>",
+            		    "[-1 Happiness, -1 Production, -1 Gold] [in cities following this religion] <when above [400] [Faith]> <in [Foreign] cities> <hidden from users>",
+            		    "[-1 Happiness, -1 Production, -1 Gold] [in cities following this religion] <when above [500] [Faith]> <in [Foreign] cities> <hidden from users>",
+            		    "[-1 Happiness, -1 Faith] [in cities following this religion] <when above [100] [Faith]> <in [Enemy] cities> <hidden from users>",
+            		    "[-1 Happiness, -1 Production, -1 Faith] [in cities following this religion] <when above [200] [Faith]> <in [Enemy] cities> <hidden from users>",
+            		    "[-1 Happiness, -1 Production, -1 Gold, -1 Faith] [in cities following this religion] <when above [300] [Faith]> <in [Enemy] cities> <hidden from users>",
+            		    "[-1 Happiness, -2 Production, -1 Gold, -1 Faith] [in cities following this religion] <when above [400] [Faith]> <in [Enemy] cities> <hidden from users>",
+            		    "[-1 Happiness, -2 Production, -1 Gold, -1 Faith] [in cities following this religion] <when above [500] [Faith]> <in [Enemy] cities> <hidden from users>",
+                    "Only available <before adopting [Zealotry]>",
+                    "Only available <before adopting [Holy Crusade]>",
+                    "Only available <before adopting [Call of the Heavens]>",			
+                    "Only available <before adopting [Warp Summons]>",
+                    "Only available <before adopting [Atheism]>"]
   },
   {
         "name": "Atheism",
@@ -107,6 +148,7 @@
                     "[+1 Science, +1 Culture] from all [Science] buildings",
                     "[+1 Science, -1 Culture] from all [Culture] buildings",]
   },
+  
 
   //from other mods and stuff
   {
