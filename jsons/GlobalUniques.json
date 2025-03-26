@@ -59,7 +59,7 @@
         "[+1 Production, +1 Food] per every [75] [Faith] <after adopting [Cult Following]> <when above [150] [Faith]> <in [Your] cities>",
         "[+1 Production, +1 Gold] per every [150] [Faith] <after adopting [Cult Following]> <when above [300] [Faith]> <in [Your] cities>",
         "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Happiness] per every [175] [Faith] <after adopting [Cult Following]> <when above [350] [Faith]> <in [Your] cities>",
-        
+        "[-1 Faith, -1 Happiness] per every [200] [Faith] <every [1] turns> <after adopting [Cult Following]> <in [Enemy] cities> <in cities with a [Cult Following] religion> <when above [300] [Faith]>",
         //Atheist
         "Double quantity of [Uranium] produced <starting from the [Atomic era]> <after adopting [Atheism]>",
         "Double quantity of [Oil] produced <starting from the [Industrial era]> <after adopting [Atheism]>",
