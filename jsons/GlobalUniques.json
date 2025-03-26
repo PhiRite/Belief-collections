@@ -44,7 +44,7 @@
         
         //call of the heavens
         "[-25]% XP required for promotions <after adopting [Call of the Heavens]>",
-        "[3] Unit Supply per [2] population [in all cities] <after adopting [Call of the Heavens]>"
+        "[3] Unit Supply per [2] population [in all cities] <after adopting [Call of the Heavens]>",
         
         //Zealots
         "[+1 Faith] per every [15] [Faith]",
@@ -53,6 +53,10 @@
         //Crusade
         "[Great General] is earned [+20]% faster <when at war> <after adopting [Holy Crusade]>",
 
+        //Cultist
+        "[+1 Faith] <for every [[Cultist] Units]> <after adopting [Cult Following]>",
+        "[+1 faith] <for every [[Sect Member] Units]> <after adopting [Cult Following]>",
+        
         //Atheist
         "Double quantity of [Uranium] produced <starting from the [Atomic era]> <after adopting [Atheism]>",
         "Double quantity of [Oil] produced <starting from the [Industrial era]> <after adopting [Atheism]>",
