@@ -237,6 +237,7 @@
 	"name": "Enjoy the Classics",
 	"uniques": ["Earn [10]% of the damage done to [All] units as [Culture]",
 		    "Earn [50]% of killed [All] unit's [Strength] as [Culture]",
+		    "[1] Sight",
 		    "[+5]% Strength",]
 	},
 	{
@@ -249,7 +250,7 @@
 	"name": "Artist not a Painter",
 	"uniques": ["Earn [50]% of killed [All] unit's [Strength] as [Science]",
 		    "Earn [50]% of killed [All] unit's [Strength] as [Culture]",
-		    "[2] Sight",
+		    "[1] Sight",
 		    "[+5]% Strength",]
 	},
 	{
