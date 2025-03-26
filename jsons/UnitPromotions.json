@@ -204,6 +204,24 @@
 		 "[This Unit] gains [2] XP <upon turn end> <when adjacent to a [Military] unit> <hidden from users>",
 		 "[-20]% maintenance costs"]
 	},
+	//cult
+	{
+	"name": "Cultist",
+	"uniques": ["Prevents spreading of religion to the city it is next to",
+		    "[+1]% Strength <for every [[Cultist] Units]>",
+		    "[+1]% Strength <for every [[Sect Member] Units]>",
+		    "May capture killed [All] units <with [50]% chance>",
+		    "May capture killed [Cultist] units <with [100]% chance>",]
+	},
+	{
+	"name": "Cultist",
+	"uniques": ["[-15]% XP gained from combat",
+		    "[-10]% Strength",]
+	},
+	{
+	"name": "Acolyte",
+	"uniques": ["[+50]% Spread Religion Strength"]
+	},
 
 	//athiesm
 	{
