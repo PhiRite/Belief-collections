@@ -56,6 +56,9 @@
         //Cultist
         "[+1 Faith] <for every [[Cultist] Units]> <after adopting [Cult Following]>",
         "[+1 Faith] <for every [[Sect Member] Units]> <after adopting [Cult Following]>",
+        "[+1 Production, +1 Food] per every [75] [Faith] <after adopting [Cult Following]> <when above [150] [Faith]> <in [Your] cities>",
+        "[+1 Production, +1 Gold] per every [150] [Faith] <after adopting [Cult Following]> <when above [300] [Faith]> <in [Your] cities>",
+        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Happiness] per every [175] [Faith] <after adopting [Cult Following]> <when above [350] [Faith]> <in [Your] cities>",
         
         //Atheist
         "Double quantity of [Uranium] produced <starting from the [Atomic era]> <after adopting [Atheism]>",
