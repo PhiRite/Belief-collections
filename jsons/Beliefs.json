@@ -124,6 +124,8 @@
         "name": "Atheism",
         "type": "Pantheon",
         "uniques": ["Comment [DISABLES ALL RELIGION FOR YOUR CIV]",
+                    "Comment [!!!PLEASE READ, YOU HAVE TO CHOOSE /I dont believe it/ founder AS SOON AS THE FREE PROPHET APPEARS!!!]",
+                    "Comment [!!!YOU CAN TECHINCALLY CHOOSE OTHER FOUNDERS BUT THE MOD MIGHT BREAK!!!]",
                     "Comment [Units removed 25 faith from enemy upon killing them]",
                     "Comment [All units gain 5% dmg per era]",
                     "Comment [Each Era adds a special promotion for all units]",
