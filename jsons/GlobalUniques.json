@@ -55,7 +55,7 @@
 
         //Cultist
         "[+1 Faith] <for every [[Cultist] Units]> <after adopting [Cult Following]>",
-        "[+1 faith] <for every [[Sect Member] Units]> <after adopting [Cult Following]>",
+        "[+1 Faith] <for every [[Sect Member] Units]> <after adopting [Cult Following]>",
         
         //Atheist
         "Double quantity of [Uranium] produced <starting from the [Atomic era]> <after adopting [Atheism]>",
