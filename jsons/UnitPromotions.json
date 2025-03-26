@@ -214,7 +214,7 @@
 		    "May capture killed [Cultist] units <with [100]% chance>",]
 	},
 	{
-	"name": "Cultist",
+	"name": "Sect Member",
 	"uniques": ["[-15]% XP gained from combat",
 		    "[-10]% Strength",]
 	},
