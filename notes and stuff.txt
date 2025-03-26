@@ -103,3 +103,21 @@ athe DISABLED FOR NOW
                     "Only available <before adopting [Call of the Heavens]>",			
                     "Only available <before adopting [Warp Summons]>"]
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTES
+switch atheism and the placeholder
