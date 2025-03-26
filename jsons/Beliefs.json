@@ -142,7 +142,7 @@
                     "All newly-trained [Military] units [in your cities] receive the [I am Atomic] promotion <starting from the [Atomic era]> <hidden from users>",
                     "All newly-trained [Military] units [in your cities] receive the [TikTok Brain Rot] promotion <starting from the [Information era]> <hidden from users>",
                     "All newly-trained [Military] units [in your cities] receive the [FUTUUUUUUUUUUUUUUURE] promotion <starting from the [Future era]> <hidden from users>",
-                    "[+2 Production, +1 Science, +1 Faith] from all [Faith] buildings",
+                    "[+2 Production, +1 Science, -2 Faith] from all [Faith] buildings",
                     "[+1 Science, +1 Culture] from all [Science] buildings",
                     "[+1 Science, -1 Culture] from all [Culture] buildings",]
   },
