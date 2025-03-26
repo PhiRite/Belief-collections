@@ -149,6 +149,11 @@
                     "[+1 Science, +1 Culture] from all [Science] buildings",
                     "[+1 Science, -1 Culture] from all [Culture] buildings",]
   },
+  {
+        "name": "I dont believe it",
+        "type": "Founder",
+        "uniques": ["Comment [Placeholder to make atheism work Better :D]",]
+  },
   
 
   //from other mods and stuff
