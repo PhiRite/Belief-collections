@@ -98,7 +98,7 @@
                     "Comment [Gains stats buffs based on faith amount]",
                     "Comment [Reduces the [Happiness], [Production], [Gold] of foreign cities by 1 per 100 [Faith] up to 500, doubles effect for enemy cities]",
                     "Comment [In a nutshell, when in war enemies city with this religion get debuffs, units gets debuffs, while yours get buffs]",
-                    "Religion naturally spreads to cities [10] tiles away",
+                    "Religion naturally spreads to cities [5] tiles away",
                     "[+20]% Natural religion spread [in all cities]",
                     "May buy [{Religious} {non-[Great Person]}] units for [100] [Faith] [in your cities]",
                     "All newly-trained [All] units [in foreign cities] receive the [Sect Member] promotion <hidden from users>",
