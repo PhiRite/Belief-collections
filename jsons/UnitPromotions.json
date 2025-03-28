@@ -233,8 +233,7 @@
 	{
 	"name": "Oonga Bunga",
 	"uniques": ["[+15]% Strength <when defending>",
-		    "All tiles cost 1 movement",
-		    "Prevents spreading of religion to the city it is next to",]
+		    "All tiles cost 1 movement",]
 	},
 	{
 	"name": "Enjoy the Classics",
@@ -251,7 +250,8 @@
 	},
 	{
 	"name": "Artist not a Painter",
-	"uniques": ["Earn [50]% of killed [All] unit's [Strength] as [Science]",
+	"uniques": ["Earn [20]% of the damage done to [All] units as [Science]",
+		    "Earn [50]% of killed [All] unit's [Strength] as [Science]",
 		    "Earn [50]% of killed [All] unit's [Strength] as [Culture]",
 		    "[1] Sight",
 		    "[+5]% Strength",]
