@@ -226,7 +226,8 @@
 	//athiesm
 	{
 	"name": "Atheist",
-	"uniques": ["Prevents spreading of religion to the city it is next to",]
+	"uniques": ["Prevents spreading of religion to the city it is next to",
+		    "Can move immediately once bought",]
 	},
 	{
 	"name": "Oonga Bunga",
