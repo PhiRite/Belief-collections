@@ -227,7 +227,8 @@
 	{
 	"name": "Atheist",
 	"uniques": ["Prevents spreading of religion to the city it is next to",
-		    "Can move immediately once bought",]
+		    "Can move immediately once bought",
+		    "[This Unit] gains [2] movement",]
 	},
 	{
 	"name": "Oonga Bunga",
