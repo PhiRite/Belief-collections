@@ -74,7 +74,8 @@
         "May choose [-1] additional [Follower] beliefs when [founding] a religion <after adopting [Atheism]>",
         //"Adopt [I dont believe it] <upon adopting [Atheism]>",
         "Free [Great Prophet] appears <upon adopting [Atheism]>",
-        "[+1 Production] <for every [[Atheist] Units]> <after adopting [Atheism]> <in [Your] cities>"
+        "[+1 Production] <for every [[Atheist] Units]> <after adopting [Atheism]> <in [Your] cities>",
+        "[+1 Science] per [1] population [in your cities] <after adopting [Atheism]> <when above [0] Happiness>",
         
     ],
     "unitUniques": [
