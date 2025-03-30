@@ -6,7 +6,7 @@
             		"Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet> <before adopting [Atheism]>",
 			"Can instantly construct a [Academy] improvement <by consuming this unit> <if it hasn't used other actions yet> <after adopting [Atheism]>",
             		"Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed> <before adopting [Cult Following]>",
-			"Can Spread Religion <for [1] movement> <after adopting [Cult Following]>",
+			"Can Spread Religion <for [2] movement> <after adopting [Cult Following]>",
 			"Removes other religions when spreading religion",
             		"May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
             		"May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet> <before adopting [Atheism]>",
