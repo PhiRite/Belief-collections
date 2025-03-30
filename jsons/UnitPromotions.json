@@ -228,7 +228,16 @@
 	"name": "Atheist",
 	"uniques": ["Prevents spreading of religion to the city it is next to",
 		    "Can move immediately once bought",
-		    "[This Unit] gains [2] movement",]
+		    "[This Unit] gains [2] movement",
+		    "[This Unit] gains the [onga Bunga] promotion <starting from the [Ancient era]>",
+		    "[This Unit] gains the [Enjoy the Classics] promotion <starting from the [Classical era]>",
+		    "[This Unit] gains the [Peasant Life] promotion <starting from the [Medieval era]>",
+		    "[This Unit] gains the [Artist not a Painter] promotion <starting from the [Renaissance era]>",
+		    "[This Unit] gains the [Mass Production] promotion <starting from the [Industrial era]>",
+		    "[This Unit] gains the [Adventure Capitalist] promotion <starting from the [Modern era]>",
+		    "[This Unit] gains the [I am Atomic] promotion <starting from the [Atomic era]>",
+		    "[This Unit] gains the [TikTok Brain Rot] promotion <starting from the [Information era]>",
+		    "[This Unit] gains the [FUTUUUUUUUUUUUUUUURE] promotion <starting from the [Future era]>",]
 	},
 	{
 	"name": "Oonga Bunga",
