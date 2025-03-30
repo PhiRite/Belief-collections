@@ -110,6 +110,7 @@
     "[Target Unit] instantly gain [-5] [Faith] <when attacking> <after adopting [Atheism]> <for [Atheist] units>",
     "[Target Unit] instantly gain [-25] [Faith] <upon defeating a [All] unit> <after adopting [Atheism]> <for [Atheist] units>",
     "[This Unit] gains the [onga Bunga] promotion <for [All] units> <after adopting [Atheism]> starting from the [Ancient era]>",
+    "[This Unit] gains the [Enjoy the Classics] promotion <for [Military] units> <after adopting [Atheism]> starting from the [Classical era]>",
     ]
     
 }
