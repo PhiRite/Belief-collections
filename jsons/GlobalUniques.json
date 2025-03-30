@@ -109,7 +109,25 @@
     //atheist
     "[Target Unit] instantly gain [-5] [Faith] <when attacking> <after adopting [Atheism]> <for [Atheist] units>",
     "[Target Unit] instantly gain [-25] [Faith] <upon defeating a [All] unit> <after adopting [Atheism]> <for [Atheist] units>",
-    "[This Unit] gains the [Atheist] promotion <after adopting [Atheism]> <for units without [Atheist]> <upon turn start>",
+    "[This Unit] gains the [Atheist] promotion <after adopting [Atheism]>",
+    "[This Unit] gains the [Oonga Bunga] promotion <starting from the [Ancient era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [Enjoy the Classics] promotion <starting from the [Classical era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [Peasant Life] promotion <starting from the [Medieval era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [Artist not a Painter] promotion <starting from the [Renaissance era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [Mass Production] promotion <starting from the [Industrial era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [Adventure Capitalist] promotion <starting from the [Modern era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [I am Atomic] promotion <starting from the [Atomic era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [TikTok Brain Rot] promotion <starting from the [Information era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [FUTUUUUUUUUUUUUUUURE] promotion <starting from the [Future era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [Oonga Bunga] promotion <upon entering the [Ancient era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [Enjoy the Classics] promotion <upon entering the [Classical era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [Peasant Life] promotion <upon entering the [Medieval era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [Artist not a Painter] promotion <upon entering the [Renaissance era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [Mass Production] promotion <upon entering the [Industrial era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [Adventure Capitalist] promotion <upon entering the [Modern era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [I am Atomic] promotion <upon entering the [Atomic era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [TikTok Brain Rot] promotion <upon entering the [Information era]> <for [All] units> <after adopting [Atheism]>",
+    "[This Unit] gains the [FUTUUUUUUUUUUUUUUURE] promotion <upon entering the [Future era]> <for [All] units> <after adopting [Atheism]>",]
     ]
     
 }
