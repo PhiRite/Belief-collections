@@ -53,45 +53,61 @@
         //Crusade
         "[Great General] is earned [+20]% faster <when at war> <after adopting [Holy Crusade]>",
 
-        //Cultist
-        "[+1 Faith] <for every [[Cultist] Units]> <after adopting [Cult Following]>",
-        "[+1 Faith] <for every [[Sect Member] Units]> <after adopting [Cult Following]>",
-        "[+1 Production, +1 Food] per every [75] [Faith] <after adopting [Cult Following]> <when above [150] [Faith]> <in [Your] cities>",
-        "[+1 Production, +1 Gold] per every [150] [Faith] <after adopting [Cult Following]> <when above [300] [Faith]> <in [Your] cities>",
-        "[+1 Production, +1 Food, +1 Science, +1 Culture, +1 Happiness] per every [175] [Faith] <after adopting [Cult Following]> <when above [350] [Faith]> <in [Your] cities>",
-        "[-1 Faith, -1 Happiness] per every [200] [Faith] <after adopting [Cult Following]> <in [Enemy] cities> <in cities with a [Cult Following] religion> <when above [300] [Faith]>",
+        
         
         //Atheist
-        "Double quantity of [Uranium] produced <starting from the [Atomic era]> <after adopting [Atheism]>",
-        "Double quantity of [Oil] produced <starting from the [Industrial era]> <after adopting [Atheism]>",
-        "Double quantity of [Coal] produced <starting from the [Industrial era]> <after adopting [Atheism]>",
-        "Double quantity of [Aluminum] produced <starting from the [Industrial era]> <after adopting [Atheism]>",
-        "Each city founded increases Science cost of Technologies [15]% less than normal <after adopting [Atheism]>",
-        "[-5]% Science cost of researching new Technologies <starting from the [Classical era]> <after adopting [Atheism]>",
-        "[-5]% Science cost of researching new Technologies <starting from the [Medieval era]> <after adopting [Atheism]>",
-        "[-5]% Science cost of researching new Technologies <starting from the [Renaissance era]> <after adopting [Atheism]>",
-        "[-10]% Science cost of researching new Technologies <starting from the [Industrial era]> <after adopting [Atheism]>",
-        "May choose [-1] additional [Follower] beliefs when [founding] a religion <after adopting [Atheism]>",
-        //"Adopt [I dont believe it] <upon adopting [Atheism]>",
-        "Free [Great Prophet] appears <upon adopting [Atheism]>",
-        "[+1 Production] <for every [[Atheist] Units]> <after adopting [Atheism]> <in [Your] cities>",
-        "[+1 Happiness] <for every [[Enjoy the Classics] Units]> <after adopting [Atheism]>",
-        "[+1 Science] per [1] population [in your cities] <after adopting [Atheism]> <when above [0] Happiness>",
+        "Double quantity of [Uranium] produced <starting from the [Atomic era]> <after adopting [Non Believers]>",
+        "Double quantity of [Oil] produced <starting from the [Industrial era]> <after adopting [Non Believers]>",
+        "Double quantity of [Coal] produced <starting from the [Industrial era]> <after adopting [Non Believers]>",
+        "Double quantity of [Aluminum] produced <starting from the [Industrial era]> <after adopting [Non Believers]>",
+        "Each city founded increases Science cost of Technologies [15]% less than normal <after adopting [Non Believers]>",
+        "May choose [-1] additional [Follower] beliefs when [founding] a religion <after adopting [Non Believers]>",
+        //"Adopt [I dont believe it] <upon adopting [Non Believers]>",
+        "Free [Great Prophet] appears <upon adopting [Non Believers]>",
+        "[+1 Production] <for every [[Atheist] Units]> <after adopting [Non Believers]> <in [Your] cities>",
+        "[+1 Happiness] <for every [[Enjoy the Classics] Units]> <after adopting [Non Believers]>",
+        "[+1 Science] per [1] population [in your cities] <after adopting [Non Believers]> <when above [0] Happiness>",
         
     ],
     "unitUniques": [
     //crusade stuff
     "[Great General] units gain the [Holy Blessing] promotion <after adopting [Holy Crusade]>",
+    "[Great General] units gain the [Holy Blessing] promotion <upon adopting [Holy Crusade]>",
     "[This Unit] Instantly gain [-25] [Faith] <upon being defeated> <for [Military] units> <after adopting [Holy Crusade]>",
+    "[This Unit] gains the [Unending Crusade] promotion <after adopting [Holy Crusade]> <for [Military] units>",
+    "[This Unit] gains the [Unending Crusade] promotion <upon adopting [Holy Crusade]> <for [Military] units>",
+    "[This Unit] gains the [Blessed Equipment] promotion <after adopting [Holy Crusade]> <for [{Military} {Melee}] units>",
+    "[This Unit] gains the [Blessed Equipment] promotion <upon adopting [Holy Crusade]> <for [{Military} {Melee}] units>",
+    "[This Unit] gains the [Self Sacrifice] promotion <after adopting [Holy Crusade]> <for [{Military} {Melee}] units>",
+    "[This Unit] gains the [Self Sacrifice] promotion <upon adopting [Holy Crusade]> <for [{Military} {Melee}] units>",
+    "[This Unit] gains the [Blessed Sight] promotion <after adopting [Holy Crusade]> <for [{Military} {Ranged}] units>",
+    "[This Unit] gains the [Blessed Sight] promotion <upon adopting [Holy Crusade]> <for [{Military} {Ranged}] units>",
     
     //Zealot stuff
     "[This Unit] takes [25] damage <upon defeating a [True Faith] unit> <for [Melee] units> <with [50]% chance>",
-    
+    "[This Unit] gains the [True Faith] promotion <after adopting [Zealotry]> <for [Military] units>",
+    "[This Unit] gains the [True Faith] promotion <upon adopting [Zealotry]> <for [Military] units>",
+    "[This Unit] gains the [Undying Will] promotion <after adopting [Zealotry]> <for [Military] units>",
+    "[This Unit] gains the [Undying Will] promotion <upon adopting [Zealotry]> <for [Military] units>",
+    "[This Unit] gains the [Last Stand] promotion <after adopting [Zealotry]> <for [Melee] units>",
+    "[This Unit] gains the [Last Stand] promotion <upon adopting [Zealotry]> <for [Melee] units>",
+    "[This Unit] gains the [Berserk Rage] promotion <after adopting [Zealotry]> <for [Melee] units>",
+    "[This Unit] gains the [Berserk Rage] promotion <upon adopting [Zealotry]> <for [Melee] units>",
+        
     //warp stuff
     "[This Unit] gains the [Warp Rush] status for [5] turn(s) <upon gaining the [Abyssal Grasp] promotion>",
     "[This Unit] gains the [Warp Rush] status for [5] turn(s) <upon gaining the [Corporeal] promotion>",
     "[This Unit] takes [5] damage <when adjacent to a [Warp Corruption] unit> <upon turn end> <before adopting [Warp Corruption]>",
-    "[This Unit] gains the [Warp Corruption] promotion <for [Civilian] units> <after adopting [Warp Summons]>",
+    "[This Unit] gains the [Warp Corruption] promotion <after adopting [Warp Summons]>",
+    "[This Unit] gains the [Warp Corruption] promotion <upon adopting [Warp Summons]>",
+    "[This Unit] gains the [Thirst] promotion <after adopting [Warp Summons]> <for [Land] units>",
+    "[This Unit] gains the [Thirst] promotion <upon adopting [Warp Summons]> <for [Land] units>",
+    "[This Unit] gains the [Plague Bringer] promotion <after adopting [Warp Summons]> <for [Melee] units>",
+    "[This Unit] gains the [Plague Bringer] promotion <upon adopting [Warp Summons]> <for [Melee] units>",
+    "[This Unit] gains the [Blood Offering] promotion <after adopting [Warp Summons]> <for [Melee] units>",
+    "[This Unit] gains the [Blood Offering] promotion <upon adopting [Warp Summons]> <for [Melee] units>",
+    "[This Unit] gains the [Corporeal] promotion <after adopting [Warp Summons]> <for [Ranged] units>",
+    "[This Unit] gains the [Corporeal] promotion <upon adopting [Warp Summons]> <for [Ranged] units>",
     
     //Call stuff
     "[This Unit] heals [50] HP <when adjacent to a [Saint Aura] unit> <upon turn end>",
@@ -107,10 +123,10 @@
     //"[This Unit] gains the [Fire Starter] promotion <for [Ranged] units> <after adopting [Call of the Heavens]>",
 
     //atheist
-    "[Target Unit] instantly gain [-5] [Faith] <when attacking> <after adopting [Atheism]> <for [Atheist] units>",
-    "[Target Unit] instantly gain [-25] [Faith] <upon defeating a [All] unit> <after adopting [Atheism]> <for [Atheist] units>",
-    "[This Unit] gains the [Atheist] promotion <after adopting [Atheism]>",
-    "[This Unit] gains the [Atheist] promotion <upon adopting [Atheism]>",
+    "[Target Unit] instantly gain [-5] [Faith] <when attacking> <for [Atheist] units>",
+    "[Target Unit] instantly gain [-25] [Faith] <upon defeating a [All] unit> <for [Atheist] units>",
+    "[This Unit] gains the [Atheist] promotion <after adopting [Non Believers]>",
+    "[This Unit] gains the [Atheist] promotion <upon adopting [Non Believers]>",
     "[This Unit] gains the [Oonga Bunga] promotion <starting from the [Ancient era]> <for [Atheist] units>",
     "[This Unit] gains the [Enjoy the Classics] promotion <starting from the [Classical era]> <for [Atheist] units>",
     "[This Unit] gains the [Peasant Life] promotion <starting from the [Medieval era]> <for [Atheist] units>",
