@@ -82,7 +82,7 @@
     "[This Unit] gains the [Self Sacrifice] promotion <upon adopting [Holy Crusade]> <for [Melee] units>",
     //"[This Unit] gains the [Blessed Sight] promotion <after adopting [Holy Crusade]> <for [Ranged] units>",
     //"[This Unit] gains the [Blessed Sight] promotion <upon adopting [Holy Crusade]> <for [Ranged] units>",
-    "[This Unit] gains the [Blessed Equipment] status for [3] turn(s) <when adjacent to a [Holy Blessing] unit> <for [Melee] units>",
+    "[This Unit] gains the [Blessed Equipment] status for [3] turn(s) <when adjacent to a [Holy Blessing] unit> <for [Melee] units> <upon turn end>",
     "[This Unit] gains the [Blessed Sight] status for [3] turn(s) <when adjacent to a [Holy Blessing] unit> <for [Ranged] units>",
     
     //Zealot stuff
