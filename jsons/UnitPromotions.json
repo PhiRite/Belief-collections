@@ -136,7 +136,7 @@
 	},
 	{
 	"name": "Wall Shakers",
-	"uniques": ["Ignores terrain cost <when adjacent to a [Holy Blessing] unit> <for [3] turns>", 
+	"uniques": [, 
 			"[10]% Strength when stacked with [{Great Person} {Military}]",
 			"[+100]% Strength <vs cities> <when attacking>",
 			"[+1]% Strength <for every [50] [Faith]>"]
@@ -145,6 +145,7 @@
 	"name": "Blessed Equipment",
 	"uniques": ["[1] additional attacks per turn",
 			"[This Unit] gains [1] movement <upon damaging a [All] unit>",
+			"Ignores terrain cost",
 			"Earn [50]% of the damage done to [Land] units as [Faith]",]
 	},
 	{
