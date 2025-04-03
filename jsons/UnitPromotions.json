@@ -86,17 +86,17 @@
 	
 	{
 	"name": "True Faith",
-	"uniques": ["Instantly gain [25] [Faith] <upon being defeated>",
-	 "Heals [10] damage if it kills a unit",
+	"uniques": ["Instantly gain [50] [Faith] <upon being defeated>",
+	 "Heals [15] damage if it kills a unit",
 	 "[+20]% XP gained from combat",
-	 "Earn [5]% of the damage done to [All] units as [Happiness]",
-         "Earn [5]% of the damage done to [All] units as [Faith] <during a Golden Age>",
+	 "Earn [15]% of the damage done to [All] units as [Happiness]",
+         "Earn [30]% of the damage done to [All] units as [Faith] <during a Golden Age>",
 	 "No damage penalty for wounded units"]   
 	},
 	{
 	"name": "Undying Will",
 	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <for units without [Cooldown]>",
-		"[This Unit] gains the [Cooldown] status for [3] turn(s) <hidden from users>"]
+		"[This Unit] gains the [Cooldown] status for [2] turn(s) <hidden from users>"]
 	},
 	{
 	"name": "Last Stand",
@@ -105,16 +105,16 @@
 			"[+5]% Strength <when below [40] HP> <hidden from users>",
 			"[+5]% Strength <when below [35] HP> <hidden from users>",
 			"[+5]% Strength <when below [30] HP> <hidden from users>",
-			"[+10]% Strength <when below [21] HP> <for [2] turns> <hidden from users>",]	
+			"[+10]% Strength <when below [26] HP> <hidden from users>",]	
 	},
 	{
 	"name": "Berserk Rage",
-	"uniques": ["Comment [unit gains more attacks and moves when at low health(at 30 and 20)]",
+	"uniques": ["Comment [unit gains more attacks and moves when at low health(at 30 and 25)]",
 			"[1] additional attacks per turn <when below [31] HP>",
-			"[1] additional attacks per turn <when below [21] HP>",
+			"[1] additional attacks per turn <when below [26] HP>",
 			"Can move after attacking",
-			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [31] HP>",
-			"[This Unit] gains [1] movement <when below [21] HP>"]	
+			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [40] HP>",
+			"[This Unit] gains [1] movement <when below [26] HP>"]	
 	},
 	
 	//Crusade
@@ -152,7 +152,9 @@
 	"name": "Blessed Sight",
 	"uniques": ["Ranged attacks may be performed over obstacles",
 			"Earn [15]% of the damage done to [Land] units as [Faith]",
-			"[+2] Sight"]
+			"[1] additional attacks per turn",
+			"[+1] Range",
+			"[+3] Sight"]
 	},
 	{
 	"name": "Self Sacrifice",
@@ -164,6 +166,7 @@
 	"name": "Righteousness",
 	"uniques": ["[This Unit] heals [100] HP <upon gaining the [Righteousness] status>",
 	                "[1] additional attacks per turn",
+			"[This Unit] gains [1] movement <upon damaging a [All] unit>",
 			"Can move after attacking",
 			"[This Unit] gains [4] movement",
 			"[+30]% Strength <when attacking>",
