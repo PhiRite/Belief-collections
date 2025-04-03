@@ -153,6 +153,7 @@
 	"uniques": ["Ranged attacks may be performed over obstacles",
 			"Earn [15]% of the damage done to [Land] units as [Faith]",
 			"[1] additional attacks per turn",
+			"[This Unit] gains [2] movement <upon damaging a [All] unit>",
 			"[+1] Range",
 			"[+3] Sight"]
 	},
