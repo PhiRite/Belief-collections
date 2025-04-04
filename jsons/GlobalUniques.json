@@ -44,13 +44,18 @@
         "[1] free [Modern Armor] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Information era]><hidden from users>",
         
         //warp
-        "[+1 Happiness] <for every [2] [[Pain And Pleasure] Units]> <after adopting [Warp Summons]>",
+        "[+1 Happiness, +1 Faith] <for every [2] [[Pleasure] Units]> <after adopting [Warp Summons]>",
+        "[+1 Happiness, +1 Faith] <for every [[Pain] Units]> <after adopting [Warp Summons]>",
         "[1] population [in this city] <upon founding a city> <after adopting [Warp Summons]>",
         "[+1 Happiness] [in this city] <upon founding a city> <after adopting [Warp Summons]>",
         
         //call of the heavens
         "[-25]% XP required for promotions <after adopting [Call of the Heavens]>",
         "[1] Unit Supply per [2] population [in all cities] <before adopting [Call of the Heavens]>",
+        "[1] Unit Supply per [3] population [in all cities] <after adopting [Call of the Heavens]>",
+        "[+1 Faith] <for every [[Worshipper] Units]> <after adopting [Call of the Heavens]>",
+        "[+2 Faith] <for every [[Support] Units]> <after adopting [Call of the Heavens]>",
+        "[+2 Faith] <for every [[Saint] Units]> <after adopting [Call of the Heavens]>",
         
         //Zealots
         "[+1 Faith] per every [15] [Faith]",
