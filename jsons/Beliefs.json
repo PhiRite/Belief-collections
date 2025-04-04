@@ -76,7 +76,7 @@
                     "Comment [Melee units can use Blood Offering, having infinite attacks and more moves but taking more dmg for each attack]",
                     //"Comment [Base religious units can stay still and pray for more sight, it overwhelms them after 5 turns...]",
                     "All newly-trained [All] units [in your cities] receive the [Warp Corruption] promotion <hidden from users>",
-                    "All newly-trained [Land] units [in your cities] receive the [Thirst] promotion <hidden from users>",
+                    "All newly-trained [Land] units [in your cities] receive the [Thirst] promotion <hidden from users> <in [non-[Foreign]] cities>",
                     "All newly-trained [Religious] units [in your cities] receive the [Warp Corruption] promotion <hidden from users>",
                     "All newly-trained [{Religious} {Great Person}] units [in your cities] receive the [Warp Corruption] promotion <hidden from users>",
                     //"All newly-trained [Religious] units [in your cities] receive the [Chaos Ritual] promotion <hidden from users>",
