@@ -25,7 +25,13 @@
         "[1] free [Tank] units appear <upon gaining a [{Religious} {Great Person}] unit> <after adopting [Call of the Heavens]><during the [Atomic era]><before the [Information era]><with [50]% chance><hidden from users>",
         "[1] free [Modern Armor] units appear <upon gaining a [{Religious} {Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><hidden from users>",
         "[1] free [Modern Armor] units appear <upon gaining a [{Religious} {Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><with [50]% chance><hidden from users>",
-        "[1] free [Giant Death Robot] units appear <upon gaining a [{Religious} {Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><with [10]% chance><hidden from users>",				
+        "[1] free [Giant Death Robot] units appear <upon gaining a [{Religious} {Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><with [30]% chance><hidden from users>",				
+
+        "Instantly provides [1] [Iron] <upon gaining a [Swordsman] unit> <after adopting [Call of the Heavens]>",
+        "Instantly provides [1] [Iron] <upon gaining a [Longswordsman] unit> <after adopting [Call of the Heavens]>",
+        "Instantly provides [1] [Iron] <upon gaining a [Anti-Tank Gun] unit> <after adopting [Call of the Heavens]>",
+        "Instantly provides [1] [Aluminum] <upon gaining a [Modern Armor] unit> <after adopting [Call of the Heavens]>",
+        "Instantly provides [1] [Uranium] <upon gaining a [Giant Death Robot] unit> <after adopting [Call of the Heavens]>",
         
         // the rest 
         "[1] free [Spearman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><before the [Classical era]><hidden from users>",
