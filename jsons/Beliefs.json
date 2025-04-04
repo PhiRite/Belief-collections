@@ -8,7 +8,7 @@
   },
   {
         "name": "Holy Crusade",
-        "type": "Follower",
+        "type": "Founder",
         "uniques": [
                     "May buy [Melee] units with [Faith] for [2] times their normal Production cost",
                     "May buy [Great General] units for [1000] [Faith] [in your cities]",
@@ -26,7 +26,7 @@
   },
   {
         "name": "Zealotry",
-        "type": "Follower",
+        "type": "Founder",
         "uniques": ["Empire enters a [8]-turn Golden Age <upon declaring war with a major Civilization>",
                     "Comment [Zealot units have a chance to do a final act of sacrifice, dealing dmg to units that kill them]",
                     "Comment [Military units heal 15 hp every kill, gain more xp, gains more strength when defending, have no wounded dmg penalty]",
@@ -45,7 +45,7 @@
   },
   {
         "name": "Call of the Heavens",
-        "type": "Follower",
+        "type": "Founder",
         "uniques": ["Comment [Cost of purchasing items is reduced based on Era until Renaissance(up to 40%)]",
                     "Comment [Attacks burn target for 2 turns]",
                     "[Faith] cost of purchasing items in cities [-5]% <starting from the [Ancient era]> <hidden from users>",
@@ -65,7 +65,7 @@
   },
   {
         "name": "Warp Summons",
-        "type": "Follower",
+        "type": "Founder",
         "uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost",
                     "May buy [{Civilian} {non-[Great Person]} {non-[Religious]}] units with [Faith] for [4] times their normal Production cost",
                     "May buy [{Religious} {non-[Great Person]}] units for [100] [Faith] [in your cities]",
@@ -76,7 +76,7 @@
                     "Comment [Melee units can use Blood Offering, having infinite attacks and more moves but taking more dmg for each attack]",
                     //"Comment [Base religious units can stay still and pray for more sight, it overwhelms them after 5 turns...]",
                     "All newly-trained [All] units [in your cities] receive the [Warp Corruption] promotion <hidden from users>",
-                    "All newly-trained [Land] units [in your cities] receive the [Thirst] promotion <hidden from users> <in [non-[Foreign]] cities>",
+                    "All newly-trained [Land] units [in your cities] receive the [Thirst] promotion <hidden from users>",
                     "All newly-trained [Religious] units [in your cities] receive the [Warp Corruption] promotion <hidden from users>",
                     "All newly-trained [{Religious} {Great Person}] units [in your cities] receive the [Warp Corruption] promotion <hidden from users>",
                     //"All newly-trained [Religious] units [in your cities] receive the [Chaos Ritual] promotion <hidden from users>",
