@@ -49,7 +49,7 @@
         "[1] Unit Supply per [2] population [in all cities] <before adopting [Call of the Heavens]>",
         "[1] Unit Supply per [3] population [in all cities] <after adopting [Call of the Heavens]>",
         "[+1 Faith] <for every [[Worshipper] Units]> <after adopting [Call of the Heavens]>",
-        "[+2 Faith] <for every [[Support] Units]> <after adopting [Call of the Heavens]>",
+        "[+2 Faith, +1 Happiness] <for every [[Support] Units]> <after adopting [Call of the Heavens]>",
         "[+2 Faith] <for every [[Saint] Units]> <after adopting [Call of the Heavens]>",
         "[+1 Food] [in your cities] <for every [2] [[Worshipper] Units]> <after adopting [Call of the Heavens]>",
         "[+1 Food] [in your cities] <for every [[Support] Units]> <after adopting [Call of the Heavens]>",
@@ -63,6 +63,8 @@
         
         //Crusade
         "[Great General] is earned [+20]% faster <when at war> <after adopting [Holy Crusade]>",
+        "[+1 Happiness] <for every [[Holy Blessing] Units]> <after adopting [Holy Crusade]>",
+        "[+1 Happiness] <for every [[Holy Blessing] Units]> <when at war> <after adopting [Holy Crusade]>",
 
         
         
