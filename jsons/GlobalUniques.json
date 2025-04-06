@@ -56,6 +56,7 @@
         "[+1 Faith] <for every [[Worshipper] Units]> <after adopting [Call of the Heavens]>",
         "[+2 Faith] <for every [[Support] Units]> <after adopting [Call of the Heavens]>",
         "[+2 Faith] <for every [[Saint] Units]> <after adopting [Call of the Heavens]>",
+        "[1] Unit Supply <for every [Owned [Holy site] Tiles]> <after adopting [Call of the Heavens]>",
         
         //Zealots
         "[+1 Faith] per every [15] [Faith]",
