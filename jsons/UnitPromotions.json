@@ -210,6 +210,7 @@
 		 "[This Unit] gains [5] XP <upon turn end> <when adjacent to a [{Religious} {Great Person}] unit> <hidden from users>",
 		 "[This Unit] gains [3] XP <upon turn end> <when adjacent to a [{Religious} {non-[Great Person]}] unit> <hidden from users>",
 		 "[This Unit] gains [2] XP <upon turn end> <when adjacent to a [Military] unit> <hidden from users>",
+		 "[This Unit] gains [5] XP <upon turn end> <within [1] tiles of a [Holy site]> <hidden from users>",
 		 "[+1]% Strength <for every [[Worshipper] Units]> <hidden from users>",
 		 "[+2]% Strength <for every [[Disciple Prayer] Units]> <hidden from users>",
 		 "[+5]% Strength <for every [[Saint Prayer] Units]> <hidden from users>",
