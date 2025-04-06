@@ -89,6 +89,7 @@
 	"uniques": ["Instantly gain [50] [Faith] <upon being defeated>",
 	 "Heals [15] damage if it kills a unit",
 	 "[+20]% XP gained from combat",
+	 "Instantly gain [5] [Golden Age points] <when attacking>",
 	 "Earn [15]% of the damage done to [All] units as [Happiness]",
          "Earn [30]% of the damage done to [All] units as [Faith] <during a Golden Age>",
 	 "No damage penalty for wounded units"]   
