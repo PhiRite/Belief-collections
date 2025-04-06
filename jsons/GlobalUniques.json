@@ -55,11 +55,7 @@
         "[+1 Food] [in your cities] <for every [[Support] Units]> <after adopting [Call of the Heavens]>",
         "[+1 Food] [in your cities] <for every [[Saint] Units]> <after adopting [Call of the Heavens]>",
         "[1] Unit Supply <for every [Owned [Holy site] Tiles]> <after adopting [Call of the Heavens]>",
-        "Provides [1] [Iron] <upon gaining a [Swordsman] unit> <for [All] Civilizations> <after adopting [Call of the Heavens]>",
-        "Provides [1] [Iron] <upon gaining a [Longswordsman] unit> <for [All] Civilizations> <after adopting [Call of the Heavens]>",
-        "Provides [1] [Iron] <upon gaining a [Anti-Tank Gun] unit> <for [All] Civilizations> <after adopting [Call of the Heavens]>",
-        "Provides [1] [Aluminum] <upon gaining a [Modern Armor] unit> <for [All] Civilizations> <after adopting [Call of the Heavens]>",
-        "Provides [1] [Uranium] <upon gaining a [Giant Death Robot] unit> <for [All] Civilizations> <after adopting [Call of the Heavens]>",
+
         
         //Zealots
         "[+1 Faith] per every [15] [Faith]",
