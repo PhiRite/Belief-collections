@@ -214,7 +214,7 @@
 		 "[+1]% Strength <for every [[Worshipper] Units]> <hidden from users>",
 		 "[+2]% Strength <for every [[Disciple Prayer] Units]> <hidden from users>",
 		 "[+5]% Strength <for every [[Saint Prayer] Units]> <hidden from users>",
-		 "[-20]% maintenance costs"]
+		 "[-50]% maintenance costs"]
 	},
 	//cult
 	{
