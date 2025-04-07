@@ -57,6 +57,7 @@
         //Zealots
         "[+1 Faith] per every [15] [Faith]",
         "[25]% Golden Age length <after adopting [Zealotry]>",
+        "[+1 Production, +1 Food, +1 Gold, +1 Science, +1 Culture, +1 Happiness, +1 Faith] per every [100] [Faith] <during a Golden Age> <after adopting [Zealotry]>",
         
         //Crusade
         "[Great General] is earned [+50]% faster <when at war> <after adopting [Holy Crusade]>",
@@ -94,7 +95,7 @@
     "[This Unit] gains the [Blessed Sight] status for [4] turn(s) <when adjacent to a [Holy Blessing] unit> <for [Ranged] units> <upon turn end>",
     
     //Zealot stuff
-    "[This Unit] takes [25] damage <upon defeating a [True Faith] unit> <for [Melee] units> <with [50]% chance>",
+    "[This Unit] takes [25] damage <upon defeating a [True Faith] unit> <for [Melee] units> <with [70]% chance>",
     "[This Unit] gains the [True Faith] promotion <after adopting [Zealotry]> <for [Military] units>",
     "[This Unit] gains the [True Faith] promotion <upon adopting [Zealotry]> <for [Military] units>",
     "[This Unit] gains the [Undying Will] promotion <after adopting [Zealotry]> <for [Military] units>",
