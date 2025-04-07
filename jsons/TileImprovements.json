@@ -1,10 +1,17 @@
 [
-  {
-    "name": "Fort",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
-		"turnsToBuild": 6,
-		"techRequired": "Engineering",
-		"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [50]%", "Adjacent enemy units ending their turn take [10] damage <after adopting [Holy Crusade]>", 
-      "Unpillagable <after adopting [Holy Crusade]>"],
-		"shortcutKey": "O"},
+  	{
+    		"name": "Fort",
+			"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"],
+			"turnsToBuild": 6,
+			"techRequired": "Engineering",
+			"uniques": ["Can be built outside your borders", "Gives a defensive bonus of [50]%", "Adjacent enemy units ending their turn take [10] damage <after adopting [Holy Crusade]>", 
+	      			"Unpillagable <after adopting [Holy Crusade]>"],
+			"shortcutKey": "O"},
+	{
+		"name": "Holy site",
+			"terrainsCanBeBuiltOn": ["Land"],
+			"faith": 6,
+			"uniques": ["Great Improvement", "Removes removable features when built",
+	            	"Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]","[-5 Faith, +7 Science] <after adopting [Atheism]>"]
+	},
 ]
