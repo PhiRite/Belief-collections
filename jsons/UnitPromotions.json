@@ -89,6 +89,7 @@
 	"uniques": ["Instantly gain [50] [Faith] <upon being defeated>",
 	 "Heals [15] damage if it kills a unit",
 	 "[+20]% XP gained from combat",
+	 "[+30]% XP gained from combat <during a Golden Age>",
 	 "Instantly gain [5] [Golden Age points] <when attacking>",
 	 "Earn [15]% of the damage done to [All] units as [Happiness]",
          "Earn [30]% of the damage done to [All] units as [Faith] <during a Golden Age>",
@@ -97,7 +98,8 @@
 	{
 	"name": "Undying Will",
 	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <for units without [Cooldown]>",
-		"[This Unit] gains the [Cooldown] status for [2] turn(s) <hidden from users>"]
+		"[This Unit] gains the [Cooldown] status for [3] turn(s) <when not in a Golden Age> <hidden from users>",
+		"[This Unit] gains the [Cooldown] status for [1] turn(s) <during a Golden Age> <hidden from users>"]
 	},
 	{
 	"name": "Last Stand",
@@ -111,10 +113,12 @@
 	{
 	"name": "Berserk Rage",
 	"uniques": ["Comment [unit gains more attacks and moves when at low health(at 30 and 25)]",
+			"[1] additional attacks per turn <during a Golden Age>",
 			"[1] additional attacks per turn <when below [31] HP>",
 			"[1] additional attacks per turn <when below [26] HP>",
 			"Can move after attacking",
 			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [40] HP>",
+			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [51] HP> <during a Golden Age>",
 			"[This Unit] gains [1] movement <when below [26] HP>"]	
 	},
 	
