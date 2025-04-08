@@ -91,6 +91,7 @@
 	 "[+20]% XP gained from combat",
 	 "[+30]% XP gained from combat <during a Golden Age>",
 	 "Earn [20]% of the damage done to [All] units as [Golden Age points]",
+	 "Earn [30]% of the damage done to [All] units as [Golden Age points] <during a Golden Age>",
          "Earn [30]% of the damage done to [All] units as [Faith] <during a Golden Age>",
 	 "No damage penalty for wounded units"]   
 	},
