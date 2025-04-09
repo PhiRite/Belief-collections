@@ -97,7 +97,7 @@
 	},
 	{
 	"name": "Undying Will",
-	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <for units without [Cooldown]>",
+	"uniques": ["[This Unit] heals [40] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <for units without [Cooldown]>",
 		"[This Unit] gains the [Cooldown] status for [3] turn(s) <when not in a Golden Age> <hidden from users>",
 		"[This Unit] gains the [Cooldown] status for [1] turn(s) <during a Golden Age> <hidden from users>"]
 	},
@@ -117,6 +117,7 @@
 			"[1] additional attacks per turn <when below [31] HP>",
 			"[1] additional attacks per turn <when below [26] HP>",
 			"Can move after attacking",
+			"[This Unit] heals [10] HP <upon damaging a [All] unit> <when below [51] HP>",
 			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [40] HP>",
 			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [51] HP> <during a Golden Age>",
 			"[This Unit] gains [1] movement <when below [26] HP>"]	
