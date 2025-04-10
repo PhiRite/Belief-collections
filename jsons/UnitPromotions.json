@@ -207,8 +207,8 @@
 	{
 	"name": "Worshipper",
 	"uniques": ["[15]% Strength when stacked with [Religious]",
-		"[+15]% Strength <when adjacent to a [Worshipper] unit>",
-		"[50]% Strength when stacked with [Religious] <when defending>",
+		"[+10]% Strength <when adjacent to a [Worshipper] unit>",
+		"[35]% Strength when stacked with [Religious] <when defending>",
 		"[This Unit] heals [10] HP <upon turn end> <when adjacent to a [Religious] unit>",
 	         "Can move immediately once bought",
 		 "[This Unit] gains [3] movement",
@@ -218,9 +218,9 @@
 		 "[This Unit] gains [2] XP <upon turn end> <when adjacent to a [Military] unit> <hidden from users>",
 		 "[This Unit] gains [5] XP <upon turn end> <upon ending a turn in a [Holy site] tile> <hidden from users>",
 		 "[+1]% Strength <for every [3] [[Worshipper] Units]> <hidden from users>",
-		 "[+2]% Strength <for every [2] [[Disciple Prayer] Units]> <hidden from users>",
-		 "[+5]% Strength <for every [1] [[Saint Prayer] Units]> <hidden from users>",
-		 "[-50]% maintenance costs"]
+		 "[+1]% Strength <for every [2] [[Disciple Prayer] Units]> <hidden from users>",
+		 "[+1]% Strength <for every [1] [[Saint Prayer] Units]> <hidden from users>",
+		 "[-25]% maintenance costs"]
 	},
 	//cult
 	{
