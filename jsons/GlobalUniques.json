@@ -108,7 +108,7 @@
     //warp stuff
     "[This Unit] gains the [Warp Rush] status for [5] turn(s) <upon gaining the [Abyssal Grasp] promotion>",
     "[This Unit] gains the [Warp Rush] status for [5] turn(s) <upon gaining the [Corporeal] promotion>",
-    "[This Unit] takes [5] damage <when adjacent to a [Warp Corruption] unit> <upon turn end> <before adopting [Warp Corruption]>",
+    "[This Unit] takes [5] damage <when adjacent to a [Warp Corruption] unit> <upon turn end> <for units without [Warp Corruption]>",
     "[This Unit] gains the [Warp Corruption] promotion <after adopting [Warp Summons]>",
     "[This Unit] gains the [Warp Corruption] promotion <upon adopting [Warp Summons]>",
     "[This Unit] gains the [Thirst] promotion <after adopting [Warp Summons]> <for [Land] units>",
