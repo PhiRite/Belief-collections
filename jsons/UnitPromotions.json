@@ -66,10 +66,10 @@
 	"name": "Thirst",
 	"uniques": ["Comment [Height of pleasures...]",
 			"Comment [Unit will give happiness if hp is lower than 70 and 40]",
-			"[This Unit] gains the [Pleasure] promotion <when below [71] HP> <hidden from users>",
-			"[This Unit] loses the [Pleasure] promotion <when above [70] HP> <hidden from users>",
-			"[This Unit] gains the [Pain] promotion <when below [41] HP> <hidden from users>",
-			"[This Unit] loses the [Pain] promotion <when above [40] HP> <hidden from users>",]
+			"[This Unit] gains the [Pleasure] promotion <when below [81] HP> <hidden from users>",
+			"[This Unit] loses the [Pleasure] promotion <when above [80] HP> <hidden from users>",
+			"[This Unit] gains the [Pain] promotion <when below [61] HP> <hidden from users>",
+			"[This Unit] loses the [Pain] promotion <when above [60] HP> <hidden from users>",]
 	},
 	{
 	"name": "Pleasure",
