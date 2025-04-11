@@ -1,4 +1,11 @@
 [
+	//gen stuff
+	{
+	"name": "Innocentia Nihil Probat",
+	"uniques": ["Can remove other religions from cities <in [Friendly] tiles> <for [2] movement>"]
+	},
+
+	
 	//warp summons 
 	
 	{
