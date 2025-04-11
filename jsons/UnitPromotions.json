@@ -32,7 +32,7 @@
 	{
 	"name": "Bloodletter",
 	"uniques": ["Comment [SPILL THEIR BLOOD!]", "[5] Movement",
-		"[+1]% Strength <hidden from users>", "Can move after attacking",
+		"Ignores terrain cost", "Can move after attacking",
 		"[99] additional attacks per turn", "No damage penalty for wounded units",
 		"[This Unit] takes [15] damage <upon damaging a [All] unit>",
 		"[This Unit] gains [2] movement <upon damaging a [All] unit>",
