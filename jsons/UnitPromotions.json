@@ -66,7 +66,8 @@
 	{
 	"name": "Thirst",
 	"uniques": ["Comment [Height of pleasures...]",
-			"Comment [Unit will give happiness if hp is lower than 70 and 40]",
+			"Comment [Unit will give happiness if hp is lower than 80 and 60]",
+			"[This Unit] takes [5] damage <upon turn end> <when above [80] HP> <when not at war>",
 			"[This Unit] gains the [Pleasure] promotion <when below [81] HP> <hidden from users> <upon turn end>",
 			"[This Unit] loses the [Pleasure] promotion <when above [80] HP> <hidden from users> <upon turn end>",
 			"[This Unit] gains the [Pain] promotion <when below [61] HP> <hidden from users> <upon turn end>",
