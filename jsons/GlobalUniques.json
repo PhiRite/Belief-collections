@@ -85,8 +85,9 @@
     ],
     "unitUniques": [
 
-    //globalshit
+    //globul
     "[This Unit] gains the [Innocentia Nihil Probat] promotion <upon turn end> <for [Inquisitor] units>",
+    "[This Unit] gains the [Innocentia Nihil Probat] promotion <upon turn start> <for [Inquisitor] units>",
         
     //crusade stuff
     "[Great General] units gain the [Holy Blessing] promotion <after adopting [Holy Crusade]>",
