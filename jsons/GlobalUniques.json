@@ -41,6 +41,7 @@
         //warp
         "[+1 Happiness, +1 Faith] <for every [2] [[Pleasure] Units]> <after adopting [Warp Summons]>",
         "[+1 Happiness, +2 Faith] <for every [[Pain] Units]> <after adopting [Warp Summons]>",
+        "[+1 Happiness, +3 Faith] <for every [[Warp Rush] Units]> <after adopting [Warp Summons]>",
         "[1] population [in this city] <upon founding a city> <after adopting [Warp Summons]>",
         "[+1 Happiness] [in this city] <upon founding a city> <after adopting [Warp Summons]>",
         
