@@ -67,9 +67,9 @@
   {
         "name": "Warp Summons",
         "type": "Founder",
-        "uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost",
-                    "May buy [{Civilian} {non-[Great Person]} {non-[Religious]}] units with [Faith] for [4] times their normal Production cost",
-                    "May buy [{Religious} {Great Person}] units for [1000] [Faith] [in your cities]",
+        "uniques": ["May buy [Military] units with [Faith] for [1] times their normal Production cost",
+                    "May buy [{Civilian} {non-[Great Person]} {non-[Religious]}] units with [Faith] for [2] times their normal Production cost",
+                    "May buy [{Religious} {Great Person}] units for [750] [Faith] [in your cities]",
                     "Comment [All uniits can 'teleport' to 5 tiles out of your cities]",
                     "Comment [Ranged units have a chance to dodge melee attacks]",
                     "Comment [Melee units get the blessings of nurgle, weakening all nearby units and wounded units more]",
