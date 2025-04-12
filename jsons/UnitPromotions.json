@@ -65,8 +65,7 @@
 	},
 	{
 	"name": "Marker",
-	"uniques": ["Can instantly construct a [Fort] improvement <for [2] movement> <for units without [Cooldown]>",
-			"[This Unit] gains the [Cooldown] status for [2] turn(s) <upon ending a turn in a [Fort] tile> <hidden from users>"]
+	"uniques": ["Can build [Fort] improvements at a [+100]% rate"]
 	},
 	{
 	"name": "Thirst",
