@@ -71,7 +71,6 @@
                     "May buy [{Civilian} {non-[Great Person]} {non-[Religious]}] units with [Faith] for [2] times their normal Production cost",
                     "May buy [{Religious} {Great Person}] units for [750] [Faith] [in your cities]",
                     "[+5]% [Faith] from every follower, up to [+100]% <hidden from users>",
-                    
                     "Comment [All uniits can 'teleport' to 5 tiles out of your cities]",
                     "Comment [Ranged units have a chance to dodge melee attacks]",
                     "Comment [Melee units get the blessings of nurgle, weakening all nearby units and wounded units more]",
@@ -80,6 +79,8 @@
                     "All newly-trained [Land] units [in your cities] receive the [Thirst] promotion <hidden from users>",
                     "All newly-trained [Religious] units [in your cities] receive the [Warp Corruption] promotion <hidden from users>",
                     "All newly-trained [{Religious} {Great Person}] units [in your cities] receive the [Warp Corruption] promotion <hidden from users>",
+                    "All newly-trained [Religious] units [in your cities] receive the [Marker] promotion <hidden from users>",
+                    "All newly-trained [{Religious} {Great Person}] units [in your cities] receive the [Marker] promotion <hidden from users>",
                     "All newly-trained [Melee] units [in your cities] receive the [Plague Bringer] promotion <hidden from users>",
                     "All newly-trained [Melee] units [in your cities] receive the [Blood Offering] promotion <hidden from users>",
                     "All newly-trained [Ranged] units [in your cities] receive the [Corporeal] promotion <hidden from users>",
