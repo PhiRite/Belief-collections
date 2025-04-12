@@ -65,7 +65,7 @@
 	},
 	{
 	"name": "Marker",
-	"uniques": ["Can build [Fort] improvements at a [-50]% rate",
+	"uniques": ["Can build [Fort] improvements at a [+100]% rate",
 			"Can build [Fort] improvements on tiles",]
 	},
 	{
