@@ -65,7 +65,8 @@
 	},
 	{
 	"name": "Marker",
-	"uniques": ["Can instantly construct a [Fort] improvement <costs [25] [Faith]> <for all movement>"]
+	"uniques": ["Can build [Fort] improvements at a [+200]% rate",
+			"Can build [Fort] improvements on tiles",]
 	},
 	{
 	"name": "Thirst",
