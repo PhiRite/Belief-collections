@@ -136,6 +136,7 @@
 	"name": "Unending Crusade",
 	"uniques": ["Earn [50]% of the damage done to [All] units as [Faith]",
 		 "[+1]% Strength <for every [25] [Faith]>",
+		 "[This Unit] Instantly gain [-25] [Faith] <upon being defeated>",
 		 "Prevents spreading of religion to the city it is next to",
 	         "[This Unit] heals [5] HP <when below [71] HP> <when above [50] [Faith]> <upon turn end>",
 	         "[This Unit] heals [5] HP <when below [71] HP> <when above [75] [Faith]> <upon turn end>",
@@ -202,6 +203,7 @@
 	{
 	"name": "Saint Prayer",
 	"uniques": ["Comment [Will Heal all adjacent units by 50 HP on turn end when activated]",
+		"[+15]% Strength bonus for [Military] units within [2] tiles",
 		"[This Unit] gains the [Saint Aura] status for [1] turn(s) <for [0] movement> <costs [+125 Faith] stats> <for units without [Cooldown]> <hidden from users>",
 		"[This Unit] gains the [Cooldown] status for [3] turn(s) <upon gaining the [Saint Aura] status> <hidden from users>"]
 	},
@@ -227,7 +229,9 @@
 		 "[+1]% Strength <for every [3] [[Worshipper] Units]> <hidden from users>",
 		 "[+1]% Strength <for every [2] [[Disciple Prayer] Units]> <hidden from users>",
 		 "[+1]% Strength <for every [1] [[Saint Prayer] Units]> <hidden from users>",
-		 "[-25]% maintenance costs"]
+		 "[-25]% maintenance costs",
+		 "[This Unit] heals [50] HP <when adjacent to a [Saint Aura] unit> <upon turn end>",
+    		 "[This Unit] heals [25] HP <when adjacent to a [Disciple Aura] unit> <upon turn end>",]
 	},
 	//cult
 	{
