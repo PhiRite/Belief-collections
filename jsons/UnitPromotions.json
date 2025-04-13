@@ -98,9 +98,9 @@
 	},
 	{
 	"name": "Undying Will",
-	"uniques": ["[This Unit] heals [40] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <for units without [Cooldown]>",
-		"[This Unit] gains the [Cooldown] status for [3] turn(s) <when not in a Golden Age> <hidden from users>",
-		"[This Unit] gains the [Cooldown] status for [1] turn(s) <during a Golden Age> <hidden from users>"]
+	"uniques": ["[This Unit] heals [25] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <once> <for units without [Cooldown]>",
+		"[This Unit] gains the [Cooldown] status for [3] turn(s) <upon losing at least [1] HP in a single attack> <when below [30] HP> <when not in a Golden Age> <hidden from users>",
+		"[This Unit] gains the [Cooldown] status for [2] turn(s) <upon losing at least [1] HP in a single attack> <when below [30] HP> <during a Golden Age> <hidden from users>"]
 	},
 	{
 	"name": "Last Stand",
