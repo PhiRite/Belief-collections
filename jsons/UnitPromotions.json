@@ -124,11 +124,11 @@
 	},
 	{
 	"name": "Undying I",
-	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <[2] times>",
+	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <[2] times>",]
 	},
 	{
 	"name": "Undying II",
-	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <[3] times>",
+	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <[3] times>",]
 	},
 	//Crusade
 	
