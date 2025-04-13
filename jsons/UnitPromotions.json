@@ -21,8 +21,9 @@
 	},
 	{
 	"name": "Corporeal",
-	"uniques": ["Invisible to non-adjacent units", 
-		 "Withdraws before melee combat <with [40]% chance>"]
+	"uniques": ["Invisible to non-adjacent units",
+		 "[1] additional attacks per turn", "[This Unit] takes [5] damage <upon damaging a [All] unit>",
+		 "Withdraws before melee combat <with [60]% chance>"]
 	},
 	{
 	"name": "Warp Rush",
@@ -38,11 +39,11 @@
 	},
 	{
 	"name": "Bloodletter",
-	"uniques": ["Comment [SPILL THEIR BLOOD!]", "[5] Movement",
+	"uniques": ["Comment [SPILL THEIR BLOOD!]", "[4] Movement",
 		"Ignores terrain cost", "Can move after attacking",
 		"[99] additional attacks per turn", "No damage penalty for wounded units",
-		"[This Unit] takes [5] damage <upon damaging a [All] unit>",
-		"[This Unit] gains [4] movement <upon damaging a [All] unit>",
+		"[This Unit] takes [10] damage <upon damaging a [All] unit>",
+		"[This Unit] gains [3] movement <upon damaging a [All] unit>",
 		"[This Unit] gains [4] movement <upon defeating a [All] unit>",
 		"Heals [30] damage if it kills a unit",
 		"Gain [15] [Faith] <upon defeating a [All] unit>",]
@@ -55,17 +56,11 @@
 		 "[-5]% Strength for enemy [All] units in adjacent [All] tiles",
 		 "Destroys tile improvements when attacking"]
 	},
-	{
-	"name": "Chaos Ritual",
-	"uniques": ["Comment [He sees and knows all...]",
-		 "Comment [This unit begins praying and gains more sight per turn, it seems too mich for them...]",
-		 "[This Unit] gains the [All Seeing Eyes] status for [3] turn(s) <costs [+100 Faith] stats> <for [0] movement> <for units without [Cooldown]> <hidden from users> <after which this unit is consumed>",
-		 "[This Unit] gains the [Cooldown] status for [5] turn(s) <upon gaining the [All Seeing Eyes] status> <hidden from users>",]
-		 
 	},
 	{
 	"name": "Marker",
-	"uniques": ["Can instantly construct a [Fort] improvement <costs [+25 Faith] stats> <for all movement> <for units without [Cooldown]>",
+	"uniques": ["Comment [Creates Forts]",
+		"Can instantly construct a [Fort] improvement <costs [+25 Faith] stats> <for all movement> <for units without [Cooldown]>",
 			"[This Unit] gains the [Cooldown] status for [2] turn(s) <upon ending a turn in a [Fort] tile> <hidden from users>",]
 	},
 	{
