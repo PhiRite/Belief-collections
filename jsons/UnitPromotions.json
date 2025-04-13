@@ -98,9 +98,8 @@
 	},
 	{
 	"name": "Undying Will",
-	"uniques": ["[This Unit] heals [25] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <once> <for units without [Cooldown]>",
-		"[This Unit] gains the [Cooldown] status for [3] turn(s) <upon losing at least [1] HP in a single attack> <when below [30] HP> <when not in a Golden Age> <hidden from users>",
-		"[This Unit] gains the [Cooldown] status for [2] turn(s) <upon losing at least [1] HP in a single attack> <when below [30] HP> <during a Golden Age> <hidden from users>"]
+	"uniques": ["[This Unit] gains the [Undying I] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [30] HP> <when not in a Golden Age> <hidden from users>",
+		"[This Unit] gains the [Undying II] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [30] HP> <during a Golden Age> <hidden from users>"]
 	},
 	{
 	"name": "Last Stand",
@@ -123,7 +122,14 @@
 			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [51] HP> <during a Golden Age>",
 			"[This Unit] gains [1] movement <when below [26] HP>"]	
 	},
-	
+	{
+	"name": "Undying I",
+	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <[2] times>",
+	},
+	{
+	"name": "Undying II",
+	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <when below [30] HP> <[3] times>",
+	},
 	//Crusade
 	
 	{
