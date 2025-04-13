@@ -56,7 +56,6 @@
 		 "[-5]% Strength for enemy [All] units in adjacent [All] tiles",
 		 "Destroys tile improvements when attacking"]
 	},
-	},
 	{
 	"name": "Marker",
 	"uniques": ["Comment [Creates Forts]",
