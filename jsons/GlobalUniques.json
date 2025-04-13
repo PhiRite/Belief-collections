@@ -45,7 +45,7 @@
         "[+1 Happiness] [in this city] <upon founding a city> <after adopting [Warp Summons]>",
         "[100]% Natural religion spread [in your cities] <after adopting [Warp Summons]>",
         "Religion naturally spreads to cities [3] tiles away <after adopting [Warp Summons]>",
-        "[+100 Faith] <for every [[Warp Corruption] Units]> <after adopting [Warp Summons]>",
+        //"[+100 Faith] <for every [[Warp Corruption] Units]> <after adopting [Warp Summons]>",
         
         //call of the heavens
         "[-30]% XP required for promotions <after adopting [Call of the Heavens]>",
