@@ -124,12 +124,12 @@
 	},
 	{
 	"name": "Undying II",
-	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <for units without [Undying II]> <when below [25] HP>",]
+	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <for units without [Undying II]> <when below [25] HP>",
 	            "[This Unit] gains the [Undying III] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [25] HP>"]
 	},
 	{
 	"name": "Undying III",
-	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <for units without [Cooldown]> <during a Golden Age> <when below [25] HP>",]
+	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <for units without [Cooldown]> <during a Golden Age> <when below [25] HP>",
 	            "[This Unit] gains the [Cooldown] status for [2] turn(s) <upon losing at least [1] HP in a single attack> <when below [25] HP>"]
 	},
 	//Crusade
