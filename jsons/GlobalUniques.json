@@ -28,7 +28,7 @@
         "[1] free [Giant Death Robot] units appear <upon gaining a [{Religious} {Great Person}] unit> <after adopting [Call of the Heavens]><during the [Information era]><with [30]% chance><hidden from users>",				
 
         // the rest 
-        "[1] free [Spearman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><<hidden from users>",
+        "[1] free [Spearman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Ancient era]><hidden from users>",
         "[1] free [Swordsman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Classical era]><hidden from users>",
         "[1] free [Longswordsman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Medieval era]><hidden from users>",
         "[1] free [Musketman] units appear <upon gaining a [{Religious} {non-[Great Person]}] unit> <after adopting [Call of the Heavens]><during the [Renaissance era]><hidden from users>",
@@ -54,7 +54,7 @@
         "[+1 Faith] <for every [3] [[Worshipper] Units]> <after adopting [Call of the Heavens]>",
         "[+1 Faith, +1 Happiness] <for every [2] [[Support] Units]> <after adopting [Call of the Heavens]>",
         "[+1 Faith] <for every [[Saint] Units]> <after adopting [Call of the Heavens]>",
-        "[1] Unit Supply <for every [Owned [Holy site] Tiles]> <after adopting [Call of the Heavens]>",
+        //"[1] Unit Supply <for every [Owned [Holy site] Tiles]> <after adopting [Call of the Heavens]>",
 
         
         //Zealots
