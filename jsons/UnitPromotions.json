@@ -97,11 +97,6 @@
 	 "No damage penalty for wounded units"]   
 	},
 	{
-	"name": "Undying Will",
-	"uniques": ["[This Unit] gains the [Undying I] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [30] HP> <when not in a Golden Age> <hidden from users>",
-		"[This Unit] gains the [Undying II] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [30] HP> <during a Golden Age> <hidden from users>"]
-	},
-	{
 	"name": "Last Stand",
 	"uniques": ["Comment [unit gains strength when below 50 hp (up to 20% until 30 hp and 30% for 20 hp)]",
 			"[+5]% Strength <when below [50] HP> <hidden from users>",
@@ -123,19 +118,19 @@
 			"[This Unit] gains [1] movement <when below [26] HP>"]	
 	},
 	{
-	"name": "Undying I",
-	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <for units without [Undying II]> <when below [25] HP>",
-	            "[This Unit] gains the [Undying II] status for [1] turn(s)"]
+	"name": "Undying Will",
+	"uniques": ["[This Unit] heals [30] HP <upon losing at least [1] HP in a single attack> <for units without [Undying II]> <for units without [Cooldown]> <when below [25] HP>",
+	            "[This Unit] gains the [Undying II] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [25] HP>"]
 	},
 	{
 	"name": "Undying II",
 	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <for units without [Undying II]> <when below [25] HP>",]
-	            "[This Unit] gains the [Undying III] status for [1] turn(s)"]
+	            "[This Unit] gains the [Undying III] status for [1] turn(s) <upon losing at least [1] HP in a single attack> <when below [25] HP>"]
 	},
 	{
 	"name": "Undying III",
 	"uniques": ["[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack> <for units without [Cooldown]> <during a Golden Age> <when below [25] HP>",]
-	            "[This Unit] gains the [Cooldown] status for [1] turn(s)"]
+	            "[This Unit] gains the [Cooldown] status for [2] turn(s) <upon losing at least [1] HP in a single attack> <when below [25] HP>"]
 	},
 	//Crusade
 	
