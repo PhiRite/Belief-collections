@@ -137,6 +137,7 @@
     //atheist
     "[Target Unit] instantly gain [-5] [Faith] <when attacking> <for [Atheist] units>",
     "[Target Unit] instantly gain [-25] [Faith] <upon defeating a [All] unit> <for [Atheist] units>",
+    "[This Unit] gains the [Atheist] promotion <after adopting [Non Believers]> <upon turn end>",
     ]
     
 }
