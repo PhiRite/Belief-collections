@@ -111,6 +111,7 @@
                     "May buy [Great Scientist] units for [1250] [Faith] [in your cities]",
                     "[Gold] cost of purchasing items in cities [-50]%",
                     "[+100]% Natural religion spread [in cities following this religion]",
+                    "[+100]% Natural religion spread [in your cities]",
                     "All newly-trained [All] units [in your cities] receive the [Atheist] promotion <hidden from users>",
                     "[+2 Production, +1 Science, -2 Faith, +1 Culture] from all [Faith] buildings",
                     "[+1 Production, +1 Science, +1 Culture] from all [Science] buildings",
@@ -124,7 +125,8 @@
                     "Comment [!!!PLEASE READ, YOU HAVE TO CHOOSE /Atheism/ Founder AS SOON AS THE FREE PROPHET APPEARS!!!]",
                     "Comment [!!!YOU CAN TECHINCALLY CHOOSE OTHER FOUNDERS BUT RELIGION WILL BE WEAK!!!]",
                     "Comment [!!!JUST CRY IF YOU SOMEHOW MISCLICK AND AVOID ATHEISM!!!]",
-                    "Only available <for [Human player] Civilizations>"]
+                    "Only available <for [Human player] Civilizations>",
+                    "Religion naturally spreads to cities [+3] tiles away"]
   },
   
 
