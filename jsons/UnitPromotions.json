@@ -261,7 +261,7 @@
 		    "Can move immediately once bought",
 		    "[This Unit] gains [2] movement",
 		    "[This Unit] gains the [Oonga Bunga] promotion <starting from the [Ancient era]>",
-		    "[This Unit] gains the [Enjoy the Classics] promotion <starting from the [Classical era]> <upon turn start>",
+		    "[This Unit] gains the [Enjoy the Classics] promotion <starting from the [Classical era]> <upon entering a [All] tile>",
 		    "[This Unit] gains the [Peasant Life] promotion <starting from the [Medieval era]> <upon turn end>",
 		    "[This Unit] gains the [Artist not a Painter] promotion <starting from the [Renaissance era]> <upon turn end>",
 		    "[This Unit] gains the [Mass Production] promotion <starting from the [Industrial era]> <upon turn end>",
