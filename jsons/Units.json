@@ -15,4 +15,19 @@
 		"movement": 2,
 		"religiousStrength": 1000
 	},
+	{
+		"name": "Great Teacher",
+		"unitType": "Civilian",
+		"uniques": [
+            		"Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
+			"Removes other religions when spreading religion",
+			"Can hurry technology research", "Can speed up construction of a building",
+            		"Can instantly construct a [Academy] improvement <by consuming this unit>",
+			"Unbuildable", "Uncapturable",
+      			"May enter foreign tiles without open borders", "Great Person - [Science]",
+      			"Unbuildable", "Religious Unit", "Takes your religion over the one in their birth city"],
+		"movement": 2,
+		"cost": 500,
+		"religiousStrength": 1000
+	},
 ]
