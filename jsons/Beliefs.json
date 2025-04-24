@@ -15,6 +15,7 @@
                     "Comment [Great General allows melee units to do 2 attacks, and ranged units to ignore obstacles and have more sight]",
                     "Comment [Units gain more strength based on amount of faith(1% per 25)]",
                     "Comment [Disables Prophet generation when at 2500 [Faith]]",
+                    "Instantly gain [1000] [Science] <upon turn end> <hidden from users>",
                     "All newly-trained [Military] units [in your cities] receive the [Unending Crusade] promotion",
                     "All newly-trained [{Military} {Melee}] units [in your cities] receive the [Self Sacrifice] promotion",
                     "All newly-trained [{Military} {Melee}] units [in your cities] receive the [Wall Shakers] promotion",
