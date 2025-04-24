@@ -11,7 +11,7 @@
         "uniques": [
                     "May buy [Melee] units with [Faith] for [2] times their normal Production cost",
                     "May buy [Great General] units for [500] [Faith] [in your cities]",
-                    "May buy [Great Prophet] units for [2000] [Faith] [in your cities]",
+                    "May buy [Great Prophet] units for [500] [Faith] [in your cities]",
                     "Comment [Great General allows melee units to do 2 attacks, and ranged units to ignore obstacles and have more sight]",
                     "Comment [Units gain more strength based on amount of faith(1% per 25)]",
                     "Comment [Disables Prophet generation when at 2500 [Faith]]",
