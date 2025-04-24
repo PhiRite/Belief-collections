@@ -22,7 +22,8 @@
                     "Only available <before adopting [Zealotry]>",
                     "Only available <before adopting [Call of the Heavens]>",
                     "Only available <before adopting [Warp Summons]>",
-                    "Only available <before adopting [Atheism]>"]
+                    "Only available <before adopting [Atheism]>",
+                    "May not generate great prophet equivalents naturally <when above [1000] [Faith]>",]
   },
   {
         "name": "Zealotry",
