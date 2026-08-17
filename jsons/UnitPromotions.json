@@ -109,13 +109,16 @@
 	"name": "Berserk Rage",
 	"uniques": ["Comment [unit gains more attacks and moves when at low health(at 30 and 25)]",
 			"[1] additional attacks per turn <during a Golden Age>",
+			"[1] Movement <during a Golden Age>",
 			"[1] additional attacks per turn <when below [51] HP>",
-			"[1] additional attacks per turn <when below [36] HP>",
+			"[1] Movement <when below [51] HP>",
+			"[1] additional attacks per turn <when below [36] HP>",\
+			"[1] Movement <when below [36] HP>",
 			"Can move after attacking",
 			"[This Unit] heals [10] HP <upon damaging a [All] unit> <when below [51] HP>",
-			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [40] HP>",
-			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [51] HP> <during a Golden Age>",
-			"[This Unit] gains [1] movement <when below [26] HP>"]	
+			"[This Unit] gains [1] movement <upon damaging a [All] unit> <when below [51] HP>",
+			"[This Unit] gains [1] movement <upon damaging a [All] unit> <during a Golden Age>",
+			"[This Unit] gains [1] movement <when below [36] HP>"]	
 	},
 	{
 	"name": "Undying Will",
