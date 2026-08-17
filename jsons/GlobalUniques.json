@@ -69,10 +69,10 @@
         
         
         //Atheist
-        "Double quantity of [Uranium] produced <starting from the [Atomic era]> <after adopting [Non Believers]>",
-        "Double quantity of [Oil] produced <starting from the [Industrial era]> <after adopting [Non Believers]>",
-        "Double quantity of [Coal] produced <starting from the [Industrial era]> <after adopting [Non Believers]>",
-        "Double quantity of [Aluminum] produced <starting from the [Industrial era]> <after adopting [Non Believers]>",
+        "[+100]% [Uranium] resource production <starting from the [Atomic era]> <after adopting [Non Believers]>",
+        "[+100]% [Oil] resource production <starting from the [Industrial era]> <after adopting [Non Believers]>",
+        "[+100]% [Coal] resource production <starting from the [Industrial era]> <after adopting [Non Believers]>",
+        "[+100]% [Aluminum] resource production <starting from the [Industrial era]> <after adopting [Non Believers]>",
         "Each city founded increases Science cost of Technologies [15]% less than normal <after adopting [Non Believers]>",
         "May choose [-1] additional [Follower] beliefs when [founding] a religion <after adopting [Non Believers]>",
         "Free [Great Prophet] appears <upon adopting [Non Believers]>",
