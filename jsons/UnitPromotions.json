@@ -10,7 +10,7 @@
 	
 	{
 	"name": "Warp Corruption",
-	"uniques": ["May Paradrop up to [5] tiles from inside friendly territory",
+	"uniques": ["May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>",
 		 "No damage penalty for wounded units",
 		 "[-20]% maintenance costs",
 		 "[+10]% to Flank Attack bonuses",
@@ -152,8 +152,8 @@
 	},
 	{
 	"name": "Wall Shakers",
-	"uniques": [, 
-			"[10]% Strength when stacked with [{Great Person} {Military}]",
+	"uniques": [
+			"[10]% Strength <when stacked with a [{Great Person} {Military}] unit>",
 			"[+100]% Strength <vs cities> <when attacking>",
 			"[+1]% Strength <for every [50] [Faith]>"]
 	},
@@ -219,7 +219,7 @@
 	"name": "Worshipper",
 	"uniques": ["[15]% Strength when stacked with [Religious]",
 		"[+10]% Strength <when adjacent to a [Worshipper] unit>",
-		"[15]% Strength when stacked with [Religious] <when defending>",
+		"[15]% Strength <when stacked with [Religious] unit> <when defending>",
 		"[This Unit] heals [10] HP <upon turn end> <when adjacent to a [Religious] unit>",
 	         "Can move immediately once bought",
 		 "[This Unit] gains [3] movement",
