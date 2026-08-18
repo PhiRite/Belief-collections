@@ -222,7 +222,7 @@
 	"name": "Worshipper",
 	"uniques": ["[15]% Strength when stacked with [Religious]",
 		"[+10]% Strength <when adjacent to a [Worshipper] unit>",
-		"[15]% Strength <when stacked with [Religious] unit> <when defending>",
+		"[+15]% Strength <when stacked with [Religious] unit> <when defending>",
 		"[This Unit] heals [10] HP <upon turn end> <when adjacent to a [Religious] unit>",
 	         "Can move immediately once bought",
 		 "[This Unit] gains [3] movement",
@@ -288,7 +288,7 @@
 	{
 	"name": "Oonga Bunga",
 	"uniques": ["[+15]% Strength <when defending>",
-		    "[1] movement",]
+		    "[1] Movement",]
 	},
 	{
 	"name": "Enjoy the Classics",
